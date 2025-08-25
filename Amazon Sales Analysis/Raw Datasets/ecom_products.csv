@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Subcategory,Brand,Price,Stock
+PROD0000,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,2220,298
+PROD0001,Nike Decor,Home,Decor,Nike,5642,57
+PROD0002,Reebok Laptops,Electronics,Laptops,Reebok,73874,174
+PROD0003,Apple Mobile Phones,Electronics,Mobile Phones,Apple,61750,472
+PROD0004,Levi's Outdoor,Sports,Outdoor,Levi's,4948,477
+PROD0005,Puma Laptops,Electronics,Laptops,Puma,35358,289
+PROD0006,Philips Headphones,Electronics,Headphones,Philips,65819,393
+PROD0007,LG Smart Watches,Electronics,Smart Watches,LG,17007,202
+PROD0008,LG Skincare,Beauty,Skincare,LG,629,432
+PROD0009,Philips Haircare,Beauty,Haircare,Philips,2875,367
+PROD0010,Apple Sportswear,Sports,Sportswear,Apple,15064,275
+PROD0011,Philips Laptops,Electronics,Laptops,Philips,10931,174
+PROD0012,Samsung Headphones,Electronics,Headphones,Samsung,8035,434
+PROD0013,LG Kitchen,Home,Kitchen,LG,4993,124
+PROD0014,Reebok Skincare,Beauty,Skincare,Reebok,2234,227
+PROD0015,Nike Skincare,Beauty,Skincare,Nike,2526,406
+PROD0016,Levi's Furniture,Home,Furniture,Levi's,10865,51
+PROD0017,Nike Makeup,Beauty,Makeup,Nike,2766,471
+PROD0018,Samsung Makeup,Beauty,Makeup,Samsung,1883,485
+PROD0019,Reebok Makeup,Beauty,Makeup,Reebok,1750,301
+PROD0020,Sony Furniture,Home,Furniture,Sony,8436,37
+PROD0021,LG Makeup,Beauty,Makeup,LG,318,408
+PROD0022,Nike Kids' Wear,Clothing,Kids' Wear,Nike,1483,212
+PROD0023,Samsung Men's Wear,Clothing,Men's Wear,Samsung,4847,178
+PROD0024,Reebok Men's Wear,Clothing,Men's Wear,Reebok,2825,331
+PROD0025,LG Outdoor,Sports,Outdoor,LG,3264,169
+PROD0026,Sony Women's Wear,Clothing,Women's Wear,Sony,4797,358
+PROD0027,Puma Decor,Home,Decor,Puma,11727,456
+PROD0028,Puma Women's Wear,Clothing,Women's Wear,Puma,2025,63
+PROD0029,LG Skincare,Beauty,Skincare,LG,409,298
+PROD0030,LG Mobile Phones,Electronics,Mobile Phones,LG,36646,46
+PROD0031,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4133,228
+PROD0032,Philips Outdoor,Sports,Outdoor,Philips,7433,103
+PROD0033,Nike Kids' Wear,Clothing,Kids' Wear,Nike,3606,97
+PROD0034,Samsung Outdoor,Sports,Outdoor,Samsung,7480,322
+PROD0035,Levi's Outdoor,Sports,Outdoor,Levi's,13753,336
+PROD0036,Apple Headphones,Electronics,Headphones,Apple,25011,407
+PROD0037,Apple Furniture,Home,Furniture,Apple,12311,442
+PROD0038,Philips Furniture,Home,Furniture,Philips,12877,17
+PROD0039,Levi's Sportswear,Sports,Sportswear,Levi's,7214,128
+PROD0040,Sony Kitchen,Home,Kitchen,Sony,2241,54
+PROD0041,Reebok Women's Wear,Clothing,Women's Wear,Reebok,2145,245
+PROD0042,Reebok Kitchen,Home,Kitchen,Reebok,11563,344
+PROD0043,Adidas Headphones,Electronics,Headphones,Adidas,11556,11
+PROD0044,LG Women's Wear,Clothing,Women's Wear,LG,971,372
+PROD0045,Levi's Furniture,Home,Furniture,Levi's,11601,278
+PROD0046,Reebok Furniture,Home,Furniture,Reebok,9239,406
+PROD0047,Reebok Kitchen,Home,Kitchen,Reebok,1169,184
+PROD0048,Philips Kids' Wear,Clothing,Kids' Wear,Philips,3835,229
+PROD0049,Puma Women's Wear,Clothing,Women's Wear,Puma,3927,458
+PROD0050,Levi's Women's Wear,Clothing,Women's Wear,Levi's,2859,412
+PROD0051,Samsung Skincare,Beauty,Skincare,Samsung,2069,432
+PROD0052,Philips Kitchen,Home,Kitchen,Philips,5492,477
+PROD0053,Sony Makeup,Beauty,Makeup,Sony,1619,141
+PROD0054,LG Skincare,Beauty,Skincare,LG,1936,128
+PROD0055,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,9811,68
+PROD0056,Puma Laptops,Electronics,Laptops,Puma,23484,229
+PROD0057,Levi's Haircare,Beauty,Haircare,Levi's,1013,325
+PROD0058,Samsung Smart Watches,Electronics,Smart Watches,Samsung,5703,30
+PROD0059,Philips Headphones,Electronics,Headphones,Philips,18216,38
+PROD0060,Apple Furniture,Home,Furniture,Apple,12025,405
+PROD0061,Adidas Smart Watches,Electronics,Smart Watches,Adidas,45157,292
+PROD0062,Nike Makeup,Beauty,Makeup,Nike,831,472
+PROD0063,Philips Decor,Home,Decor,Philips,4562,41
+PROD0064,Reebok Men's Wear,Clothing,Men's Wear,Reebok,2603,118
+PROD0065,Nike Makeup,Beauty,Makeup,Nike,2789,231
+PROD0066,Sony Outdoor,Sports,Outdoor,Sony,1610,138
+PROD0067,Adidas Makeup,Beauty,Makeup,Adidas,2080,128
+PROD0068,Nike Mobile Phones,Electronics,Mobile Phones,Nike,10245,64
+PROD0069,Adidas Furniture,Home,Furniture,Adidas,3500,330
+PROD0070,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,8734,449
+PROD0071,Reebok Sportswear,Sports,Sportswear,Reebok,1398,47
+PROD0072,Puma Mobile Phones,Electronics,Mobile Phones,Puma,30340,243
+PROD0073,Nike Outdoor,Sports,Outdoor,Nike,19919,282
+PROD0074,Nike Mobile Phones,Electronics,Mobile Phones,Nike,23331,124
+PROD0075,Levi's Smart Watches,Electronics,Smart Watches,Levi's,62004,133
+PROD0076,Reebok Makeup,Beauty,Makeup,Reebok,1018,419
+PROD0077,Puma Kids' Wear,Clothing,Kids' Wear,Puma,2732,328
+PROD0078,Apple Kitchen,Home,Kitchen,Apple,5281,30
+PROD0079,Reebok Mobile Phones,Electronics,Mobile Phones,Reebok,69621,201
+PROD0080,Reebok Kitchen,Home,Kitchen,Reebok,2226,447
+PROD0081,LG Outdoor,Sports,Outdoor,LG,18165,110
+PROD0082,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,15126,499
+PROD0083,LG Kitchen,Home,Kitchen,LG,12181,263
+PROD0084,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,19405,440
+PROD0085,LG Haircare,Beauty,Haircare,LG,2805,339
+PROD0086,Reebok Decor,Home,Decor,Reebok,8149,12
+PROD0087,Nike Sportswear,Sports,Sportswear,Nike,16687,497
+PROD0088,LG Women's Wear,Clothing,Women's Wear,LG,2418,167
+PROD0089,LG Skincare,Beauty,Skincare,LG,1134,269
+PROD0090,LG Furniture,Home,Furniture,LG,12453,288
+PROD0091,Levi's Kitchen,Home,Kitchen,Levi's,10217,153
+PROD0092,Philips Women's Wear,Clothing,Women's Wear,Philips,4326,65
+PROD0093,Philips Sportswear,Sports,Sportswear,Philips,1181,279
+PROD0094,LG Laptops,Electronics,Laptops,LG,25209,256
+PROD0095,LG Sportswear,Sports,Sportswear,LG,9400,170
+PROD0096,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,4134,261
+PROD0097,Sony Furniture,Home,Furniture,Sony,11686,155
+PROD0098,Apple Furniture,Home,Furniture,Apple,7787,95
+PROD0099,Nike Headphones,Electronics,Headphones,Nike,59793,187
+PROD0100,LG Sportswear,Sports,Sportswear,LG,13686,434
+PROD0101,Philips Makeup,Beauty,Makeup,Philips,566,55
+PROD0102,Nike Kitchen,Home,Kitchen,Nike,5976,141
+PROD0103,Reebok Sportswear,Sports,Sportswear,Reebok,19344,99
+PROD0104,Apple Makeup,Beauty,Makeup,Apple,2168,498
+PROD0105,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,3419,94
+PROD0106,Nike Kids' Wear,Clothing,Kids' Wear,Nike,1409,11
+PROD0107,Nike Headphones,Electronics,Headphones,Nike,13018,294
+PROD0108,Reebok Makeup,Beauty,Makeup,Reebok,2056,38
+PROD0109,Philips Skincare,Beauty,Skincare,Philips,1540,38
+PROD0110,Nike Makeup,Beauty,Makeup,Nike,1676,217
+PROD0111,Adidas Skincare,Beauty,Skincare,Adidas,1625,477
+PROD0112,Sony Smart Watches,Electronics,Smart Watches,Sony,60460,205
+PROD0113,Puma Outdoor,Sports,Outdoor,Puma,9963,113
+PROD0114,Nike Kitchen,Home,Kitchen,Nike,5689,147
+PROD0115,Sony Kids' Wear,Clothing,Kids' Wear,Sony,3565,45
+PROD0116,LG Decor,Home,Decor,LG,1478,208
+PROD0117,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,579,216
+PROD0118,Adidas Smart Watches,Electronics,Smart Watches,Adidas,49293,404
+PROD0119,Adidas Decor,Home,Decor,Adidas,8100,455
+PROD0120,Nike Sportswear,Sports,Sportswear,Nike,3869,45
+PROD0121,Puma Sportswear,Sports,Sportswear,Puma,9607,175
+PROD0122,Levi's Men's Wear,Clothing,Men's Wear,Levi's,3253,169
+PROD0123,Apple Women's Wear,Clothing,Women's Wear,Apple,4911,24
+PROD0124,Samsung Decor,Home,Decor,Samsung,5131,196
+PROD0125,Reebok Sportswear,Sports,Sportswear,Reebok,1648,176
+PROD0126,Apple Haircare,Beauty,Haircare,Apple,2216,318
+PROD0127,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,10874,23
+PROD0128,Reebok Decor,Home,Decor,Reebok,11238,244
+PROD0129,Apple Kids' Wear,Clothing,Kids' Wear,Apple,1218,369
+PROD0130,Samsung Men's Wear,Clothing,Men's Wear,Samsung,3055,419
+PROD0131,Apple Fitness Equipment,Sports,Fitness Equipment,Apple,16440,246
+PROD0132,Reebok Decor,Home,Decor,Reebok,2707,262
+PROD0133,Apple Women's Wear,Clothing,Women's Wear,Apple,1758,373
+PROD0134,Apple Smart Watches,Electronics,Smart Watches,Apple,66699,386
+PROD0135,Samsung Furniture,Home,Furniture,Samsung,4956,130
+PROD0136,Reebok Haircare,Beauty,Haircare,Reebok,2711,392
+PROD0137,Samsung Women's Wear,Clothing,Women's Wear,Samsung,1699,224
+PROD0138,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,2675,212
+PROD0139,Nike Makeup,Beauty,Makeup,Nike,549,4
+PROD0140,Nike Headphones,Electronics,Headphones,Nike,19874,70
+PROD0141,Adidas Kitchen,Home,Kitchen,Adidas,4420,342
+PROD0142,LG Women's Wear,Clothing,Women's Wear,LG,3291,101
+PROD0143,Samsung Furniture,Home,Furniture,Samsung,14195,162
+PROD0144,Apple Kids' Wear,Clothing,Kids' Wear,Apple,624,190
+PROD0145,Puma Furniture,Home,Furniture,Puma,8520,447
+PROD0146,Samsung Sportswear,Sports,Sportswear,Samsung,16789,0
+PROD0147,Puma Decor,Home,Decor,Puma,1350,161
+PROD0148,Apple Sportswear,Sports,Sportswear,Apple,8039,399
+PROD0149,Apple Kids' Wear,Clothing,Kids' Wear,Apple,4569,72
+PROD0150,Adidas Makeup,Beauty,Makeup,Adidas,1459,156
+PROD0151,Samsung Skincare,Beauty,Skincare,Samsung,2811,387
+PROD0152,Philips Sportswear,Sports,Sportswear,Philips,16348,39
+PROD0153,Nike Kitchen,Home,Kitchen,Nike,4737,345
+PROD0154,Puma Kitchen,Home,Kitchen,Puma,3190,269
+PROD0155,Reebok Makeup,Beauty,Makeup,Reebok,2861,245
+PROD0156,Apple Mobile Phones,Electronics,Mobile Phones,Apple,39213,280
+PROD0157,Reebok Men's Wear,Clothing,Men's Wear,Reebok,3271,103
+PROD0158,LG Kids' Wear,Clothing,Kids' Wear,LG,3163,316
+PROD0159,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,15488,347
+PROD0160,Nike Women's Wear,Clothing,Women's Wear,Nike,2865,451
+PROD0161,Levi's Makeup,Beauty,Makeup,Levi's,2183,380
+PROD0162,Adidas Skincare,Beauty,Skincare,Adidas,2759,207
+PROD0163,LG Makeup,Beauty,Makeup,LG,2047,483
+PROD0164,Nike Headphones,Electronics,Headphones,Nike,45142,5
+PROD0165,Apple Furniture,Home,Furniture,Apple,2523,468
+PROD0166,LG Laptops,Electronics,Laptops,LG,18447,422
+PROD0167,LG Decor,Home,Decor,LG,2762,290
+PROD0168,Adidas Furniture,Home,Furniture,Adidas,11740,267
+PROD0169,Apple Decor,Home,Decor,Apple,8868,14
+PROD0170,Adidas Women's Wear,Clothing,Women's Wear,Adidas,4171,437
+PROD0171,Nike Men's Wear,Clothing,Men's Wear,Nike,1206,413
+PROD0172,Philips Outdoor,Sports,Outdoor,Philips,4285,418
+PROD0173,Apple Haircare,Beauty,Haircare,Apple,2344,4
+PROD0174,Nike Women's Wear,Clothing,Women's Wear,Nike,1487,302
+PROD0175,Samsung Laptops,Electronics,Laptops,Samsung,43426,252
+PROD0176,Adidas Women's Wear,Clothing,Women's Wear,Adidas,2172,67
+PROD0177,Reebok Women's Wear,Clothing,Women's Wear,Reebok,1578,12
+PROD0178,Nike Fitness Equipment,Sports,Fitness Equipment,Nike,18276,308
+PROD0179,Adidas Haircare,Beauty,Haircare,Adidas,2122,65
+PROD0180,LG Furniture,Home,Furniture,LG,7920,231
+PROD0181,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,1740,4
+PROD0182,Sony Men's Wear,Clothing,Men's Wear,Sony,1461,137
+PROD0183,Apple Decor,Home,Decor,Apple,9712,52
+PROD0184,Philips Makeup,Beauty,Makeup,Philips,2197,322
+PROD0185,Reebok Haircare,Beauty,Haircare,Reebok,670,232
+PROD0186,LG Sportswear,Sports,Sportswear,LG,10730,360
+PROD0187,Philips Laptops,Electronics,Laptops,Philips,36071,420
+PROD0188,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4686,296
+PROD0189,Samsung Mobile Phones,Electronics,Mobile Phones,Samsung,62775,452
+PROD0190,Adidas Kitchen,Home,Kitchen,Adidas,8648,82
+PROD0191,LG Kitchen,Home,Kitchen,LG,14199,101
+PROD0192,Reebok Smart Watches,Electronics,Smart Watches,Reebok,7521,39
+PROD0193,Nike Makeup,Beauty,Makeup,Nike,2356,333
+PROD0194,Nike Laptops,Electronics,Laptops,Nike,50141,291
+PROD0195,Sony Laptops,Electronics,Laptops,Sony,39388,63
+PROD0196,Adidas Decor,Home,Decor,Adidas,13403,138
+PROD0197,Philips Furniture,Home,Furniture,Philips,1070,272
+PROD0198,Reebok Men's Wear,Clothing,Men's Wear,Reebok,3697,14
+PROD0199,Puma Haircare,Beauty,Haircare,Puma,817,232
+PROD0200,Samsung Smart Watches,Electronics,Smart Watches,Samsung,72284,487
+PROD0201,LG Smart Watches,Electronics,Smart Watches,LG,32939,306
+PROD0202,Puma Men's Wear,Clothing,Men's Wear,Puma,1134,468
+PROD0203,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,12770,54
+PROD0204,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,66452,424
+PROD0205,Puma Kitchen,Home,Kitchen,Puma,2136,297
+PROD0206,Philips Kids' Wear,Clothing,Kids' Wear,Philips,4096,35
+PROD0207,LG Furniture,Home,Furniture,LG,13220,200
+PROD0208,Puma Makeup,Beauty,Makeup,Puma,300,136
+PROD0209,Samsung Decor,Home,Decor,Samsung,12556,214
+PROD0210,LG Furniture,Home,Furniture,LG,8319,24
+PROD0211,Reebok Makeup,Beauty,Makeup,Reebok,746,357
+PROD0212,Levi's Kitchen,Home,Kitchen,Levi's,9073,251
+PROD0213,Reebok Outdoor,Sports,Outdoor,Reebok,11045,499
+PROD0214,Apple Skincare,Beauty,Skincare,Apple,779,381
+PROD0215,Sony Decor,Home,Decor,Sony,6704,47
+PROD0216,Puma Makeup,Beauty,Makeup,Puma,2280,105
+PROD0217,Nike Haircare,Beauty,Haircare,Nike,1784,404
+PROD0218,Sony Kids' Wear,Clothing,Kids' Wear,Sony,4966,228
+PROD0219,Puma Mobile Phones,Electronics,Mobile Phones,Puma,17519,37
+PROD0220,Apple Women's Wear,Clothing,Women's Wear,Apple,2209,279
+PROD0221,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,1876,387
+PROD0222,Reebok Smart Watches,Electronics,Smart Watches,Reebok,37038,265
+PROD0223,Reebok Laptops,Electronics,Laptops,Reebok,3596,254
+PROD0224,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,18664,319
+PROD0225,Adidas Kitchen,Home,Kitchen,Adidas,5955,88
+PROD0226,Apple Kitchen,Home,Kitchen,Apple,5380,162
+PROD0227,Adidas Outdoor,Sports,Outdoor,Adidas,542,343
+PROD0228,Sony Women's Wear,Clothing,Women's Wear,Sony,4821,437
+PROD0229,Puma Kids' Wear,Clothing,Kids' Wear,Puma,2738,64
+PROD0230,Philips Sportswear,Sports,Sportswear,Philips,9513,115
+PROD0231,Philips Furniture,Home,Furniture,Philips,1961,332
+PROD0232,Puma Kids' Wear,Clothing,Kids' Wear,Puma,837,47
+PROD0233,Nike Smart Watches,Electronics,Smart Watches,Nike,78372,43
+PROD0234,Sony Decor,Home,Decor,Sony,7408,412
+PROD0235,Puma Women's Wear,Clothing,Women's Wear,Puma,4155,303
+PROD0236,Puma Sportswear,Sports,Sportswear,Puma,1996,416
+PROD0237,Levi's Haircare,Beauty,Haircare,Levi's,1978,480
+PROD0238,Samsung Furniture,Home,Furniture,Samsung,10401,413
+PROD0239,Adidas Headphones,Electronics,Headphones,Adidas,51865,409
+PROD0240,Sony Skincare,Beauty,Skincare,Sony,345,267
+PROD0241,Nike Furniture,Home,Furniture,Nike,5610,332
+PROD0242,Reebok Laptops,Electronics,Laptops,Reebok,3693,2
+PROD0243,Philips Decor,Home,Decor,Philips,14822,398
+PROD0244,Reebok Furniture,Home,Furniture,Reebok,5608,453
+PROD0245,Nike Mobile Phones,Electronics,Mobile Phones,Nike,39238,309
+PROD0246,Philips Laptops,Electronics,Laptops,Philips,20987,210
+PROD0247,Reebok Sportswear,Sports,Sportswear,Reebok,9534,464
+PROD0248,Apple Decor,Home,Decor,Apple,9199,386
+PROD0249,Adidas Kitchen,Home,Kitchen,Adidas,1950,83
+PROD0250,Samsung Decor,Home,Decor,Samsung,11533,114
+PROD0251,Levi's Men's Wear,Clothing,Men's Wear,Levi's,701,38
+PROD0252,Samsung Skincare,Beauty,Skincare,Samsung,1769,7
+PROD0253,Nike Smart Watches,Electronics,Smart Watches,Nike,41576,295
+PROD0254,Samsung Kitchen,Home,Kitchen,Samsung,9698,27
+PROD0255,Nike Outdoor,Sports,Outdoor,Nike,2599,274
+PROD0256,Nike Haircare,Beauty,Haircare,Nike,622,44
+PROD0257,Apple Mobile Phones,Electronics,Mobile Phones,Apple,71493,104
+PROD0258,Puma Kitchen,Home,Kitchen,Puma,14904,32
+PROD0259,Sony Laptops,Electronics,Laptops,Sony,49044,85
+PROD0260,Samsung Laptops,Electronics,Laptops,Samsung,75504,79
+PROD0261,Levi's Decor,Home,Decor,Levi's,8125,163
+PROD0262,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,15098,389
+PROD0263,LG Men's Wear,Clothing,Men's Wear,LG,854,183
+PROD0264,Sony Skincare,Beauty,Skincare,Sony,1607,147
+PROD0265,Puma Headphones,Electronics,Headphones,Puma,71996,348
+PROD0266,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,46790,107
+PROD0267,Apple Haircare,Beauty,Haircare,Apple,859,500
+PROD0268,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,3518,356
+PROD0269,Adidas Makeup,Beauty,Makeup,Adidas,518,435
+PROD0270,Philips Smart Watches,Electronics,Smart Watches,Philips,41258,88
+PROD0271,Puma Skincare,Beauty,Skincare,Puma,779,390
+PROD0272,Adidas Haircare,Beauty,Haircare,Adidas,2583,397
+PROD0273,LG Kids' Wear,Clothing,Kids' Wear,LG,1274,468
+PROD0274,Nike Women's Wear,Clothing,Women's Wear,Nike,4821,266
+PROD0275,Apple Smart Watches,Electronics,Smart Watches,Apple,63859,253
+PROD0276,Apple Sportswear,Sports,Sportswear,Apple,3973,386
+PROD0277,Adidas Makeup,Beauty,Makeup,Adidas,1975,1
+PROD0278,Nike Furniture,Home,Furniture,Nike,2806,410
+PROD0279,Samsung Smart Watches,Electronics,Smart Watches,Samsung,41387,382
+PROD0280,Sony Skincare,Beauty,Skincare,Sony,1803,114
+PROD0281,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,988,409
+PROD0282,Philips Haircare,Beauty,Haircare,Philips,1230,245
+PROD0283,Nike Headphones,Electronics,Headphones,Nike,66805,390
+PROD0284,Sony Makeup,Beauty,Makeup,Sony,725,376
+PROD0285,Nike Men's Wear,Clothing,Men's Wear,Nike,3879,368
+PROD0286,Nike Sportswear,Sports,Sportswear,Nike,18887,88
+PROD0287,Puma Furniture,Home,Furniture,Puma,10330,33
+PROD0288,Reebok Outdoor,Sports,Outdoor,Reebok,18919,275
+PROD0289,Adidas Outdoor,Sports,Outdoor,Adidas,15183,438
+PROD0290,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,692,334
+PROD0291,Reebok Makeup,Beauty,Makeup,Reebok,1212,128
+PROD0292,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,18586,5
+PROD0293,Philips Skincare,Beauty,Skincare,Philips,1395,439
+PROD0294,Adidas Outdoor,Sports,Outdoor,Adidas,5816,374
+PROD0295,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4424,103
+PROD0296,Nike Laptops,Electronics,Laptops,Nike,44210,428
+PROD0297,Nike Men's Wear,Clothing,Men's Wear,Nike,1097,139
+PROD0298,Nike Headphones,Electronics,Headphones,Nike,57837,384
+PROD0299,Nike Men's Wear,Clothing,Men's Wear,Nike,3548,88
+PROD0300,Nike Kids' Wear,Clothing,Kids' Wear,Nike,3378,442
+PROD0301,Reebok Smart Watches,Electronics,Smart Watches,Reebok,46018,107
+PROD0302,Apple Smart Watches,Electronics,Smart Watches,Apple,4315,157
+PROD0303,Puma Haircare,Beauty,Haircare,Puma,2831,331
+PROD0304,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,4316,296
+PROD0305,Adidas Furniture,Home,Furniture,Adidas,11771,427
+PROD0306,LG Mobile Phones,Electronics,Mobile Phones,LG,47119,101
+PROD0307,Philips Sportswear,Sports,Sportswear,Philips,16673,441
+PROD0308,Levi's Haircare,Beauty,Haircare,Levi's,205,470
+PROD0309,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,832,3
+PROD0310,Samsung Kids' Wear,Clothing,Kids' Wear,Samsung,3644,442
+PROD0311,Philips Skincare,Beauty,Skincare,Philips,2409,154
+PROD0312,Sony Sportswear,Sports,Sportswear,Sony,6723,205
+PROD0313,Nike Men's Wear,Clothing,Men's Wear,Nike,3284,208
+PROD0314,Sony Women's Wear,Clothing,Women's Wear,Sony,932,1
+PROD0315,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,3360,185
+PROD0316,Philips Smart Watches,Electronics,Smart Watches,Philips,33609,358
+PROD0317,Adidas Makeup,Beauty,Makeup,Adidas,209,488
+PROD0318,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,1004,443
+PROD0319,LG Laptops,Electronics,Laptops,LG,75579,465
+PROD0320,Apple Smart Watches,Electronics,Smart Watches,Apple,66974,33
+PROD0321,Apple Outdoor,Sports,Outdoor,Apple,5535,434
+PROD0322,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,17942,203
+PROD0323,LG Makeup,Beauty,Makeup,LG,2745,323
+PROD0324,Philips Men's Wear,Clothing,Men's Wear,Philips,1681,225
+PROD0325,Nike Furniture,Home,Furniture,Nike,12408,188
+PROD0326,Sony Smart Watches,Electronics,Smart Watches,Sony,36125,210
+PROD0327,Philips Haircare,Beauty,Haircare,Philips,904,247
+PROD0328,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4381,438
+PROD0329,LG Women's Wear,Clothing,Women's Wear,LG,4159,386
+PROD0330,Reebok Decor,Home,Decor,Reebok,7595,207
+PROD0331,Reebok Headphones,Electronics,Headphones,Reebok,75109,417
+PROD0332,Adidas Decor,Home,Decor,Adidas,12395,270
+PROD0333,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,6960,406
+PROD0334,Puma Sportswear,Sports,Sportswear,Puma,11622,387
+PROD0335,LG Kids' Wear,Clothing,Kids' Wear,LG,501,153
+PROD0336,Samsung Men's Wear,Clothing,Men's Wear,Samsung,1408,364
+PROD0337,LG Men's Wear,Clothing,Men's Wear,LG,2623,23
+PROD0338,Samsung Mobile Phones,Electronics,Mobile Phones,Samsung,8046,120
+PROD0339,Puma Kitchen,Home,Kitchen,Puma,10405,222
+PROD0340,LG Fitness Equipment,Sports,Fitness Equipment,LG,12109,189
+PROD0341,Philips Furniture,Home,Furniture,Philips,14768,242
+PROD0342,LG Sportswear,Sports,Sportswear,LG,3377,412
+PROD0343,Reebok Laptops,Electronics,Laptops,Reebok,75592,74
+PROD0344,Levi's Kitchen,Home,Kitchen,Levi's,12723,311
+PROD0345,Nike Fitness Equipment,Sports,Fitness Equipment,Nike,6754,267
+PROD0346,Samsung Skincare,Beauty,Skincare,Samsung,1097,155
+PROD0347,Samsung Mobile Phones,Electronics,Mobile Phones,Samsung,58781,313
+PROD0348,LG Men's Wear,Clothing,Men's Wear,LG,1449,380
+PROD0349,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,41893,171
+PROD0350,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,9144,147
+PROD0351,Puma Sportswear,Sports,Sportswear,Puma,12453,158
+PROD0352,Adidas Fitness Equipment,Sports,Fitness Equipment,Adidas,15780,293
+PROD0353,LG Kids' Wear,Clothing,Kids' Wear,LG,2846,6
+PROD0354,Adidas Haircare,Beauty,Haircare,Adidas,1484,97
+PROD0355,Levi's Women's Wear,Clothing,Women's Wear,Levi's,571,464
+PROD0356,LG Men's Wear,Clothing,Men's Wear,LG,2500,163
+PROD0357,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,596,374
+PROD0358,Adidas Outdoor,Sports,Outdoor,Adidas,19242,348
+PROD0359,Apple Kitchen,Home,Kitchen,Apple,13384,214
+PROD0360,Reebok Makeup,Beauty,Makeup,Reebok,2621,415
+PROD0361,Adidas Laptops,Electronics,Laptops,Adidas,33363,89
+PROD0362,Sony Laptops,Electronics,Laptops,Sony,69769,59
+PROD0363,Philips Mobile Phones,Electronics,Mobile Phones,Philips,12353,297
+PROD0364,Puma Makeup,Beauty,Makeup,Puma,1079,369
+PROD0365,Adidas Furniture,Home,Furniture,Adidas,9028,252
+PROD0366,Samsung Outdoor,Sports,Outdoor,Samsung,7073,365
+PROD0367,Sony Haircare,Beauty,Haircare,Sony,2743,345
+PROD0368,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,3705,398
+PROD0369,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,1750,277
+PROD0370,Reebok Decor,Home,Decor,Reebok,2552,315
+PROD0371,Reebok Haircare,Beauty,Haircare,Reebok,1650,195
+PROD0372,Puma Men's Wear,Clothing,Men's Wear,Puma,1424,19
+PROD0373,Adidas Mobile Phones,Electronics,Mobile Phones,Adidas,10853,489
+PROD0374,LG Kitchen,Home,Kitchen,LG,6496,444
+PROD0375,Philips Men's Wear,Clothing,Men's Wear,Philips,1236,92
+PROD0376,Sony Mobile Phones,Electronics,Mobile Phones,Sony,13577,472
+PROD0377,Sony Sportswear,Sports,Sportswear,Sony,19666,111
+PROD0378,Adidas Men's Wear,Clothing,Men's Wear,Adidas,1711,76
+PROD0379,Levi's Headphones,Electronics,Headphones,Levi's,32806,309
+PROD0380,Samsung Sportswear,Sports,Sportswear,Samsung,17665,424
+PROD0381,Levi's Men's Wear,Clothing,Men's Wear,Levi's,1487,482
+PROD0382,Apple Men's Wear,Clothing,Men's Wear,Apple,3848,183
+PROD0383,Adidas Furniture,Home,Furniture,Adidas,14794,490
+PROD0384,Nike Kitchen,Home,Kitchen,Nike,6454,438
+PROD0385,Nike Sportswear,Sports,Sportswear,Nike,999,76
+PROD0386,Adidas Makeup,Beauty,Makeup,Adidas,2442,65
+PROD0387,LG Women's Wear,Clothing,Women's Wear,LG,4476,409
+PROD0388,Reebok Men's Wear,Clothing,Men's Wear,Reebok,1510,71
+PROD0389,Reebok Men's Wear,Clothing,Men's Wear,Reebok,3039,73
+PROD0390,Sony Kids' Wear,Clothing,Kids' Wear,Sony,2024,325
+PROD0391,Nike Makeup,Beauty,Makeup,Nike,2133,8
+PROD0392,Adidas Women's Wear,Clothing,Women's Wear,Adidas,3810,488
+PROD0393,Levi's Women's Wear,Clothing,Women's Wear,Levi's,3786,188
+PROD0394,Nike Decor,Home,Decor,Nike,10268,40
+PROD0395,Apple Men's Wear,Clothing,Men's Wear,Apple,1203,287
+PROD0396,Philips Furniture,Home,Furniture,Philips,1840,225
+PROD0397,Sony Kitchen,Home,Kitchen,Sony,11297,136
+PROD0398,Nike Mobile Phones,Electronics,Mobile Phones,Nike,5139,21
+PROD0399,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,3754,356
+PROD0400,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,12568,469
+PROD0401,Philips Women's Wear,Clothing,Women's Wear,Philips,2187,208
+PROD0402,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,19761,31
+PROD0403,LG Laptops,Electronics,Laptops,LG,63250,160
+PROD0404,LG Kids' Wear,Clothing,Kids' Wear,LG,646,375
+PROD0405,Sony Men's Wear,Clothing,Men's Wear,Sony,3318,252
+PROD0406,Adidas Furniture,Home,Furniture,Adidas,11601,301
+PROD0407,Philips Women's Wear,Clothing,Women's Wear,Philips,3909,402
+PROD0408,Philips Haircare,Beauty,Haircare,Philips,2107,439
+PROD0409,LG Smart Watches,Electronics,Smart Watches,LG,79207,328
+PROD0410,Sony Kitchen,Home,Kitchen,Sony,4897,88
+PROD0411,Adidas Kitchen,Home,Kitchen,Adidas,3404,420
+PROD0412,Levi's Haircare,Beauty,Haircare,Levi's,883,179
+PROD0413,Levi's Skincare,Beauty,Skincare,Levi's,666,434
+PROD0414,Adidas Makeup,Beauty,Makeup,Adidas,2960,353
+PROD0415,LG Outdoor,Sports,Outdoor,LG,8977,76
+PROD0416,Apple Laptops,Electronics,Laptops,Apple,36189,366
+PROD0417,Reebok Furniture,Home,Furniture,Reebok,7936,123
+PROD0418,Adidas Smart Watches,Electronics,Smart Watches,Adidas,18898,118
+PROD0419,Reebok Women's Wear,Clothing,Women's Wear,Reebok,4117,305
+PROD0420,Levi's Sportswear,Sports,Sportswear,Levi's,2826,61
+PROD0421,Levi's Haircare,Beauty,Haircare,Levi's,1963,96
+PROD0422,Nike Women's Wear,Clothing,Women's Wear,Nike,891,493
+PROD0423,LG Skincare,Beauty,Skincare,LG,2926,247
+PROD0424,Adidas Skincare,Beauty,Skincare,Adidas,2841,317
+PROD0425,Levi's Furniture,Home,Furniture,Levi's,10880,148
+PROD0426,Apple Haircare,Beauty,Haircare,Apple,2797,462
+PROD0427,Levi's Laptops,Electronics,Laptops,Levi's,10517,398
+PROD0428,Philips Makeup,Beauty,Makeup,Philips,637,389
+PROD0429,Nike Headphones,Electronics,Headphones,Nike,43422,270
+PROD0430,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,56415,138
+PROD0431,Philips Kids' Wear,Clothing,Kids' Wear,Philips,880,147
+PROD0432,Apple Haircare,Beauty,Haircare,Apple,1670,108
+PROD0433,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4652,87
+PROD0434,Nike Outdoor,Sports,Outdoor,Nike,746,482
+PROD0435,Levi's Decor,Home,Decor,Levi's,2150,138
+PROD0436,Apple Women's Wear,Clothing,Women's Wear,Apple,2050,255
+PROD0437,Samsung Smart Watches,Electronics,Smart Watches,Samsung,46735,47
+PROD0438,Samsung Outdoor,Sports,Outdoor,Samsung,8841,367
+PROD0439,Nike Skincare,Beauty,Skincare,Nike,2075,34
+PROD0440,Apple Women's Wear,Clothing,Women's Wear,Apple,807,196
+PROD0441,Reebok Kitchen,Home,Kitchen,Reebok,4841,313
+PROD0442,Puma Laptops,Electronics,Laptops,Puma,58599,476
+PROD0443,Apple Fitness Equipment,Sports,Fitness Equipment,Apple,11180,266
+PROD0444,Nike Haircare,Beauty,Haircare,Nike,1099,301
+PROD0445,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,18541,42
+PROD0446,Adidas Haircare,Beauty,Haircare,Adidas,1994,115
+PROD0447,Levi's Headphones,Electronics,Headphones,Levi's,13609,12
+PROD0448,LG Skincare,Beauty,Skincare,LG,1096,206
+PROD0449,Samsung Women's Wear,Clothing,Women's Wear,Samsung,1196,413
+PROD0450,LG Laptops,Electronics,Laptops,LG,22934,252
+PROD0451,Reebok Women's Wear,Clothing,Women's Wear,Reebok,2719,399
+PROD0452,Nike Decor,Home,Decor,Nike,7168,216
+PROD0453,Adidas Skincare,Beauty,Skincare,Adidas,2154,499
+PROD0454,Nike Haircare,Beauty,Haircare,Nike,2958,282
+PROD0455,Puma Mobile Phones,Electronics,Mobile Phones,Puma,3764,281
+PROD0456,Samsung Men's Wear,Clothing,Men's Wear,Samsung,699,199
+PROD0457,Sony Kitchen,Home,Kitchen,Sony,8591,431
+PROD0458,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,16992,327
+PROD0459,Levi's Women's Wear,Clothing,Women's Wear,Levi's,4445,207
+PROD0460,Levi's Men's Wear,Clothing,Men's Wear,Levi's,3083,441
+PROD0461,Apple Makeup,Beauty,Makeup,Apple,2953,214
+PROD0462,Puma Makeup,Beauty,Makeup,Puma,2655,177
+PROD0463,Sony Haircare,Beauty,Haircare,Sony,591,154
+PROD0464,Puma Furniture,Home,Furniture,Puma,6473,361
+PROD0465,LG Men's Wear,Clothing,Men's Wear,LG,3071,299
+PROD0466,Nike Headphones,Electronics,Headphones,Nike,61819,173
+PROD0467,Nike Kids' Wear,Clothing,Kids' Wear,Nike,1343,73
+PROD0468,Sony Outdoor,Sports,Outdoor,Sony,1336,255
+PROD0469,Samsung Mobile Phones,Electronics,Mobile Phones,Samsung,71668,139
+PROD0470,Samsung Mobile Phones,Electronics,Mobile Phones,Samsung,64793,433
+PROD0471,Puma Kitchen,Home,Kitchen,Puma,9855,122
+PROD0472,Apple Women's Wear,Clothing,Women's Wear,Apple,890,293
+PROD0473,Samsung Headphones,Electronics,Headphones,Samsung,63935,416
+PROD0474,Philips Skincare,Beauty,Skincare,Philips,449,7
+PROD0475,Sony Sportswear,Sports,Sportswear,Sony,17072,0
+PROD0476,Reebok Furniture,Home,Furniture,Reebok,12755,423
+PROD0477,LG Smart Watches,Electronics,Smart Watches,LG,64888,380
+PROD0478,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,6989,128
+PROD0479,LG Furniture,Home,Furniture,LG,13298,275
+PROD0480,Sony Makeup,Beauty,Makeup,Sony,2639,236
+PROD0481,Puma Haircare,Beauty,Haircare,Puma,2286,21
+PROD0482,Samsung Kitchen,Home,Kitchen,Samsung,11272,268
+PROD0483,Apple Sportswear,Sports,Sportswear,Apple,18256,118
+PROD0484,Levi's Skincare,Beauty,Skincare,Levi's,1939,102
+PROD0485,Philips Outdoor,Sports,Outdoor,Philips,6896,444
+PROD0486,Apple Men's Wear,Clothing,Men's Wear,Apple,4718,133
+PROD0487,Sony Makeup,Beauty,Makeup,Sony,1904,64
+PROD0488,Puma Skincare,Beauty,Skincare,Puma,1864,320
+PROD0489,Puma Laptops,Electronics,Laptops,Puma,73509,299
+PROD0490,Reebok Women's Wear,Clothing,Women's Wear,Reebok,4431,289
+PROD0491,Reebok Makeup,Beauty,Makeup,Reebok,1607,86
+PROD0492,Samsung Haircare,Beauty,Haircare,Samsung,255,69
+PROD0493,Apple Furniture,Home,Furniture,Apple,13863,213
+PROD0494,Nike Fitness Equipment,Sports,Fitness Equipment,Nike,4459,71
+PROD0495,Reebok Outdoor,Sports,Outdoor,Reebok,15174,65
+PROD0496,Puma Laptops,Electronics,Laptops,Puma,76868,223
+PROD0497,LG Fitness Equipment,Sports,Fitness Equipment,LG,3029,214
+PROD0498,Adidas Furniture,Home,Furniture,Adidas,8115,432
+PROD0499,Samsung Makeup,Beauty,Makeup,Samsung,1777,116
+PROD0500,Apple Women's Wear,Clothing,Women's Wear,Apple,3421,395
+PROD0501,Sony Sportswear,Sports,Sportswear,Sony,14352,137
+PROD0502,Samsung Outdoor,Sports,Outdoor,Samsung,3285,394
+PROD0503,Sony Decor,Home,Decor,Sony,4348,44
+PROD0504,Puma Kitchen,Home,Kitchen,Puma,4417,268
+PROD0505,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,17060,455
+PROD0506,LG Mobile Phones,Electronics,Mobile Phones,LG,78444,491
+PROD0507,Philips Kitchen,Home,Kitchen,Philips,1889,61
+PROD0508,LG Mobile Phones,Electronics,Mobile Phones,LG,29824,258
+PROD0509,LG Makeup,Beauty,Makeup,LG,755,148
+PROD0510,Puma Sportswear,Sports,Sportswear,Puma,17617,33
+PROD0511,Puma Haircare,Beauty,Haircare,Puma,703,248
+PROD0512,Sony Headphones,Electronics,Headphones,Sony,42923,318
+PROD0513,LG Furniture,Home,Furniture,LG,14872,69
+PROD0514,LG Decor,Home,Decor,LG,11419,309
+PROD0515,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,57471,79
+PROD0516,Puma Kids' Wear,Clothing,Kids' Wear,Puma,2801,495
+PROD0517,Samsung Decor,Home,Decor,Samsung,7754,396
+PROD0518,Apple Smart Watches,Electronics,Smart Watches,Apple,16824,413
+PROD0519,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,11413,123
+PROD0520,Sony Kids' Wear,Clothing,Kids' Wear,Sony,4776,20
+PROD0521,Levi's Laptops,Electronics,Laptops,Levi's,70149,68
+PROD0522,Reebok Decor,Home,Decor,Reebok,3437,400
+PROD0523,Adidas Laptops,Electronics,Laptops,Adidas,50191,324
+PROD0524,Adidas Outdoor,Sports,Outdoor,Adidas,1100,364
+PROD0525,Puma Furniture,Home,Furniture,Puma,11692,406
+PROD0526,Samsung Decor,Home,Decor,Samsung,14661,149
+PROD0527,Philips Sportswear,Sports,Sportswear,Philips,950,201
+PROD0528,Sony Haircare,Beauty,Haircare,Sony,2779,119
+PROD0529,Puma Haircare,Beauty,Haircare,Puma,1452,261
+PROD0530,Philips Kitchen,Home,Kitchen,Philips,14992,275
+PROD0531,Apple Men's Wear,Clothing,Men's Wear,Apple,3452,444
+PROD0532,LG Men's Wear,Clothing,Men's Wear,LG,4391,478
+PROD0533,Levi's Haircare,Beauty,Haircare,Levi's,2689,83
+PROD0534,Reebok Furniture,Home,Furniture,Reebok,10003,475
+PROD0535,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,4131,382
+PROD0536,Philips Laptops,Electronics,Laptops,Philips,12078,129
+PROD0537,Samsung Men's Wear,Clothing,Men's Wear,Samsung,1491,124
+PROD0538,Apple Laptops,Electronics,Laptops,Apple,76238,265
+PROD0539,Nike Skincare,Beauty,Skincare,Nike,2531,305
+PROD0540,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,18476,127
+PROD0541,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,688,208
+PROD0542,Reebok Men's Wear,Clothing,Men's Wear,Reebok,4520,343
+PROD0543,Adidas Men's Wear,Clothing,Men's Wear,Adidas,719,184
+PROD0544,Puma Men's Wear,Clothing,Men's Wear,Puma,3878,114
+PROD0545,Reebok Women's Wear,Clothing,Women's Wear,Reebok,4443,12
+PROD0546,Philips Kids' Wear,Clothing,Kids' Wear,Philips,2210,185
+PROD0547,Nike Haircare,Beauty,Haircare,Nike,2375,339
+PROD0548,LG Furniture,Home,Furniture,LG,3983,294
+PROD0549,Adidas Smart Watches,Electronics,Smart Watches,Adidas,54457,210
+PROD0550,Sony Skincare,Beauty,Skincare,Sony,1288,235
+PROD0551,Reebok Kitchen,Home,Kitchen,Reebok,7927,322
+PROD0552,Adidas Mobile Phones,Electronics,Mobile Phones,Adidas,33563,173
+PROD0553,LG Haircare,Beauty,Haircare,LG,1760,9
+PROD0554,Puma Men's Wear,Clothing,Men's Wear,Puma,4524,145
+PROD0555,LG Skincare,Beauty,Skincare,LG,843,155
+PROD0556,Reebok Makeup,Beauty,Makeup,Reebok,2514,76
+PROD0557,Adidas Laptops,Electronics,Laptops,Adidas,32639,380
+PROD0558,Apple Outdoor,Sports,Outdoor,Apple,18748,332
+PROD0559,LG Smart Watches,Electronics,Smart Watches,LG,66743,442
+PROD0560,Reebok Decor,Home,Decor,Reebok,11684,322
+PROD0561,Reebok Women's Wear,Clothing,Women's Wear,Reebok,1711,388
+PROD0562,LG Haircare,Beauty,Haircare,LG,1783,186
+PROD0563,Reebok Haircare,Beauty,Haircare,Reebok,2867,324
+PROD0564,Samsung Haircare,Beauty,Haircare,Samsung,1912,217
+PROD0565,Adidas Decor,Home,Decor,Adidas,12115,376
+PROD0566,Adidas Makeup,Beauty,Makeup,Adidas,895,189
+PROD0567,Samsung Kids' Wear,Clothing,Kids' Wear,Samsung,3999,170
+PROD0568,Puma Makeup,Beauty,Makeup,Puma,571,436
+PROD0569,Adidas Kitchen,Home,Kitchen,Adidas,4112,408
+PROD0570,Apple Decor,Home,Decor,Apple,3766,454
+PROD0571,Apple Haircare,Beauty,Haircare,Apple,2528,164
+PROD0572,Adidas Outdoor,Sports,Outdoor,Adidas,2361,135
+PROD0573,Reebok Kitchen,Home,Kitchen,Reebok,6457,435
+PROD0574,LG Furniture,Home,Furniture,LG,7745,184
+PROD0575,Reebok Women's Wear,Clothing,Women's Wear,Reebok,4286,206
+PROD0576,Apple Women's Wear,Clothing,Women's Wear,Apple,3825,97
+PROD0577,Sony Kids' Wear,Clothing,Kids' Wear,Sony,1760,420
+PROD0578,Adidas Men's Wear,Clothing,Men's Wear,Adidas,3652,392
+PROD0579,Philips Smart Watches,Electronics,Smart Watches,Philips,28384,90
+PROD0580,Adidas Mobile Phones,Electronics,Mobile Phones,Adidas,52026,240
+PROD0581,Reebok Decor,Home,Decor,Reebok,8047,50
+PROD0582,Apple Decor,Home,Decor,Apple,9377,286
+PROD0583,Apple Kids' Wear,Clothing,Kids' Wear,Apple,1226,133
+PROD0584,Philips Men's Wear,Clothing,Men's Wear,Philips,1522,387
+PROD0585,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,865,170
+PROD0586,Levi's Sportswear,Sports,Sportswear,Levi's,18193,10
+PROD0587,LG Laptops,Electronics,Laptops,LG,14342,343
+PROD0588,Samsung Decor,Home,Decor,Samsung,2066,301
+PROD0589,Nike Women's Wear,Clothing,Women's Wear,Nike,1283,142
+PROD0590,Apple Sportswear,Sports,Sportswear,Apple,2733,181
+PROD0591,Apple Men's Wear,Clothing,Men's Wear,Apple,3190,255
+PROD0592,LG Men's Wear,Clothing,Men's Wear,LG,791,296
+PROD0593,Philips Men's Wear,Clothing,Men's Wear,Philips,4087,53
+PROD0594,Adidas Outdoor,Sports,Outdoor,Adidas,3870,64
+PROD0595,Sony Furniture,Home,Furniture,Sony,10329,333
+PROD0596,Apple Makeup,Beauty,Makeup,Apple,1714,240
+PROD0597,Levi's Men's Wear,Clothing,Men's Wear,Levi's,559,241
+PROD0598,LG Men's Wear,Clothing,Men's Wear,LG,4861,332
+PROD0599,Sony Decor,Home,Decor,Sony,14145,285
+PROD0600,Levi's Makeup,Beauty,Makeup,Levi's,2715,101
+PROD0601,Sony Men's Wear,Clothing,Men's Wear,Sony,1225,465
+PROD0602,Puma Sportswear,Sports,Sportswear,Puma,16751,246
+PROD0603,Apple Mobile Phones,Electronics,Mobile Phones,Apple,17107,281
+PROD0604,Puma Makeup,Beauty,Makeup,Puma,1274,272
+PROD0605,Adidas Furniture,Home,Furniture,Adidas,4306,348
+PROD0606,Samsung Smart Watches,Electronics,Smart Watches,Samsung,47130,466
+PROD0607,Reebok Skincare,Beauty,Skincare,Reebok,2126,89
+PROD0608,LG Outdoor,Sports,Outdoor,LG,7096,334
+PROD0609,Reebok Skincare,Beauty,Skincare,Reebok,2687,28
+PROD0610,Adidas Furniture,Home,Furniture,Adidas,9220,321
+PROD0611,Adidas Fitness Equipment,Sports,Fitness Equipment,Adidas,8101,336
+PROD0612,Sony Sportswear,Sports,Sportswear,Sony,13737,27
+PROD0613,Puma Men's Wear,Clothing,Men's Wear,Puma,3247,317
+PROD0614,LG Skincare,Beauty,Skincare,LG,2715,149
+PROD0615,Levi's Laptops,Electronics,Laptops,Levi's,60082,330
+PROD0616,Nike Outdoor,Sports,Outdoor,Nike,9442,159
+PROD0617,LG Furniture,Home,Furniture,LG,13056,484
+PROD0618,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,3499,328
+PROD0619,Adidas Sportswear,Sports,Sportswear,Adidas,5279,105
+PROD0620,Puma Smart Watches,Electronics,Smart Watches,Puma,19338,455
+PROD0621,Philips Haircare,Beauty,Haircare,Philips,1716,349
+PROD0622,Adidas Skincare,Beauty,Skincare,Adidas,2725,132
+PROD0623,Samsung Men's Wear,Clothing,Men's Wear,Samsung,1090,447
+PROD0624,LG Haircare,Beauty,Haircare,LG,2169,351
+PROD0625,Philips Men's Wear,Clothing,Men's Wear,Philips,917,161
+PROD0626,Philips Skincare,Beauty,Skincare,Philips,1157,440
+PROD0627,Nike Women's Wear,Clothing,Women's Wear,Nike,4915,49
+PROD0628,Apple Headphones,Electronics,Headphones,Apple,52136,53
+PROD0629,Samsung Sportswear,Sports,Sportswear,Samsung,4170,413
+PROD0630,LG Kitchen,Home,Kitchen,LG,12798,336
+PROD0631,Puma Women's Wear,Clothing,Women's Wear,Puma,1493,320
+PROD0632,Reebok Decor,Home,Decor,Reebok,1793,126
+PROD0633,Philips Skincare,Beauty,Skincare,Philips,2008,493
+PROD0634,Adidas Men's Wear,Clothing,Men's Wear,Adidas,4766,372
+PROD0635,Nike Smart Watches,Electronics,Smart Watches,Nike,37101,120
+PROD0636,LG Women's Wear,Clothing,Women's Wear,LG,4816,230
+PROD0637,Levi's Outdoor,Sports,Outdoor,Levi's,15838,50
+PROD0638,Levi's Women's Wear,Clothing,Women's Wear,Levi's,1779,86
+PROD0639,Puma Skincare,Beauty,Skincare,Puma,2432,291
+PROD0640,Philips Men's Wear,Clothing,Men's Wear,Philips,2784,172
+PROD0641,Adidas Haircare,Beauty,Haircare,Adidas,1383,139
+PROD0642,LG Laptops,Electronics,Laptops,LG,29333,415
+PROD0643,Reebok Decor,Home,Decor,Reebok,1637,251
+PROD0644,Samsung Laptops,Electronics,Laptops,Samsung,35570,421
+PROD0645,LG Men's Wear,Clothing,Men's Wear,LG,2056,41
+PROD0646,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,1885,4
+PROD0647,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,3814,105
+PROD0648,Reebok Outdoor,Sports,Outdoor,Reebok,5968,412
+PROD0649,Adidas Women's Wear,Clothing,Women's Wear,Adidas,1248,195
+PROD0650,Samsung Kitchen,Home,Kitchen,Samsung,5900,244
+PROD0651,Samsung Laptops,Electronics,Laptops,Samsung,41945,418
+PROD0652,Nike Sportswear,Sports,Sportswear,Nike,16440,121
+PROD0653,Apple Haircare,Beauty,Haircare,Apple,2570,177
+PROD0654,Samsung Outdoor,Sports,Outdoor,Samsung,13871,441
+PROD0655,Reebok Men's Wear,Clothing,Men's Wear,Reebok,3543,385
+PROD0656,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,1842,72
+PROD0657,Philips Laptops,Electronics,Laptops,Philips,66279,301
+PROD0658,Samsung Outdoor,Sports,Outdoor,Samsung,10210,147
+PROD0659,Nike Haircare,Beauty,Haircare,Nike,1537,324
+PROD0660,Nike Fitness Equipment,Sports,Fitness Equipment,Nike,1854,103
+PROD0661,Sony Men's Wear,Clothing,Men's Wear,Sony,4856,264
+PROD0662,Adidas Makeup,Beauty,Makeup,Adidas,2340,50
+PROD0663,Philips Men's Wear,Clothing,Men's Wear,Philips,4361,333
+PROD0664,LG Headphones,Electronics,Headphones,LG,14978,75
+PROD0665,Reebok Haircare,Beauty,Haircare,Reebok,2982,133
+PROD0666,LG Fitness Equipment,Sports,Fitness Equipment,LG,17010,317
+PROD0667,LG Men's Wear,Clothing,Men's Wear,LG,2067,473
+PROD0668,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,4643,8
+PROD0669,Philips Makeup,Beauty,Makeup,Philips,1894,188
+PROD0670,Puma Makeup,Beauty,Makeup,Puma,2166,70
+PROD0671,LG Haircare,Beauty,Haircare,LG,2666,246
+PROD0672,Adidas Women's Wear,Clothing,Women's Wear,Adidas,4163,363
+PROD0673,Samsung Women's Wear,Clothing,Women's Wear,Samsung,716,291
+PROD0674,Apple Women's Wear,Clothing,Women's Wear,Apple,1955,369
+PROD0675,Adidas Kitchen,Home,Kitchen,Adidas,3422,155
+PROD0676,Philips Women's Wear,Clothing,Women's Wear,Philips,2475,11
+PROD0677,Reebok Skincare,Beauty,Skincare,Reebok,1125,230
+PROD0678,LG Haircare,Beauty,Haircare,LG,1281,94
+PROD0679,Levi's Outdoor,Sports,Outdoor,Levi's,5137,374
+PROD0680,Puma Outdoor,Sports,Outdoor,Puma,15998,250
+PROD0681,Philips Kitchen,Home,Kitchen,Philips,6977,464
+PROD0682,Levi's Haircare,Beauty,Haircare,Levi's,2112,159
+PROD0683,Apple Haircare,Beauty,Haircare,Apple,454,104
+PROD0684,Adidas Headphones,Electronics,Headphones,Adidas,29586,448
+PROD0685,Puma Smart Watches,Electronics,Smart Watches,Puma,3327,496
+PROD0686,Philips Men's Wear,Clothing,Men's Wear,Philips,3264,75
+PROD0687,LG Furniture,Home,Furniture,LG,12282,353
+PROD0688,Samsung Decor,Home,Decor,Samsung,11290,313
+PROD0689,Reebok Women's Wear,Clothing,Women's Wear,Reebok,1004,59
+PROD0690,Philips Laptops,Electronics,Laptops,Philips,23362,495
+PROD0691,Adidas Decor,Home,Decor,Adidas,8516,301
+PROD0692,Philips Men's Wear,Clothing,Men's Wear,Philips,3420,293
+PROD0693,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,8996,448
+PROD0694,LG Kitchen,Home,Kitchen,LG,13812,202
+PROD0695,Philips Makeup,Beauty,Makeup,Philips,1885,367
+PROD0696,Levi's Decor,Home,Decor,Levi's,11210,113
+PROD0697,Puma Men's Wear,Clothing,Men's Wear,Puma,4999,368
+PROD0698,Nike Decor,Home,Decor,Nike,10069,201
+PROD0699,Puma Kitchen,Home,Kitchen,Puma,4552,359
+PROD0700,Puma Furniture,Home,Furniture,Puma,11965,42
+PROD0701,Sony Decor,Home,Decor,Sony,3341,370
+PROD0702,Apple Kids' Wear,Clothing,Kids' Wear,Apple,4374,294
+PROD0703,LG Furniture,Home,Furniture,LG,8480,207
+PROD0704,Reebok Men's Wear,Clothing,Men's Wear,Reebok,889,454
+PROD0705,Sony Haircare,Beauty,Haircare,Sony,1413,463
+PROD0706,Adidas Makeup,Beauty,Makeup,Adidas,1303,349
+PROD0707,LG Kitchen,Home,Kitchen,LG,12521,176
+PROD0708,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,18092,86
+PROD0709,Adidas Furniture,Home,Furniture,Adidas,7636,16
+PROD0710,Puma Laptops,Electronics,Laptops,Puma,23062,194
+PROD0711,Puma Kids' Wear,Clothing,Kids' Wear,Puma,4034,435
+PROD0712,Puma Women's Wear,Clothing,Women's Wear,Puma,1324,459
+PROD0713,Adidas Haircare,Beauty,Haircare,Adidas,1904,336
+PROD0714,Nike Laptops,Electronics,Laptops,Nike,21679,395
+PROD0715,Puma Outdoor,Sports,Outdoor,Puma,16617,98
+PROD0716,Reebok Skincare,Beauty,Skincare,Reebok,397,148
+PROD0717,Sony Kids' Wear,Clothing,Kids' Wear,Sony,3196,244
+PROD0718,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,6613,491
+PROD0719,Reebok Furniture,Home,Furniture,Reebok,8948,124
+PROD0720,Sony Smart Watches,Electronics,Smart Watches,Sony,72954,293
+PROD0721,Puma Outdoor,Sports,Outdoor,Puma,17077,207
+PROD0722,Apple Decor,Home,Decor,Apple,6160,326
+PROD0723,Sony Outdoor,Sports,Outdoor,Sony,10772,495
+PROD0724,Levi's Furniture,Home,Furniture,Levi's,13886,272
+PROD0725,Apple Sportswear,Sports,Sportswear,Apple,14568,237
+PROD0726,Philips Sportswear,Sports,Sportswear,Philips,11620,154
+PROD0727,Nike Skincare,Beauty,Skincare,Nike,1335,206
+PROD0728,Nike Smart Watches,Electronics,Smart Watches,Nike,18469,235
+PROD0729,LG Sportswear,Sports,Sportswear,LG,19727,144
+PROD0730,Apple Fitness Equipment,Sports,Fitness Equipment,Apple,12348,469
+PROD0731,Adidas Decor,Home,Decor,Adidas,2023,224
+PROD0732,Reebok Outdoor,Sports,Outdoor,Reebok,4127,360
+PROD0733,Sony Makeup,Beauty,Makeup,Sony,1094,483
+PROD0734,Nike Smart Watches,Electronics,Smart Watches,Nike,76405,344
+PROD0735,Adidas Sportswear,Sports,Sportswear,Adidas,4653,150
+PROD0736,Levi's Headphones,Electronics,Headphones,Levi's,13561,5
+PROD0737,Samsung Kitchen,Home,Kitchen,Samsung,11650,415
+PROD0738,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,11054,43
+PROD0739,LG Fitness Equipment,Sports,Fitness Equipment,LG,16830,200
+PROD0740,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,13459,426
+PROD0741,Reebok Sportswear,Sports,Sportswear,Reebok,18102,174
+PROD0742,Adidas Fitness Equipment,Sports,Fitness Equipment,Adidas,5955,361
+PROD0743,Puma Smart Watches,Electronics,Smart Watches,Puma,33422,270
+PROD0744,Levi's Smart Watches,Electronics,Smart Watches,Levi's,56607,52
+PROD0745,Sony Laptops,Electronics,Laptops,Sony,33196,362
+PROD0746,Reebok Mobile Phones,Electronics,Mobile Phones,Reebok,18779,170
+PROD0747,Sony Headphones,Electronics,Headphones,Sony,32486,91
+PROD0748,Levi's Laptops,Electronics,Laptops,Levi's,55015,472
+PROD0749,Puma Mobile Phones,Electronics,Mobile Phones,Puma,67179,275
+PROD0750,Adidas Headphones,Electronics,Headphones,Adidas,36644,4
+PROD0751,LG Furniture,Home,Furniture,LG,5323,334
+PROD0752,Apple Kitchen,Home,Kitchen,Apple,1368,305
+PROD0753,Apple Sportswear,Sports,Sportswear,Apple,16873,111
+PROD0754,Adidas Headphones,Electronics,Headphones,Adidas,19502,37
+PROD0755,Puma Kitchen,Home,Kitchen,Puma,8401,227
+PROD0756,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,4506,342
+PROD0757,Nike Makeup,Beauty,Makeup,Nike,2236,463
+PROD0758,Apple Smart Watches,Electronics,Smart Watches,Apple,55648,312
+PROD0759,Reebok Men's Wear,Clothing,Men's Wear,Reebok,4947,332
+PROD0760,Puma Furniture,Home,Furniture,Puma,11435,481
+PROD0761,LG Fitness Equipment,Sports,Fitness Equipment,LG,10961,71
+PROD0762,Philips Decor,Home,Decor,Philips,10935,106
+PROD0763,LG Headphones,Electronics,Headphones,LG,7481,109
+PROD0764,Samsung Decor,Home,Decor,Samsung,4905,262
+PROD0765,Samsung Headphones,Electronics,Headphones,Samsung,61585,493
+PROD0766,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,15241,62
+PROD0767,Adidas Fitness Equipment,Sports,Fitness Equipment,Adidas,1407,365
+PROD0768,Puma Women's Wear,Clothing,Women's Wear,Puma,583,26
+PROD0769,Samsung Outdoor,Sports,Outdoor,Samsung,18519,101
+PROD0770,Samsung Outdoor,Sports,Outdoor,Samsung,2171,20
+PROD0771,Samsung Laptops,Electronics,Laptops,Samsung,17173,483
+PROD0772,Samsung Headphones,Electronics,Headphones,Samsung,61852,263
+PROD0773,Puma Kids' Wear,Clothing,Kids' Wear,Puma,1112,95
+PROD0774,Philips Haircare,Beauty,Haircare,Philips,1620,207
+PROD0775,Reebok Outdoor,Sports,Outdoor,Reebok,8910,480
+PROD0776,Reebok Kids' Wear,Clothing,Kids' Wear,Reebok,4269,301
+PROD0777,Nike Furniture,Home,Furniture,Nike,11662,325
+PROD0778,Apple Kids' Wear,Clothing,Kids' Wear,Apple,647,387
+PROD0779,Apple Furniture,Home,Furniture,Apple,5238,15
+PROD0780,Nike Laptops,Electronics,Laptops,Nike,79978,217
+PROD0781,Apple Kitchen,Home,Kitchen,Apple,10217,93
+PROD0782,Sony Furniture,Home,Furniture,Sony,12578,390
+PROD0783,Reebok Makeup,Beauty,Makeup,Reebok,1803,358
+PROD0784,Reebok Furniture,Home,Furniture,Reebok,8656,297
+PROD0785,Philips Laptops,Electronics,Laptops,Philips,71601,58
+PROD0786,Puma Men's Wear,Clothing,Men's Wear,Puma,849,96
+PROD0787,Nike Sportswear,Sports,Sportswear,Nike,11076,111
+PROD0788,Reebok Headphones,Electronics,Headphones,Reebok,54060,496
+PROD0789,Puma Sportswear,Sports,Sportswear,Puma,14822,493
+PROD0790,Philips Mobile Phones,Electronics,Mobile Phones,Philips,68280,385
+PROD0791,Apple Women's Wear,Clothing,Women's Wear,Apple,4326,124
+PROD0792,Nike Laptops,Electronics,Laptops,Nike,43629,128
+PROD0793,Samsung Smart Watches,Electronics,Smart Watches,Samsung,52685,20
+PROD0794,Reebok Women's Wear,Clothing,Women's Wear,Reebok,727,86
+PROD0795,Nike Kids' Wear,Clothing,Kids' Wear,Nike,3580,32
+PROD0796,Nike Headphones,Electronics,Headphones,Nike,75755,71
+PROD0797,Levi's Haircare,Beauty,Haircare,Levi's,1360,384
+PROD0798,Puma Smart Watches,Electronics,Smart Watches,Puma,47490,257
+PROD0799,Puma Sportswear,Sports,Sportswear,Puma,7128,311
+PROD0800,Puma Sportswear,Sports,Sportswear,Puma,19871,188
+PROD0801,Levi's Kitchen,Home,Kitchen,Levi's,14124,111
+PROD0802,Sony Haircare,Beauty,Haircare,Sony,272,419
+PROD0803,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,1770,456
+PROD0804,Nike Women's Wear,Clothing,Women's Wear,Nike,548,300
+PROD0805,Nike Smart Watches,Electronics,Smart Watches,Nike,28506,460
+PROD0806,Adidas Men's Wear,Clothing,Men's Wear,Adidas,4587,474
+PROD0807,Sony Fitness Equipment,Sports,Fitness Equipment,Sony,9037,405
+PROD0808,Sony Makeup,Beauty,Makeup,Sony,913,478
+PROD0809,Levi's Outdoor,Sports,Outdoor,Levi's,3709,71
+PROD0810,Apple Laptops,Electronics,Laptops,Apple,40417,249
+PROD0811,Levi's Decor,Home,Decor,Levi's,4677,275
+PROD0812,Levi's Makeup,Beauty,Makeup,Levi's,2810,489
+PROD0813,Puma Women's Wear,Clothing,Women's Wear,Puma,2822,475
+PROD0814,Sony Furniture,Home,Furniture,Sony,5885,412
+PROD0815,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,1822,315
+PROD0816,Philips Women's Wear,Clothing,Women's Wear,Philips,3917,299
+PROD0817,Levi's Women's Wear,Clothing,Women's Wear,Levi's,1937,10
+PROD0818,Levi's Sportswear,Sports,Sportswear,Levi's,6427,124
+PROD0819,LG Haircare,Beauty,Haircare,LG,1347,34
+PROD0820,Adidas Decor,Home,Decor,Adidas,2108,74
+PROD0821,Puma Decor,Home,Decor,Puma,11870,103
+PROD0822,Puma Women's Wear,Clothing,Women's Wear,Puma,2778,194
+PROD0823,LG Makeup,Beauty,Makeup,LG,1268,325
+PROD0824,Reebok Women's Wear,Clothing,Women's Wear,Reebok,4787,448
+PROD0825,Philips Furniture,Home,Furniture,Philips,12962,96
+PROD0826,Levi's Headphones,Electronics,Headphones,Levi's,48856,191
+PROD0827,LG Skincare,Beauty,Skincare,LG,2347,274
+PROD0828,Apple Makeup,Beauty,Makeup,Apple,1846,152
+PROD0829,Adidas Sportswear,Sports,Sportswear,Adidas,5076,53
+PROD0830,Puma Kids' Wear,Clothing,Kids' Wear,Puma,3621,295
+PROD0831,Reebok Kitchen,Home,Kitchen,Reebok,9059,291
+PROD0832,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,10322,140
+PROD0833,Sony Haircare,Beauty,Haircare,Sony,1367,67
+PROD0834,LG Makeup,Beauty,Makeup,LG,1276,410
+PROD0835,Levi's Kids' Wear,Clothing,Kids' Wear,Levi's,895,354
+PROD0836,Levi's Haircare,Beauty,Haircare,Levi's,1474,438
+PROD0837,Adidas Laptops,Electronics,Laptops,Adidas,77585,429
+PROD0838,Samsung Outdoor,Sports,Outdoor,Samsung,2768,269
+PROD0839,Apple Mobile Phones,Electronics,Mobile Phones,Apple,28508,224
+PROD0840,Sony Sportswear,Sports,Sportswear,Sony,10505,5
+PROD0841,Sony Outdoor,Sports,Outdoor,Sony,18925,245
+PROD0842,Puma Makeup,Beauty,Makeup,Puma,1782,397
+PROD0843,Sony Decor,Home,Decor,Sony,9808,410
+PROD0844,Reebok Haircare,Beauty,Haircare,Reebok,2006,329
+PROD0845,Nike Haircare,Beauty,Haircare,Nike,2519,303
+PROD0846,Samsung Women's Wear,Clothing,Women's Wear,Samsung,3221,10
+PROD0847,Nike Kitchen,Home,Kitchen,Nike,11947,119
+PROD0848,Philips Kids' Wear,Clothing,Kids' Wear,Philips,1764,260
+PROD0849,LG Sportswear,Sports,Sportswear,LG,16857,338
+PROD0850,Adidas Outdoor,Sports,Outdoor,Adidas,4900,224
+PROD0851,Nike Smart Watches,Electronics,Smart Watches,Nike,41297,36
+PROD0852,Adidas Men's Wear,Clothing,Men's Wear,Adidas,4582,334
+PROD0853,Reebok Makeup,Beauty,Makeup,Reebok,484,70
+PROD0854,Samsung Haircare,Beauty,Haircare,Samsung,2349,330
+PROD0855,LG Smart Watches,Electronics,Smart Watches,LG,27493,364
+PROD0856,Puma Women's Wear,Clothing,Women's Wear,Puma,4399,314
+PROD0857,Puma Decor,Home,Decor,Puma,8261,457
+PROD0858,Samsung Makeup,Beauty,Makeup,Samsung,2496,369
+PROD0859,Sony Men's Wear,Clothing,Men's Wear,Sony,1516,328
+PROD0860,Sony Furniture,Home,Furniture,Sony,5216,50
+PROD0861,Nike Outdoor,Sports,Outdoor,Nike,3888,361
+PROD0862,Philips Outdoor,Sports,Outdoor,Philips,2961,28
+PROD0863,Apple Kitchen,Home,Kitchen,Apple,6441,382
+PROD0864,Adidas Fitness Equipment,Sports,Fitness Equipment,Adidas,16155,304
+PROD0865,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,904,193
+PROD0866,Apple Mobile Phones,Electronics,Mobile Phones,Apple,18645,15
+PROD0867,LG Decor,Home,Decor,LG,11028,292
+PROD0868,LG Makeup,Beauty,Makeup,LG,1965,210
+PROD0869,Levi's Decor,Home,Decor,Levi's,14988,231
+PROD0870,LG Skincare,Beauty,Skincare,LG,2498,482
+PROD0871,Sony Decor,Home,Decor,Sony,9718,453
+PROD0872,Samsung Sportswear,Sports,Sportswear,Samsung,6663,325
+PROD0873,Nike Kitchen,Home,Kitchen,Nike,6571,164
+PROD0874,LG Men's Wear,Clothing,Men's Wear,LG,1252,481
+PROD0875,LG Kitchen,Home,Kitchen,LG,5085,428
+PROD0876,Sony Men's Wear,Clothing,Men's Wear,Sony,3860,130
+PROD0877,Nike Sportswear,Sports,Sportswear,Nike,14533,355
+PROD0878,Levi's Furniture,Home,Furniture,Levi's,13620,499
+PROD0879,Adidas Furniture,Home,Furniture,Adidas,12041,247
+PROD0880,Puma Fitness Equipment,Sports,Fitness Equipment,Puma,8902,236
+PROD0881,Levi's Haircare,Beauty,Haircare,Levi's,395,240
+PROD0882,Apple Skincare,Beauty,Skincare,Apple,2000,137
+PROD0883,LG Kids' Wear,Clothing,Kids' Wear,LG,4191,22
+PROD0884,LG Decor,Home,Decor,LG,9572,79
+PROD0885,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,14353,205
+PROD0886,Philips Outdoor,Sports,Outdoor,Philips,16822,293
+PROD0887,Nike Men's Wear,Clothing,Men's Wear,Nike,1764,257
+PROD0888,Samsung Sportswear,Sports,Sportswear,Samsung,8396,271
+PROD0889,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,4874,30
+PROD0890,Apple Haircare,Beauty,Haircare,Apple,1149,189
+PROD0891,Nike Kids' Wear,Clothing,Kids' Wear,Nike,3931,43
+PROD0892,Philips Fitness Equipment,Sports,Fitness Equipment,Philips,14941,160
+PROD0893,Philips Laptops,Electronics,Laptops,Philips,33427,191
+PROD0894,Sony Furniture,Home,Furniture,Sony,1876,5
+PROD0895,Levi's Sportswear,Sports,Sportswear,Levi's,7843,360
+PROD0896,Apple Sportswear,Sports,Sportswear,Apple,18483,256
+PROD0897,Puma Mobile Phones,Electronics,Mobile Phones,Puma,39447,287
+PROD0898,Levi's Sportswear,Sports,Sportswear,Levi's,15318,59
+PROD0899,Apple Kitchen,Home,Kitchen,Apple,7251,137
+PROD0900,Levi's Men's Wear,Clothing,Men's Wear,Levi's,2149,449
+PROD0901,Apple Smart Watches,Electronics,Smart Watches,Apple,60645,50
+PROD0902,Reebok Skincare,Beauty,Skincare,Reebok,2868,483
+PROD0903,LG Haircare,Beauty,Haircare,LG,873,355
+PROD0904,Apple Men's Wear,Clothing,Men's Wear,Apple,2739,4
+PROD0905,Sony Laptops,Electronics,Laptops,Sony,13590,233
+PROD0906,Philips Headphones,Electronics,Headphones,Philips,69283,156
+PROD0907,Puma Outdoor,Sports,Outdoor,Puma,9479,427
+PROD0908,Nike Haircare,Beauty,Haircare,Nike,391,335
+PROD0909,Samsung Furniture,Home,Furniture,Samsung,9197,319
+PROD0910,Philips Skincare,Beauty,Skincare,Philips,1507,393
+PROD0911,Puma Smart Watches,Electronics,Smart Watches,Puma,29812,277
+PROD0912,Sony Furniture,Home,Furniture,Sony,11265,280
+PROD0913,LG Kids' Wear,Clothing,Kids' Wear,LG,1413,232
+PROD0914,Levi's Headphones,Electronics,Headphones,Levi's,48545,255
+PROD0915,Apple Kitchen,Home,Kitchen,Apple,2701,358
+PROD0916,Levi's Kitchen,Home,Kitchen,Levi's,7803,297
+PROD0917,Puma Men's Wear,Clothing,Men's Wear,Puma,978,212
+PROD0918,Philips Skincare,Beauty,Skincare,Philips,2619,183
+PROD0919,Apple Furniture,Home,Furniture,Apple,3592,389
+PROD0920,Reebok Kitchen,Home,Kitchen,Reebok,12334,196
+PROD0921,Adidas Decor,Home,Decor,Adidas,14768,226
+PROD0922,Adidas Men's Wear,Clothing,Men's Wear,Adidas,1696,374
+PROD0923,Philips Kids' Wear,Clothing,Kids' Wear,Philips,2307,264
+PROD0924,Samsung Makeup,Beauty,Makeup,Samsung,1476,451
+PROD0925,Levi's Sportswear,Sports,Sportswear,Levi's,5413,13
+PROD0926,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,18089,104
+PROD0927,Levi's Sportswear,Sports,Sportswear,Levi's,8437,173
+PROD0928,Sony Kitchen,Home,Kitchen,Sony,7352,493
+PROD0929,Puma Outdoor,Sports,Outdoor,Puma,2493,429
+PROD0930,Apple Outdoor,Sports,Outdoor,Apple,19838,80
+PROD0931,Adidas Outdoor,Sports,Outdoor,Adidas,5050,118
+PROD0932,Sony Kids' Wear,Clothing,Kids' Wear,Sony,1259,430
+PROD0933,Puma Furniture,Home,Furniture,Puma,5778,216
+PROD0934,Philips Mobile Phones,Electronics,Mobile Phones,Philips,23666,255
+PROD0935,Samsung Skincare,Beauty,Skincare,Samsung,391,272
+PROD0936,Philips Outdoor,Sports,Outdoor,Philips,15473,396
+PROD0937,Philips Kitchen,Home,Kitchen,Philips,4872,283
+PROD0938,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,3402,341
+PROD0939,LG Sportswear,Sports,Sportswear,LG,9112,347
+PROD0940,Samsung Outdoor,Sports,Outdoor,Samsung,16096,233
+PROD0941,Samsung Kids' Wear,Clothing,Kids' Wear,Samsung,1629,45
+PROD0942,Nike Sportswear,Sports,Sportswear,Nike,16210,24
+PROD0943,Samsung Fitness Equipment,Sports,Fitness Equipment,Samsung,18355,232
+PROD0944,Nike Decor,Home,Decor,Nike,8797,135
+PROD0945,LG Skincare,Beauty,Skincare,LG,821,374
+PROD0946,Apple Women's Wear,Clothing,Women's Wear,Apple,715,109
+PROD0947,Nike Outdoor,Sports,Outdoor,Nike,14159,483
+PROD0948,Sony Women's Wear,Clothing,Women's Wear,Sony,4464,144
+PROD0949,Philips Men's Wear,Clothing,Men's Wear,Philips,851,277
+PROD0950,Samsung Men's Wear,Clothing,Men's Wear,Samsung,4392,180
+PROD0951,Nike Fitness Equipment,Sports,Fitness Equipment,Nike,10188,141
+PROD0952,Adidas Kids' Wear,Clothing,Kids' Wear,Adidas,3801,0
+PROD0953,Sony Women's Wear,Clothing,Women's Wear,Sony,1194,414
+PROD0954,Reebok Kitchen,Home,Kitchen,Reebok,5233,388
+PROD0955,Adidas Makeup,Beauty,Makeup,Adidas,289,311
+PROD0956,Philips Headphones,Electronics,Headphones,Philips,60259,224
+PROD0957,Reebok Fitness Equipment,Sports,Fitness Equipment,Reebok,13023,254
+PROD0958,Nike Kids' Wear,Clothing,Kids' Wear,Nike,1729,326
+PROD0959,Nike Laptops,Electronics,Laptops,Nike,3677,210
+PROD0960,Puma Haircare,Beauty,Haircare,Puma,1124,453
+PROD0961,Adidas Headphones,Electronics,Headphones,Adidas,39963,168
+PROD0962,Philips Kitchen,Home,Kitchen,Philips,4671,158
+PROD0963,Apple Men's Wear,Clothing,Men's Wear,Apple,2372,420
+PROD0964,Samsung Men's Wear,Clothing,Men's Wear,Samsung,2854,323
+PROD0965,Philips Furniture,Home,Furniture,Philips,2750,123
+PROD0966,Apple Skincare,Beauty,Skincare,Apple,1088,136
+PROD0967,Puma Outdoor,Sports,Outdoor,Puma,19153,421
+PROD0968,Levi's Kitchen,Home,Kitchen,Levi's,7685,156
+PROD0969,Sony Makeup,Beauty,Makeup,Sony,1794,294
+PROD0970,Apple Sportswear,Sports,Sportswear,Apple,18065,378
+PROD0971,Levi's Kitchen,Home,Kitchen,Levi's,4255,446
+PROD0972,Reebok Laptops,Electronics,Laptops,Reebok,37287,151
+PROD0973,Sony Kids' Wear,Clothing,Kids' Wear,Sony,4996,3
+PROD0974,LG Makeup,Beauty,Makeup,LG,2111,457
+PROD0975,LG Outdoor,Sports,Outdoor,LG,1929,154
+PROD0976,Apple Skincare,Beauty,Skincare,Apple,804,442
+PROD0977,LG Skincare,Beauty,Skincare,LG,2204,178
+PROD0978,LG Smart Watches,Electronics,Smart Watches,LG,57613,30
+PROD0979,Philips Makeup,Beauty,Makeup,Philips,803,44
+PROD0980,Sony Makeup,Beauty,Makeup,Sony,2703,342
+PROD0981,Reebok Headphones,Electronics,Headphones,Reebok,75479,456
+PROD0982,Reebok Men's Wear,Clothing,Men's Wear,Reebok,4303,163
+PROD0983,Levi's Outdoor,Sports,Outdoor,Levi's,15897,290
+PROD0984,Sony Men's Wear,Clothing,Men's Wear,Sony,2879,416
+PROD0985,Puma Kitchen,Home,Kitchen,Puma,6183,211
+PROD0986,Puma Skincare,Beauty,Skincare,Puma,909,405
+PROD0987,Puma Outdoor,Sports,Outdoor,Puma,7979,264
+PROD0988,Levi's Haircare,Beauty,Haircare,Levi's,1063,14
+PROD0989,Sony Makeup,Beauty,Makeup,Sony,1835,473
+PROD0990,Levi's Mobile Phones,Electronics,Mobile Phones,Levi's,8324,272
+PROD0991,Sony Women's Wear,Clothing,Women's Wear,Sony,2983,318
+PROD0992,Reebok Decor,Home,Decor,Reebok,7671,356
+PROD0993,Puma Haircare,Beauty,Haircare,Puma,892,362
+PROD0994,Adidas Mobile Phones,Electronics,Mobile Phones,Adidas,25415,44
+PROD0995,Puma Mobile Phones,Electronics,Mobile Phones,Puma,66720,328
+PROD0996,Samsung Sportswear,Sports,Sportswear,Samsung,7402,56
+PROD0997,Reebok Sportswear,Sports,Sportswear,Reebok,6066,259
+PROD0998,Levi's Fitness Equipment,Sports,Fitness Equipment,Levi's,7733,271
+PROD0999,Reebok Laptops,Electronics,Laptops,Reebok,75644,195

@@ -1,0 +1,2001 @@
+CampaignID,CampaignName,CustomerID,CampaignMedium,EngagementLevel,ConversionStatus
+CAM0000,Campaign Real,CUST06074,Push Notification,Ignored,Not Converted
+CAM0001,Campaign Discuss,CUST08198,Social Media,Clicked,Not Converted
+CAM0002,Campaign Product,CUST02491,Email,Opened,Converted
+CAM0003,Campaign Effect,CUST02489,Social Media,Clicked,Not Converted
+CAM0004,Campaign Better,CUST07464,Email,Opened,Not Converted
+CAM0005,Campaign Style,CUST09294,Push Notification,Clicked,Converted
+CAM0006,Campaign Wide,CUST03339,Push Notification,Ignored,Converted
+CAM0007,Campaign Area,CUST08424,Email,Ignored,Not Converted
+CAM0008,Campaign Low,CUST05958,Social Media,Ignored,Not Converted
+CAM0009,Campaign Hear,CUST03754,Push Notification,Ignored,Not Converted
+CAM0010,Campaign Ball,CUST07961,Email,Clicked,Not Converted
+CAM0011,Campaign Put,CUST08190,Social Media,Opened,Not Converted
+CAM0012,Campaign New,CUST00501,Social Media,Ignored,Converted
+CAM0013,Campaign Significant,CUST00210,Social Media,Ignored,Converted
+CAM0014,Campaign Day,CUST03409,SMS,Opened,Converted
+CAM0015,Campaign Run,CUST08220,Email,Opened,Not Converted
+CAM0016,Campaign Year,CUST01757,Push Notification,Ignored,Converted
+CAM0017,Campaign Simply,CUST08922,Push Notification,Opened,Converted
+CAM0018,Campaign Expert,CUST06322,Push Notification,Ignored,Not Converted
+CAM0019,Campaign Actually,CUST01903,SMS,Clicked,Not Converted
+CAM0020,Campaign Structure,CUST05430,Social Media,Opened,Not Converted
+CAM0021,Campaign Those,CUST03521,SMS,Ignored,Not Converted
+CAM0022,Campaign Big,CUST01433,Email,Opened,Converted
+CAM0023,Campaign Budget,CUST02613,SMS,Opened,Converted
+CAM0024,Campaign Attack,CUST07467,SMS,Clicked,Not Converted
+CAM0025,Campaign Put,CUST07746,Email,Clicked,Converted
+CAM0026,Campaign Phone,CUST09092,SMS,Opened,Not Converted
+CAM0027,Campaign Crime,CUST02358,SMS,Ignored,Converted
+CAM0028,Campaign Reality,CUST06975,Email,Clicked,Not Converted
+CAM0029,Campaign Fish,CUST03521,Social Media,Opened,Converted
+CAM0030,Campaign However,CUST04573,Email,Ignored,Converted
+CAM0031,Campaign Dinner,CUST02453,SMS,Ignored,Converted
+CAM0032,Campaign Responsibility,CUST05919,SMS,Ignored,Not Converted
+CAM0033,Campaign Thousand,CUST07654,Push Notification,Ignored,Converted
+CAM0034,Campaign Range,CUST00072,Social Media,Ignored,Converted
+CAM0035,Campaign Finish,CUST04516,Social Media,Opened,Not Converted
+CAM0036,Campaign Lawyer,CUST02781,SMS,Opened,Not Converted
+CAM0037,Campaign Industry,CUST08927,SMS,Opened,Not Converted
+CAM0038,Campaign Task,CUST00596,Email,Clicked,Converted
+CAM0039,Campaign World,CUST06303,Social Media,Ignored,Not Converted
+CAM0040,Campaign Order,CUST02750,Social Media,Opened,Not Converted
+CAM0041,Campaign Quite,CUST09558,Social Media,Opened,Converted
+CAM0042,Campaign Cover,CUST06398,Social Media,Clicked,Not Converted
+CAM0043,Campaign Quickly,CUST09613,Push Notification,Clicked,Not Converted
+CAM0044,Campaign Peace,CUST05668,Email,Opened,Not Converted
+CAM0045,Campaign Resource,CUST03934,SMS,Clicked,Converted
+CAM0046,Campaign Data,CUST08715,SMS,Ignored,Converted
+CAM0047,Campaign Year,CUST01129,Push Notification,Ignored,Converted
+CAM0048,Campaign She,CUST01302,SMS,Ignored,Converted
+CAM0049,Campaign Out,CUST02395,SMS,Opened,Not Converted
+CAM0050,Campaign Everyone,CUST02824,Social Media,Clicked,Not Converted
+CAM0051,Campaign Interview,CUST08044,SMS,Clicked,Not Converted
+CAM0052,Campaign Degree,CUST07502,SMS,Opened,Converted
+CAM0053,Campaign Appear,CUST07856,SMS,Opened,Converted
+CAM0054,Campaign First,CUST02634,Email,Clicked,Not Converted
+CAM0055,Campaign Four,CUST06163,Email,Clicked,Converted
+CAM0056,Campaign Free,CUST05818,SMS,Ignored,Not Converted
+CAM0057,Campaign Structure,CUST00176,Social Media,Clicked,Not Converted
+CAM0058,Campaign Face,CUST06185,SMS,Ignored,Converted
+CAM0059,Campaign Since,CUST03618,Push Notification,Clicked,Not Converted
+CAM0060,Campaign Dark,CUST07103,Push Notification,Opened,Not Converted
+CAM0061,Campaign Company,CUST07275,SMS,Ignored,Converted
+CAM0062,Campaign Style,CUST00110,Push Notification,Opened,Not Converted
+CAM0063,Campaign Measure,CUST05421,Email,Ignored,Not Converted
+CAM0064,Campaign Space,CUST09037,Social Media,Ignored,Converted
+CAM0065,Campaign Official,CUST08175,Social Media,Ignored,Not Converted
+CAM0066,Campaign Husband,CUST02806,SMS,Opened,Not Converted
+CAM0067,Campaign Responsibility,CUST05340,Email,Ignored,Converted
+CAM0068,Campaign Night,CUST05129,Email,Opened,Not Converted
+CAM0069,Campaign Test,CUST01762,SMS,Ignored,Not Converted
+CAM0070,Campaign Reduce,CUST06319,Push Notification,Opened,Not Converted
+CAM0071,Campaign Threat,CUST00988,Social Media,Ignored,Converted
+CAM0072,Campaign Find,CUST02841,SMS,Ignored,Not Converted
+CAM0073,Campaign Charge,CUST07094,Push Notification,Clicked,Converted
+CAM0074,Campaign Stage,CUST01441,SMS,Ignored,Converted
+CAM0075,Campaign Test,CUST09419,SMS,Opened,Converted
+CAM0076,Campaign Lead,CUST03511,Social Media,Ignored,Converted
+CAM0077,Campaign Past,CUST00274,Push Notification,Ignored,Converted
+CAM0078,Campaign Kitchen,CUST00857,Social Media,Opened,Not Converted
+CAM0079,Campaign Military,CUST04852,Push Notification,Ignored,Converted
+CAM0080,Campaign Spring,CUST01050,SMS,Ignored,Not Converted
+CAM0081,Campaign Rock,CUST01201,SMS,Ignored,Converted
+CAM0082,Campaign Effort,CUST04344,Email,Ignored,Not Converted
+CAM0083,Campaign Per,CUST06528,Social Media,Opened,Converted
+CAM0084,Campaign Produce,CUST09584,Social Media,Opened,Converted
+CAM0085,Campaign Place,CUST05279,Email,Clicked,Not Converted
+CAM0086,Campaign Deep,CUST00143,Push Notification,Opened,Not Converted
+CAM0087,Campaign Force,CUST09833,Social Media,Opened,Converted
+CAM0088,Campaign White,CUST03008,SMS,Opened,Converted
+CAM0089,Campaign West,CUST08750,Social Media,Ignored,Converted
+CAM0090,Campaign Agent,CUST09189,Email,Ignored,Converted
+CAM0091,Campaign Seat,CUST04388,Social Media,Opened,Not Converted
+CAM0092,Campaign Investment,CUST01558,Social Media,Opened,Not Converted
+CAM0093,Campaign Through,CUST09442,Push Notification,Opened,Not Converted
+CAM0094,Campaign Agreement,CUST04467,Email,Opened,Not Converted
+CAM0095,Campaign Citizen,CUST09759,SMS,Opened,Not Converted
+CAM0096,Campaign Minute,CUST07028,Push Notification,Ignored,Not Converted
+CAM0097,Campaign Lead,CUST08495,Email,Ignored,Not Converted
+CAM0098,Campaign List,CUST03687,Push Notification,Ignored,Not Converted
+CAM0099,Campaign Imagine,CUST04158,Social Media,Clicked,Converted
+CAM0100,Campaign Culture,CUST09281,Push Notification,Clicked,Not Converted
+CAM0101,Campaign Until,CUST05038,Push Notification,Clicked,Converted
+CAM0102,Campaign Appear,CUST09459,Email,Clicked,Converted
+CAM0103,Campaign Chair,CUST01796,Email,Ignored,Converted
+CAM0104,Campaign Expect,CUST00641,Social Media,Clicked,Not Converted
+CAM0105,Campaign Citizen,CUST06223,Push Notification,Opened,Not Converted
+CAM0106,Campaign Important,CUST09920,Email,Clicked,Not Converted
+CAM0107,Campaign Yard,CUST03180,Email,Ignored,Converted
+CAM0108,Campaign Science,CUST04124,Email,Opened,Not Converted
+CAM0109,Campaign Machine,CUST07589,Push Notification,Clicked,Not Converted
+CAM0110,Campaign Able,CUST05338,SMS,Clicked,Converted
+CAM0111,Campaign Society,CUST04565,Push Notification,Opened,Converted
+CAM0112,Campaign Section,CUST03970,SMS,Ignored,Converted
+CAM0113,Campaign Few,CUST00428,Push Notification,Ignored,Not Converted
+CAM0114,Campaign Cold,CUST02179,SMS,Opened,Not Converted
+CAM0115,Campaign Face,CUST05161,Push Notification,Clicked,Converted
+CAM0116,Campaign Expert,CUST09116,SMS,Opened,Converted
+CAM0117,Campaign Even,CUST03161,SMS,Clicked,Not Converted
+CAM0118,Campaign Important,CUST06021,SMS,Ignored,Converted
+CAM0119,Campaign Themselves,CUST03560,SMS,Opened,Not Converted
+CAM0120,Campaign Country,CUST01608,Email,Ignored,Converted
+CAM0121,Campaign Concern,CUST06534,Push Notification,Clicked,Converted
+CAM0122,Campaign Heavy,CUST09854,Social Media,Clicked,Converted
+CAM0123,Campaign Ahead,CUST03362,Email,Opened,Not Converted
+CAM0124,Campaign Both,CUST05834,Email,Ignored,Converted
+CAM0125,Campaign Successful,CUST06183,SMS,Opened,Converted
+CAM0126,Campaign Can,CUST04950,Push Notification,Clicked,Converted
+CAM0127,Campaign Bad,CUST04487,SMS,Opened,Not Converted
+CAM0128,Campaign At,CUST04417,Social Media,Opened,Converted
+CAM0129,Campaign Standard,CUST07525,Email,Ignored,Not Converted
+CAM0130,Campaign If,CUST02847,Email,Clicked,Converted
+CAM0131,Campaign Organization,CUST08489,Social Media,Ignored,Not Converted
+CAM0132,Campaign Policy,CUST06343,Email,Ignored,Converted
+CAM0133,Campaign Truth,CUST05673,Social Media,Opened,Converted
+CAM0134,Campaign Region,CUST04916,Social Media,Ignored,Not Converted
+CAM0135,Campaign Bed,CUST01170,SMS,Clicked,Not Converted
+CAM0136,Campaign Result,CUST06876,Email,Opened,Converted
+CAM0137,Campaign Country,CUST00123,SMS,Clicked,Converted
+CAM0138,Campaign Impact,CUST09418,Push Notification,Ignored,Converted
+CAM0139,Campaign Sell,CUST09835,Email,Ignored,Converted
+CAM0140,Campaign No,CUST06930,Email,Clicked,Converted
+CAM0141,Campaign Total,CUST05019,Email,Clicked,Converted
+CAM0142,Campaign Serve,CUST03894,Push Notification,Clicked,Converted
+CAM0143,Campaign Him,CUST09969,Push Notification,Clicked,Not Converted
+CAM0144,Campaign Clearly,CUST00597,Email,Ignored,Not Converted
+CAM0145,Campaign Treatment,CUST09157,SMS,Clicked,Converted
+CAM0146,Campaign Office,CUST01733,Social Media,Opened,Not Converted
+CAM0147,Campaign Center,CUST03039,Social Media,Ignored,Converted
+CAM0148,Campaign Election,CUST09109,SMS,Clicked,Not Converted
+CAM0149,Campaign Military,CUST07195,Social Media,Opened,Not Converted
+CAM0150,Campaign College,CUST04166,Email,Clicked,Converted
+CAM0151,Campaign Class,CUST00430,Email,Ignored,Not Converted
+CAM0152,Campaign Quickly,CUST04019,Email,Ignored,Converted
+CAM0153,Campaign Style,CUST04041,Email,Clicked,Not Converted
+CAM0154,Campaign Late,CUST06292,Social Media,Ignored,Converted
+CAM0155,Campaign Thousand,CUST02130,Social Media,Ignored,Not Converted
+CAM0156,Campaign Whom,CUST02125,Social Media,Clicked,Converted
+CAM0157,Campaign Film,CUST03468,Social Media,Opened,Converted
+CAM0158,Campaign Source,CUST01641,SMS,Ignored,Converted
+CAM0159,Campaign Adult,CUST02992,Social Media,Ignored,Converted
+CAM0160,Campaign Lead,CUST04645,Email,Opened,Not Converted
+CAM0161,Campaign Result,CUST00166,Social Media,Ignored,Converted
+CAM0162,Campaign Civil,CUST02829,Push Notification,Clicked,Not Converted
+CAM0163,Campaign Similar,CUST06348,Email,Ignored,Not Converted
+CAM0164,Campaign Stock,CUST06001,Email,Ignored,Converted
+CAM0165,Campaign Capital,CUST01101,Push Notification,Clicked,Converted
+CAM0166,Campaign Many,CUST07290,Email,Ignored,Not Converted
+CAM0167,Campaign Ten,CUST03979,Email,Clicked,Converted
+CAM0168,Campaign Yourself,CUST03317,Email,Opened,Converted
+CAM0169,Campaign Before,CUST04867,SMS,Ignored,Not Converted
+CAM0170,Campaign Catch,CUST06092,Push Notification,Ignored,Not Converted
+CAM0171,Campaign Represent,CUST04480,Social Media,Ignored,Not Converted
+CAM0172,Campaign Tv,CUST07914,Push Notification,Clicked,Not Converted
+CAM0173,Campaign Ever,CUST05590,Push Notification,Ignored,Not Converted
+CAM0174,Campaign Involve,CUST00527,Email,Ignored,Not Converted
+CAM0175,Campaign Environmental,CUST07617,Social Media,Clicked,Not Converted
+CAM0176,Campaign Learn,CUST05592,Email,Opened,Converted
+CAM0177,Campaign Series,CUST01135,Email,Opened,Converted
+CAM0178,Campaign Left,CUST06851,Social Media,Ignored,Converted
+CAM0179,Campaign Sometimes,CUST04621,SMS,Opened,Converted
+CAM0180,Campaign Road,CUST08046,SMS,Opened,Not Converted
+CAM0181,Campaign Policy,CUST04374,Social Media,Ignored,Not Converted
+CAM0182,Campaign Nation,CUST09209,Social Media,Ignored,Not Converted
+CAM0183,Campaign Bank,CUST06115,Email,Ignored,Converted
+CAM0184,Campaign Commercial,CUST08994,Email,Opened,Converted
+CAM0185,Campaign Discover,CUST07862,SMS,Ignored,Converted
+CAM0186,Campaign Bad,CUST08146,Push Notification,Opened,Converted
+CAM0187,Campaign Officer,CUST06397,Email,Ignored,Converted
+CAM0188,Campaign Glass,CUST01097,Social Media,Opened,Converted
+CAM0189,Campaign Help,CUST03561,Email,Clicked,Converted
+CAM0190,Campaign Record,CUST04962,Email,Clicked,Not Converted
+CAM0191,Campaign Significant,CUST08754,SMS,Opened,Not Converted
+CAM0192,Campaign Any,CUST00468,Social Media,Clicked,Converted
+CAM0193,Campaign Indicate,CUST02870,SMS,Opened,Converted
+CAM0194,Campaign Bring,CUST02780,Email,Ignored,Not Converted
+CAM0195,Campaign See,CUST06028,Email,Ignored,Converted
+CAM0196,Campaign Several,CUST00409,SMS,Opened,Not Converted
+CAM0197,Campaign From,CUST00912,SMS,Ignored,Converted
+CAM0198,Campaign Side,CUST05833,Social Media,Clicked,Converted
+CAM0199,Campaign After,CUST01889,Push Notification,Opened,Converted
+CAM0200,Campaign Low,CUST02629,Social Media,Ignored,Converted
+CAM0201,Campaign Prove,CUST04471,Push Notification,Ignored,Converted
+CAM0202,Campaign Information,CUST05085,Push Notification,Opened,Not Converted
+CAM0203,Campaign He,CUST04690,Social Media,Opened,Converted
+CAM0204,Campaign Sign,CUST04854,SMS,Clicked,Converted
+CAM0205,Campaign Follow,CUST05249,SMS,Opened,Not Converted
+CAM0206,Campaign A,CUST08221,SMS,Opened,Converted
+CAM0207,Campaign Big,CUST06476,Email,Opened,Not Converted
+CAM0208,Campaign Team,CUST03767,Push Notification,Opened,Converted
+CAM0209,Campaign Until,CUST03507,SMS,Ignored,Converted
+CAM0210,Campaign Sure,CUST00310,Email,Opened,Not Converted
+CAM0211,Campaign Prevent,CUST09048,Email,Ignored,Not Converted
+CAM0212,Campaign Recognize,CUST01329,Social Media,Ignored,Converted
+CAM0213,Campaign Parent,CUST03515,SMS,Opened,Not Converted
+CAM0214,Campaign Us,CUST05570,Push Notification,Clicked,Not Converted
+CAM0215,Campaign Surface,CUST03403,Push Notification,Clicked,Not Converted
+CAM0216,Campaign Hot,CUST06005,Email,Ignored,Converted
+CAM0217,Campaign Trip,CUST01831,Email,Opened,Not Converted
+CAM0218,Campaign Six,CUST07791,Push Notification,Opened,Converted
+CAM0219,Campaign Stand,CUST07753,Email,Clicked,Converted
+CAM0220,Campaign Amount,CUST02120,SMS,Clicked,Not Converted
+CAM0221,Campaign Write,CUST04268,Push Notification,Opened,Not Converted
+CAM0222,Campaign Rate,CUST05439,Push Notification,Clicked,Converted
+CAM0223,Campaign Single,CUST00805,SMS,Ignored,Converted
+CAM0224,Campaign Keep,CUST09476,Email,Opened,Converted
+CAM0225,Campaign Draw,CUST06074,Social Media,Ignored,Not Converted
+CAM0226,Campaign People,CUST05677,Email,Clicked,Converted
+CAM0227,Campaign Understand,CUST01398,Social Media,Ignored,Converted
+CAM0228,Campaign Eight,CUST07253,Push Notification,Clicked,Converted
+CAM0229,Campaign Although,CUST08793,Email,Ignored,Converted
+CAM0230,Campaign Far,CUST07044,Push Notification,Clicked,Not Converted
+CAM0231,Campaign Or,CUST02662,Social Media,Clicked,Converted
+CAM0232,Campaign Pay,CUST03088,SMS,Clicked,Converted
+CAM0233,Campaign Job,CUST09521,Email,Clicked,Not Converted
+CAM0234,Campaign Book,CUST05580,SMS,Ignored,Not Converted
+CAM0235,Campaign Like,CUST05064,Push Notification,Clicked,Not Converted
+CAM0236,Campaign Activity,CUST02810,SMS,Clicked,Converted
+CAM0237,Campaign Whatever,CUST04996,Social Media,Ignored,Not Converted
+CAM0238,Campaign Its,CUST03463,Social Media,Opened,Converted
+CAM0239,Campaign Again,CUST00900,Push Notification,Clicked,Not Converted
+CAM0240,Campaign Answer,CUST06669,Email,Ignored,Converted
+CAM0241,Campaign Shoulder,CUST07994,Push Notification,Ignored,Converted
+CAM0242,Campaign Adult,CUST06420,Push Notification,Opened,Converted
+CAM0243,Campaign Daughter,CUST07842,Email,Opened,Converted
+CAM0244,Campaign Service,CUST09334,Social Media,Clicked,Not Converted
+CAM0245,Campaign Benefit,CUST05907,SMS,Ignored,Not Converted
+CAM0246,Campaign Next,CUST09089,Push Notification,Opened,Not Converted
+CAM0247,Campaign Learn,CUST09922,SMS,Clicked,Converted
+CAM0248,Campaign Although,CUST02143,SMS,Ignored,Not Converted
+CAM0249,Campaign Along,CUST03624,SMS,Opened,Not Converted
+CAM0250,Campaign Ok,CUST02855,Social Media,Ignored,Converted
+CAM0251,Campaign Also,CUST06510,SMS,Ignored,Converted
+CAM0252,Campaign Huge,CUST03140,SMS,Opened,Converted
+CAM0253,Campaign Lead,CUST03200,Social Media,Opened,Not Converted
+CAM0254,Campaign That,CUST03364,SMS,Opened,Converted
+CAM0255,Campaign History,CUST05830,SMS,Clicked,Converted
+CAM0256,Campaign Challenge,CUST08606,Social Media,Ignored,Converted
+CAM0257,Campaign Ahead,CUST06786,Push Notification,Opened,Not Converted
+CAM0258,Campaign Impact,CUST07527,SMS,Ignored,Converted
+CAM0259,Campaign Article,CUST09074,SMS,Clicked,Not Converted
+CAM0260,Campaign Increase,CUST01509,Social Media,Ignored,Converted
+CAM0261,Campaign Image,CUST07684,SMS,Ignored,Not Converted
+CAM0262,Campaign Election,CUST01583,Push Notification,Clicked,Not Converted
+CAM0263,Campaign Show,CUST00706,SMS,Clicked,Converted
+CAM0264,Campaign Focus,CUST06492,Social Media,Clicked,Converted
+CAM0265,Campaign East,CUST09729,Social Media,Clicked,Not Converted
+CAM0266,Campaign Around,CUST01160,SMS,Opened,Converted
+CAM0267,Campaign Natural,CUST03199,Social Media,Ignored,Not Converted
+CAM0268,Campaign Catch,CUST05613,Social Media,Opened,Converted
+CAM0269,Campaign Produce,CUST08482,SMS,Opened,Converted
+CAM0270,Campaign Budget,CUST00118,SMS,Opened,Converted
+CAM0271,Campaign Collection,CUST08320,Email,Opened,Converted
+CAM0272,Campaign Most,CUST07623,Push Notification,Clicked,Converted
+CAM0273,Campaign Personal,CUST05124,Social Media,Opened,Converted
+CAM0274,Campaign Begin,CUST03704,Push Notification,Opened,Converted
+CAM0275,Campaign Gas,CUST08937,SMS,Opened,Not Converted
+CAM0276,Campaign Mouth,CUST08193,SMS,Clicked,Not Converted
+CAM0277,Campaign Claim,CUST02577,Social Media,Opened,Not Converted
+CAM0278,Campaign Yet,CUST01583,Email,Clicked,Not Converted
+CAM0279,Campaign Somebody,CUST09470,Social Media,Clicked,Not Converted
+CAM0280,Campaign Chance,CUST04742,Email,Opened,Converted
+CAM0281,Campaign Easy,CUST07200,Social Media,Clicked,Not Converted
+CAM0282,Campaign This,CUST07386,Social Media,Opened,Converted
+CAM0283,Campaign Firm,CUST01007,Push Notification,Opened,Not Converted
+CAM0284,Campaign Such,CUST07407,Email,Opened,Converted
+CAM0285,Campaign Play,CUST04629,Email,Clicked,Converted
+CAM0286,Campaign Science,CUST05672,SMS,Opened,Not Converted
+CAM0287,Campaign High,CUST02869,Email,Ignored,Not Converted
+CAM0288,Campaign Hot,CUST09881,Email,Opened,Not Converted
+CAM0289,Campaign Perhaps,CUST01017,Push Notification,Ignored,Not Converted
+CAM0290,Campaign Hundred,CUST01865,Push Notification,Ignored,Not Converted
+CAM0291,Campaign Model,CUST00121,Email,Opened,Converted
+CAM0292,Campaign Husband,CUST04878,SMS,Opened,Not Converted
+CAM0293,Campaign Kid,CUST01754,Email,Ignored,Converted
+CAM0294,Campaign Once,CUST05786,SMS,Ignored,Converted
+CAM0295,Campaign Project,CUST07038,Push Notification,Opened,Not Converted
+CAM0296,Campaign Mind,CUST04279,Push Notification,Ignored,Converted
+CAM0297,Campaign Western,CUST06823,Push Notification,Clicked,Converted
+CAM0298,Campaign Figure,CUST01894,SMS,Opened,Not Converted
+CAM0299,Campaign Teach,CUST09957,Push Notification,Ignored,Converted
+CAM0300,Campaign Machine,CUST08432,Email,Clicked,Converted
+CAM0301,Campaign But,CUST06503,Email,Clicked,Converted
+CAM0302,Campaign No,CUST04859,Social Media,Clicked,Not Converted
+CAM0303,Campaign Protect,CUST07788,Email,Opened,Not Converted
+CAM0304,Campaign True,CUST06739,Email,Ignored,Converted
+CAM0305,Campaign Front,CUST04732,SMS,Ignored,Not Converted
+CAM0306,Campaign Minute,CUST05053,Push Notification,Clicked,Converted
+CAM0307,Campaign Natural,CUST07895,Email,Ignored,Converted
+CAM0308,Campaign Film,CUST04188,SMS,Opened,Not Converted
+CAM0309,Campaign Organization,CUST06054,Social Media,Opened,Converted
+CAM0310,Campaign Bar,CUST05613,Social Media,Opened,Not Converted
+CAM0311,Campaign Voice,CUST01937,Social Media,Opened,Converted
+CAM0312,Campaign Wrong,CUST07554,Push Notification,Opened,Converted
+CAM0313,Campaign Imagine,CUST03361,SMS,Clicked,Converted
+CAM0314,Campaign He,CUST00336,Social Media,Opened,Converted
+CAM0315,Campaign Night,CUST01176,Social Media,Opened,Converted
+CAM0316,Campaign Herself,CUST06022,Push Notification,Clicked,Converted
+CAM0317,Campaign Strong,CUST00173,Social Media,Opened,Converted
+CAM0318,Campaign Visit,CUST03598,SMS,Clicked,Converted
+CAM0319,Campaign Decade,CUST01268,Social Media,Ignored,Not Converted
+CAM0320,Campaign Similar,CUST07820,Push Notification,Ignored,Not Converted
+CAM0321,Campaign None,CUST02940,Push Notification,Opened,Converted
+CAM0322,Campaign Structure,CUST00986,Social Media,Opened,Not Converted
+CAM0323,Campaign According,CUST09003,SMS,Opened,Not Converted
+CAM0324,Campaign Assume,CUST05835,Social Media,Opened,Converted
+CAM0325,Campaign Teacher,CUST09985,Email,Opened,Not Converted
+CAM0326,Campaign Meeting,CUST05634,Social Media,Opened,Not Converted
+CAM0327,Campaign Paper,CUST01145,Social Media,Ignored,Converted
+CAM0328,Campaign Continue,CUST05524,Email,Ignored,Converted
+CAM0329,Campaign Figure,CUST07705,SMS,Ignored,Converted
+CAM0330,Campaign Sound,CUST09880,Push Notification,Clicked,Converted
+CAM0331,Campaign Measure,CUST02138,Social Media,Opened,Converted
+CAM0332,Campaign Respond,CUST05951,Email,Clicked,Converted
+CAM0333,Campaign Might,CUST08535,Social Media,Opened,Not Converted
+CAM0334,Campaign Wait,CUST07292,Push Notification,Opened,Not Converted
+CAM0335,Campaign Spend,CUST00014,Email,Ignored,Converted
+CAM0336,Campaign Physical,CUST08474,Email,Clicked,Converted
+CAM0337,Campaign Film,CUST01199,SMS,Clicked,Not Converted
+CAM0338,Campaign Form,CUST05675,SMS,Ignored,Not Converted
+CAM0339,Campaign Candidate,CUST01609,Push Notification,Ignored,Converted
+CAM0340,Campaign Theory,CUST02330,Push Notification,Opened,Not Converted
+CAM0341,Campaign Film,CUST04702,Social Media,Opened,Converted
+CAM0342,Campaign Into,CUST02696,Push Notification,Opened,Converted
+CAM0343,Campaign Property,CUST01023,Social Media,Opened,Converted
+CAM0344,Campaign Describe,CUST03191,SMS,Clicked,Not Converted
+CAM0345,Campaign Both,CUST01870,Push Notification,Clicked,Converted
+CAM0346,Campaign Use,CUST06571,Email,Clicked,Not Converted
+CAM0347,Campaign Student,CUST01605,SMS,Opened,Not Converted
+CAM0348,Campaign Party,CUST06490,SMS,Opened,Not Converted
+CAM0349,Campaign Career,CUST00906,Push Notification,Opened,Converted
+CAM0350,Campaign West,CUST01474,Push Notification,Ignored,Converted
+CAM0351,Campaign Around,CUST04236,Email,Opened,Not Converted
+CAM0352,Campaign Study,CUST04929,SMS,Ignored,Not Converted
+CAM0353,Campaign Must,CUST03105,Email,Clicked,Converted
+CAM0354,Campaign Test,CUST02078,Push Notification,Ignored,Not Converted
+CAM0355,Campaign Section,CUST05927,Social Media,Opened,Not Converted
+CAM0356,Campaign Course,CUST03097,Push Notification,Clicked,Converted
+CAM0357,Campaign Himself,CUST08516,SMS,Ignored,Not Converted
+CAM0358,Campaign Rich,CUST03903,Email,Ignored,Not Converted
+CAM0359,Campaign Democrat,CUST00673,Social Media,Clicked,Not Converted
+CAM0360,Campaign Up,CUST04475,Social Media,Ignored,Converted
+CAM0361,Campaign Result,CUST01526,Social Media,Opened,Converted
+CAM0362,Campaign Begin,CUST03362,Email,Clicked,Converted
+CAM0363,Campaign Each,CUST08068,Social Media,Ignored,Converted
+CAM0364,Campaign Thought,CUST09231,Email,Opened,Converted
+CAM0365,Campaign Head,CUST01758,Social Media,Ignored,Converted
+CAM0366,Campaign No,CUST08108,Push Notification,Opened,Converted
+CAM0367,Campaign One,CUST09062,Email,Opened,Converted
+CAM0368,Campaign Yourself,CUST02123,SMS,Clicked,Converted
+CAM0369,Campaign Later,CUST05406,SMS,Opened,Converted
+CAM0370,Campaign Risk,CUST09902,SMS,Clicked,Converted
+CAM0371,Campaign Certain,CUST04033,Email,Clicked,Not Converted
+CAM0372,Campaign Add,CUST03766,Email,Clicked,Converted
+CAM0373,Campaign Support,CUST00081,SMS,Ignored,Converted
+CAM0374,Campaign Improve,CUST05251,Push Notification,Clicked,Converted
+CAM0375,Campaign Like,CUST07677,Social Media,Opened,Not Converted
+CAM0376,Campaign Every,CUST09856,Social Media,Opened,Not Converted
+CAM0377,Campaign Pick,CUST09561,Push Notification,Ignored,Converted
+CAM0378,Campaign Upon,CUST04903,Push Notification,Clicked,Not Converted
+CAM0379,Campaign Site,CUST02058,Social Media,Opened,Not Converted
+CAM0380,Campaign Board,CUST09172,SMS,Opened,Converted
+CAM0381,Campaign Happy,CUST04132,Social Media,Ignored,Not Converted
+CAM0382,Campaign Fine,CUST02319,Email,Clicked,Not Converted
+CAM0383,Campaign Almost,CUST05550,Push Notification,Ignored,Converted
+CAM0384,Campaign Interview,CUST09539,SMS,Clicked,Converted
+CAM0385,Campaign Political,CUST07264,Email,Clicked,Not Converted
+CAM0386,Campaign Provide,CUST08759,Push Notification,Ignored,Converted
+CAM0387,Campaign Site,CUST02352,SMS,Ignored,Converted
+CAM0388,Campaign Indeed,CUST05624,Push Notification,Ignored,Not Converted
+CAM0389,Campaign Explain,CUST00263,SMS,Clicked,Converted
+CAM0390,Campaign Benefit,CUST02767,Push Notification,Opened,Converted
+CAM0391,Campaign Imagine,CUST00229,Email,Opened,Converted
+CAM0392,Campaign Stage,CUST04199,SMS,Clicked,Converted
+CAM0393,Campaign Red,CUST02012,Push Notification,Clicked,Converted
+CAM0394,Campaign Only,CUST08883,Social Media,Clicked,Not Converted
+CAM0395,Campaign West,CUST03551,SMS,Clicked,Converted
+CAM0396,Campaign Page,CUST03400,SMS,Ignored,Converted
+CAM0397,Campaign Also,CUST07912,Email,Ignored,Not Converted
+CAM0398,Campaign Type,CUST04840,Email,Clicked,Not Converted
+CAM0399,Campaign Air,CUST05364,Push Notification,Opened,Converted
+CAM0400,Campaign Head,CUST05952,SMS,Clicked,Not Converted
+CAM0401,Campaign Attack,CUST06820,SMS,Opened,Converted
+CAM0402,Campaign Identify,CUST03789,Push Notification,Opened,Not Converted
+CAM0403,Campaign Company,CUST02267,Email,Opened,Converted
+CAM0404,Campaign Special,CUST09231,Email,Opened,Not Converted
+CAM0405,Campaign House,CUST08793,Social Media,Ignored,Converted
+CAM0406,Campaign Appear,CUST04996,Push Notification,Clicked,Converted
+CAM0407,Campaign Current,CUST09041,Social Media,Clicked,Not Converted
+CAM0408,Campaign Main,CUST03696,Push Notification,Opened,Converted
+CAM0409,Campaign Seek,CUST02542,SMS,Ignored,Converted
+CAM0410,Campaign Truth,CUST02126,Email,Clicked,Not Converted
+CAM0411,Campaign Few,CUST03196,SMS,Clicked,Not Converted
+CAM0412,Campaign Ago,CUST04904,Push Notification,Ignored,Not Converted
+CAM0413,Campaign Mother,CUST03435,Email,Ignored,Not Converted
+CAM0414,Campaign Drug,CUST00135,Push Notification,Clicked,Converted
+CAM0415,Campaign Send,CUST03318,Email,Opened,Converted
+CAM0416,Campaign Until,CUST08040,SMS,Clicked,Converted
+CAM0417,Campaign Money,CUST08691,SMS,Opened,Not Converted
+CAM0418,Campaign For,CUST00772,SMS,Ignored,Not Converted
+CAM0419,Campaign Poor,CUST05435,Email,Ignored,Converted
+CAM0420,Campaign White,CUST06557,Push Notification,Ignored,Converted
+CAM0421,Campaign Enough,CUST09497,Social Media,Ignored,Converted
+CAM0422,Campaign Commercial,CUST05416,SMS,Clicked,Converted
+CAM0423,Campaign Participant,CUST01513,Social Media,Opened,Not Converted
+CAM0424,Campaign Forward,CUST00998,Email,Opened,Converted
+CAM0425,Campaign Center,CUST01239,Social Media,Ignored,Converted
+CAM0426,Campaign Attorney,CUST03619,Push Notification,Ignored,Converted
+CAM0427,Campaign Forward,CUST03958,SMS,Opened,Converted
+CAM0428,Campaign These,CUST02720,SMS,Clicked,Converted
+CAM0429,Campaign True,CUST00697,Push Notification,Clicked,Not Converted
+CAM0430,Campaign Open,CUST02044,Push Notification,Clicked,Not Converted
+CAM0431,Campaign Force,CUST08348,Push Notification,Clicked,Not Converted
+CAM0432,Campaign Art,CUST04981,SMS,Ignored,Not Converted
+CAM0433,Campaign Seem,CUST03597,Social Media,Ignored,Converted
+CAM0434,Campaign Wait,CUST05583,Email,Opened,Not Converted
+CAM0435,Campaign Card,CUST08212,SMS,Clicked,Converted
+CAM0436,Campaign Director,CUST06497,Email,Clicked,Converted
+CAM0437,Campaign Also,CUST09082,Social Media,Ignored,Converted
+CAM0438,Campaign Produce,CUST05342,SMS,Opened,Converted
+CAM0439,Campaign Best,CUST00679,Push Notification,Opened,Not Converted
+CAM0440,Campaign Then,CUST06752,SMS,Opened,Not Converted
+CAM0441,Campaign International,CUST01575,Push Notification,Clicked,Converted
+CAM0442,Campaign A,CUST05789,SMS,Ignored,Converted
+CAM0443,Campaign Store,CUST04581,Email,Ignored,Not Converted
+CAM0444,Campaign Anyone,CUST04293,Email,Clicked,Not Converted
+CAM0445,Campaign Speak,CUST08628,SMS,Ignored,Not Converted
+CAM0446,Campaign Ready,CUST03630,Email,Ignored,Converted
+CAM0447,Campaign Action,CUST09275,Social Media,Ignored,Converted
+CAM0448,Campaign Guy,CUST02366,Push Notification,Clicked,Converted
+CAM0449,Campaign Nearly,CUST04067,Push Notification,Clicked,Not Converted
+CAM0450,Campaign Him,CUST08869,Social Media,Opened,Not Converted
+CAM0451,Campaign Single,CUST06136,Push Notification,Ignored,Not Converted
+CAM0452,Campaign Join,CUST05531,Email,Ignored,Converted
+CAM0453,Campaign Whatever,CUST03916,Push Notification,Ignored,Not Converted
+CAM0454,Campaign Similar,CUST06994,Social Media,Ignored,Converted
+CAM0455,Campaign Last,CUST00083,Email,Clicked,Not Converted
+CAM0456,Campaign Talk,CUST06852,SMS,Clicked,Not Converted
+CAM0457,Campaign Fall,CUST04886,Email,Ignored,Converted
+CAM0458,Campaign Cause,CUST08129,Social Media,Ignored,Converted
+CAM0459,Campaign Between,CUST07388,SMS,Opened,Not Converted
+CAM0460,Campaign International,CUST00316,SMS,Clicked,Not Converted
+CAM0461,Campaign Whether,CUST03283,Social Media,Ignored,Not Converted
+CAM0462,Campaign Reason,CUST03780,Push Notification,Clicked,Converted
+CAM0463,Campaign Light,CUST05005,Push Notification,Ignored,Not Converted
+CAM0464,Campaign Former,CUST05945,SMS,Clicked,Not Converted
+CAM0465,Campaign Visit,CUST05584,Email,Ignored,Not Converted
+CAM0466,Campaign Plan,CUST02437,SMS,Opened,Converted
+CAM0467,Campaign May,CUST06249,Push Notification,Opened,Not Converted
+CAM0468,Campaign Week,CUST04142,Social Media,Opened,Not Converted
+CAM0469,Campaign Energy,CUST05490,Email,Ignored,Converted
+CAM0470,Campaign Themselves,CUST05476,Social Media,Opened,Not Converted
+CAM0471,Campaign Second,CUST07318,Email,Opened,Converted
+CAM0472,Campaign Thus,CUST04496,Social Media,Opened,Converted
+CAM0473,Campaign War,CUST09105,SMS,Ignored,Not Converted
+CAM0474,Campaign Low,CUST01036,Email,Clicked,Converted
+CAM0475,Campaign Cause,CUST08054,Email,Clicked,Converted
+CAM0476,Campaign Left,CUST00510,SMS,Ignored,Converted
+CAM0477,Campaign Every,CUST02577,Social Media,Clicked,Not Converted
+CAM0478,Campaign Book,CUST00971,Email,Opened,Converted
+CAM0479,Campaign Can,CUST09928,SMS,Clicked,Converted
+CAM0480,Campaign Accept,CUST02581,Social Media,Ignored,Not Converted
+CAM0481,Campaign Sign,CUST01910,Social Media,Opened,Not Converted
+CAM0482,Campaign Brother,CUST09877,SMS,Opened,Not Converted
+CAM0483,Campaign Other,CUST08202,Email,Ignored,Converted
+CAM0484,Campaign Country,CUST03596,Email,Ignored,Not Converted
+CAM0485,Campaign Call,CUST08660,Email,Opened,Not Converted
+CAM0486,Campaign Coach,CUST00810,Social Media,Opened,Converted
+CAM0487,Campaign Hundred,CUST05854,SMS,Clicked,Converted
+CAM0488,Campaign Standard,CUST09980,Push Notification,Clicked,Converted
+CAM0489,Campaign Speak,CUST04995,SMS,Ignored,Converted
+CAM0490,Campaign Skill,CUST07490,Email,Clicked,Not Converted
+CAM0491,Campaign Firm,CUST05140,Social Media,Ignored,Converted
+CAM0492,Campaign Small,CUST07942,SMS,Ignored,Converted
+CAM0493,Campaign Above,CUST06768,SMS,Opened,Not Converted
+CAM0494,Campaign Network,CUST02560,Email,Opened,Converted
+CAM0495,Campaign Candidate,CUST09230,Social Media,Opened,Converted
+CAM0496,Campaign Can,CUST02344,Email,Clicked,Not Converted
+CAM0497,Campaign Letter,CUST07070,Push Notification,Clicked,Not Converted
+CAM0498,Campaign Effort,CUST02147,Push Notification,Clicked,Not Converted
+CAM0499,Campaign Specific,CUST05182,Social Media,Clicked,Not Converted
+CAM0500,Campaign Child,CUST01299,Push Notification,Opened,Not Converted
+CAM0501,Campaign The,CUST01195,Email,Opened,Converted
+CAM0502,Campaign Finish,CUST08152,Push Notification,Ignored,Not Converted
+CAM0503,Campaign Left,CUST06410,SMS,Opened,Not Converted
+CAM0504,Campaign Mention,CUST00230,Social Media,Clicked,Not Converted
+CAM0505,Campaign Natural,CUST01770,Email,Opened,Converted
+CAM0506,Campaign Hundred,CUST05123,Email,Opened,Converted
+CAM0507,Campaign Every,CUST02533,SMS,Opened,Converted
+CAM0508,Campaign Trouble,CUST04773,Social Media,Opened,Not Converted
+CAM0509,Campaign Act,CUST06128,SMS,Ignored,Converted
+CAM0510,Campaign Sound,CUST03353,SMS,Clicked,Not Converted
+CAM0511,Campaign Return,CUST04304,Social Media,Ignored,Not Converted
+CAM0512,Campaign Order,CUST00532,Social Media,Clicked,Not Converted
+CAM0513,Campaign Rock,CUST04235,Social Media,Ignored,Not Converted
+CAM0514,Campaign Most,CUST02779,Social Media,Clicked,Not Converted
+CAM0515,Campaign Down,CUST01852,Push Notification,Clicked,Converted
+CAM0516,Campaign Inside,CUST03441,SMS,Opened,Not Converted
+CAM0517,Campaign Deep,CUST04995,SMS,Ignored,Converted
+CAM0518,Campaign Democrat,CUST09853,Push Notification,Opened,Converted
+CAM0519,Campaign Bar,CUST04187,Social Media,Clicked,Not Converted
+CAM0520,Campaign Voice,CUST01386,Push Notification,Clicked,Converted
+CAM0521,Campaign In,CUST00685,Email,Clicked,Converted
+CAM0522,Campaign Model,CUST03637,Email,Opened,Converted
+CAM0523,Campaign Live,CUST03426,Social Media,Clicked,Not Converted
+CAM0524,Campaign Action,CUST01286,Social Media,Opened,Converted
+CAM0525,Campaign Color,CUST07482,Social Media,Ignored,Converted
+CAM0526,Campaign Point,CUST09863,Push Notification,Clicked,Converted
+CAM0527,Campaign Miss,CUST09652,Push Notification,Ignored,Converted
+CAM0528,Campaign Floor,CUST00966,Social Media,Ignored,Not Converted
+CAM0529,Campaign Might,CUST08240,Social Media,Ignored,Not Converted
+CAM0530,Campaign Plant,CUST02577,Social Media,Opened,Not Converted
+CAM0531,Campaign Apply,CUST01216,SMS,Ignored,Not Converted
+CAM0532,Campaign Cold,CUST02969,Email,Ignored,Converted
+CAM0533,Campaign Century,CUST01517,SMS,Clicked,Converted
+CAM0534,Campaign Staff,CUST05796,SMS,Opened,Not Converted
+CAM0535,Campaign Feeling,CUST01893,Social Media,Opened,Not Converted
+CAM0536,Campaign Risk,CUST09855,Email,Clicked,Not Converted
+CAM0537,Campaign Suggest,CUST07435,Email,Ignored,Not Converted
+CAM0538,Campaign Ten,CUST02444,SMS,Clicked,Not Converted
+CAM0539,Campaign Various,CUST04312,Push Notification,Opened,Converted
+CAM0540,Campaign Campaign,CUST02268,Social Media,Ignored,Not Converted
+CAM0541,Campaign Beautiful,CUST01208,Push Notification,Opened,Not Converted
+CAM0542,Campaign Compare,CUST02583,Social Media,Ignored,Converted
+CAM0543,Campaign Same,CUST03149,Social Media,Clicked,Not Converted
+CAM0544,Campaign Research,CUST09038,Email,Opened,Converted
+CAM0545,Campaign Rest,CUST01248,Push Notification,Clicked,Not Converted
+CAM0546,Campaign Old,CUST05247,Social Media,Clicked,Converted
+CAM0547,Campaign Kind,CUST08349,Email,Clicked,Converted
+CAM0548,Campaign Bill,CUST09590,Email,Opened,Not Converted
+CAM0549,Campaign Child,CUST08303,Email,Clicked,Not Converted
+CAM0550,Campaign Record,CUST06091,Email,Clicked,Not Converted
+CAM0551,Campaign Other,CUST00380,Push Notification,Opened,Not Converted
+CAM0552,Campaign Practice,CUST00712,SMS,Clicked,Not Converted
+CAM0553,Campaign Station,CUST09806,Push Notification,Ignored,Not Converted
+CAM0554,Campaign Listen,CUST05873,Push Notification,Clicked,Not Converted
+CAM0555,Campaign Back,CUST06702,Email,Opened,Converted
+CAM0556,Campaign Indicate,CUST01150,SMS,Clicked,Not Converted
+CAM0557,Campaign Situation,CUST08265,SMS,Clicked,Not Converted
+CAM0558,Campaign Grow,CUST01370,Push Notification,Clicked,Converted
+CAM0559,Campaign Second,CUST09768,Email,Opened,Converted
+CAM0560,Campaign Away,CUST03459,SMS,Clicked,Converted
+CAM0561,Campaign Goal,CUST01655,SMS,Opened,Not Converted
+CAM0562,Campaign Cost,CUST05694,Social Media,Clicked,Not Converted
+CAM0563,Campaign Over,CUST04312,Email,Ignored,Converted
+CAM0564,Campaign Study,CUST09384,SMS,Clicked,Converted
+CAM0565,Campaign Student,CUST00925,Push Notification,Ignored,Not Converted
+CAM0566,Campaign Fight,CUST00714,SMS,Ignored,Converted
+CAM0567,Campaign Writer,CUST04110,Social Media,Clicked,Converted
+CAM0568,Campaign Modern,CUST05088,Social Media,Clicked,Not Converted
+CAM0569,Campaign Travel,CUST00961,SMS,Clicked,Not Converted
+CAM0570,Campaign Firm,CUST04944,SMS,Clicked,Converted
+CAM0571,Campaign Night,CUST03680,Push Notification,Opened,Converted
+CAM0572,Campaign Four,CUST04864,Email,Ignored,Converted
+CAM0573,Campaign Fact,CUST05296,Push Notification,Opened,Converted
+CAM0574,Campaign Whether,CUST00226,Push Notification,Ignored,Not Converted
+CAM0575,Campaign Participant,CUST08407,Email,Ignored,Not Converted
+CAM0576,Campaign Respond,CUST00404,Social Media,Ignored,Not Converted
+CAM0577,Campaign Stay,CUST07503,Email,Ignored,Converted
+CAM0578,Campaign Produce,CUST05288,Email,Opened,Converted
+CAM0579,Campaign Offer,CUST01914,Push Notification,Ignored,Converted
+CAM0580,Campaign Newspaper,CUST03917,Social Media,Ignored,Converted
+CAM0581,Campaign Federal,CUST02085,Social Media,Opened,Not Converted
+CAM0582,Campaign History,CUST04122,Social Media,Opened,Converted
+CAM0583,Campaign Generation,CUST07934,Push Notification,Ignored,Converted
+CAM0584,Campaign Near,CUST00333,Email,Clicked,Converted
+CAM0585,Campaign Account,CUST04884,Push Notification,Clicked,Converted
+CAM0586,Campaign A,CUST06381,Social Media,Clicked,Converted
+CAM0587,Campaign Bar,CUST00677,Email,Clicked,Not Converted
+CAM0588,Campaign Democratic,CUST08410,Social Media,Opened,Not Converted
+CAM0589,Campaign Evidence,CUST02358,SMS,Clicked,Not Converted
+CAM0590,Campaign Either,CUST07153,Push Notification,Ignored,Converted
+CAM0591,Campaign Summer,CUST09527,Email,Opened,Converted
+CAM0592,Campaign Mrs,CUST00510,Social Media,Ignored,Not Converted
+CAM0593,Campaign Law,CUST08202,SMS,Opened,Not Converted
+CAM0594,Campaign Threat,CUST06008,Push Notification,Ignored,Not Converted
+CAM0595,Campaign Rest,CUST05752,Social Media,Opened,Not Converted
+CAM0596,Campaign Finally,CUST03932,Push Notification,Opened,Not Converted
+CAM0597,Campaign Kitchen,CUST09143,SMS,Opened,Not Converted
+CAM0598,Campaign East,CUST09037,Email,Opened,Not Converted
+CAM0599,Campaign Suggest,CUST06605,SMS,Clicked,Not Converted
+CAM0600,Campaign Customer,CUST07805,Push Notification,Opened,Converted
+CAM0601,Campaign Mean,CUST03860,SMS,Clicked,Converted
+CAM0602,Campaign Reflect,CUST07579,SMS,Ignored,Converted
+CAM0603,Campaign Read,CUST02073,Push Notification,Opened,Converted
+CAM0604,Campaign Design,CUST04381,Push Notification,Opened,Not Converted
+CAM0605,Campaign Daughter,CUST05214,Email,Clicked,Converted
+CAM0606,Campaign Staff,CUST08883,Email,Opened,Not Converted
+CAM0607,Campaign Later,CUST04294,Social Media,Opened,Not Converted
+CAM0608,Campaign Subject,CUST05263,Social Media,Opened,Not Converted
+CAM0609,Campaign So,CUST02789,Social Media,Ignored,Not Converted
+CAM0610,Campaign Role,CUST00562,Email,Opened,Converted
+CAM0611,Campaign Age,CUST09729,Email,Opened,Converted
+CAM0612,Campaign Base,CUST06029,Email,Clicked,Converted
+CAM0613,Campaign Wrong,CUST07874,Social Media,Clicked,Converted
+CAM0614,Campaign Glass,CUST07446,Email,Clicked,Not Converted
+CAM0615,Campaign Policy,CUST09672,Social Media,Clicked,Converted
+CAM0616,Campaign Attorney,CUST08501,Push Notification,Opened,Converted
+CAM0617,Campaign Outside,CUST02588,Push Notification,Opened,Not Converted
+CAM0618,Campaign Door,CUST00979,Email,Clicked,Converted
+CAM0619,Campaign Pull,CUST01743,Email,Ignored,Not Converted
+CAM0620,Campaign Then,CUST01642,Social Media,Ignored,Not Converted
+CAM0621,Campaign Democrat,CUST00192,Email,Ignored,Converted
+CAM0622,Campaign American,CUST08162,SMS,Opened,Converted
+CAM0623,Campaign Able,CUST01887,Email,Ignored,Converted
+CAM0624,Campaign More,CUST00270,Social Media,Opened,Converted
+CAM0625,Campaign Trial,CUST06746,Push Notification,Ignored,Not Converted
+CAM0626,Campaign Involve,CUST04092,Email,Ignored,Converted
+CAM0627,Campaign Catch,CUST03947,Email,Ignored,Converted
+CAM0628,Campaign Smile,CUST02556,Social Media,Opened,Converted
+CAM0629,Campaign Group,CUST04040,SMS,Opened,Converted
+CAM0630,Campaign Kid,CUST03878,SMS,Clicked,Converted
+CAM0631,Campaign Last,CUST00609,SMS,Clicked,Not Converted
+CAM0632,Campaign Science,CUST00629,Email,Ignored,Converted
+CAM0633,Campaign Other,CUST05690,Email,Opened,Converted
+CAM0634,Campaign Agency,CUST04314,SMS,Opened,Converted
+CAM0635,Campaign Full,CUST05904,Push Notification,Ignored,Converted
+CAM0636,Campaign Room,CUST05587,Push Notification,Ignored,Converted
+CAM0637,Campaign Some,CUST09476,SMS,Opened,Converted
+CAM0638,Campaign She,CUST00037,Push Notification,Clicked,Converted
+CAM0639,Campaign True,CUST08101,SMS,Opened,Not Converted
+CAM0640,Campaign Lead,CUST01468,Email,Ignored,Not Converted
+CAM0641,Campaign Present,CUST06398,SMS,Clicked,Not Converted
+CAM0642,Campaign Popular,CUST01105,Social Media,Clicked,Converted
+CAM0643,Campaign Brother,CUST09567,Social Media,Ignored,Not Converted
+CAM0644,Campaign Offer,CUST04328,Social Media,Opened,Converted
+CAM0645,Campaign Per,CUST06379,Push Notification,Clicked,Converted
+CAM0646,Campaign Growth,CUST03933,Social Media,Clicked,Converted
+CAM0647,Campaign Word,CUST00014,SMS,Clicked,Converted
+CAM0648,Campaign Professor,CUST00730,Email,Clicked,Converted
+CAM0649,Campaign Manager,CUST00454,Email,Ignored,Converted
+CAM0650,Campaign Wonder,CUST00147,SMS,Ignored,Not Converted
+CAM0651,Campaign Hope,CUST05738,Push Notification,Ignored,Not Converted
+CAM0652,Campaign Institution,CUST06097,Email,Clicked,Converted
+CAM0653,Campaign Exist,CUST02415,Push Notification,Opened,Not Converted
+CAM0654,Campaign Claim,CUST02170,Social Media,Opened,Not Converted
+CAM0655,Campaign Affect,CUST03921,Push Notification,Ignored,Converted
+CAM0656,Campaign Develop,CUST06954,Push Notification,Opened,Converted
+CAM0657,Campaign Garden,CUST05697,SMS,Opened,Not Converted
+CAM0658,Campaign Knowledge,CUST00514,Email,Clicked,Not Converted
+CAM0659,Campaign Meeting,CUST07150,Push Notification,Ignored,Not Converted
+CAM0660,Campaign Industry,CUST04149,SMS,Clicked,Converted
+CAM0661,Campaign Hand,CUST03969,Social Media,Clicked,Converted
+CAM0662,Campaign Join,CUST03410,Push Notification,Ignored,Converted
+CAM0663,Campaign Event,CUST00701,SMS,Ignored,Not Converted
+CAM0664,Campaign Just,CUST01595,Social Media,Opened,Not Converted
+CAM0665,Campaign All,CUST07363,Email,Clicked,Converted
+CAM0666,Campaign Mention,CUST07704,Push Notification,Opened,Converted
+CAM0667,Campaign Road,CUST05745,Email,Ignored,Not Converted
+CAM0668,Campaign Clearly,CUST08347,Social Media,Opened,Converted
+CAM0669,Campaign Between,CUST08908,SMS,Ignored,Converted
+CAM0670,Campaign Fire,CUST07346,Push Notification,Ignored,Converted
+CAM0671,Campaign As,CUST04086,Social Media,Clicked,Converted
+CAM0672,Campaign Along,CUST09296,Push Notification,Clicked,Converted
+CAM0673,Campaign Recent,CUST00525,Social Media,Ignored,Converted
+CAM0674,Campaign Half,CUST05994,Social Media,Ignored,Not Converted
+CAM0675,Campaign Executive,CUST03790,SMS,Opened,Not Converted
+CAM0676,Campaign Teach,CUST02862,SMS,Opened,Converted
+CAM0677,Campaign Old,CUST08020,Email,Clicked,Not Converted
+CAM0678,Campaign Analysis,CUST04276,SMS,Clicked,Not Converted
+CAM0679,Campaign Deep,CUST04582,Social Media,Clicked,Converted
+CAM0680,Campaign Executive,CUST09611,Social Media,Clicked,Not Converted
+CAM0681,Campaign Turn,CUST02975,Social Media,Ignored,Converted
+CAM0682,Campaign Effect,CUST06359,Email,Ignored,Converted
+CAM0683,Campaign Reduce,CUST02799,Email,Ignored,Converted
+CAM0684,Campaign Feeling,CUST07224,Email,Clicked,Converted
+CAM0685,Campaign Pm,CUST00566,Social Media,Clicked,Not Converted
+CAM0686,Campaign Reflect,CUST03943,SMS,Ignored,Not Converted
+CAM0687,Campaign Way,CUST02623,Push Notification,Ignored,Converted
+CAM0688,Campaign Loss,CUST03503,Push Notification,Clicked,Converted
+CAM0689,Campaign Approach,CUST02433,Push Notification,Clicked,Converted
+CAM0690,Campaign Fall,CUST05254,Push Notification,Clicked,Not Converted
+CAM0691,Campaign Agency,CUST09297,Social Media,Clicked,Not Converted
+CAM0692,Campaign Will,CUST06685,SMS,Clicked,Not Converted
+CAM0693,Campaign Prove,CUST01922,Email,Opened,Converted
+CAM0694,Campaign Yourself,CUST01730,Social Media,Opened,Converted
+CAM0695,Campaign Bit,CUST09339,Email,Opened,Converted
+CAM0696,Campaign Oil,CUST09633,Push Notification,Opened,Not Converted
+CAM0697,Campaign Front,CUST09343,Push Notification,Opened,Converted
+CAM0698,Campaign The,CUST04966,Push Notification,Opened,Converted
+CAM0699,Campaign Dream,CUST09339,Social Media,Ignored,Converted
+CAM0700,Campaign Return,CUST06220,SMS,Opened,Not Converted
+CAM0701,Campaign Law,CUST05186,Email,Clicked,Not Converted
+CAM0702,Campaign Candidate,CUST04681,SMS,Ignored,Not Converted
+CAM0703,Campaign Consumer,CUST01228,Social Media,Opened,Converted
+CAM0704,Campaign Future,CUST00291,SMS,Opened,Converted
+CAM0705,Campaign Help,CUST07616,Push Notification,Opened,Not Converted
+CAM0706,Campaign Research,CUST08327,SMS,Opened,Not Converted
+CAM0707,Campaign Century,CUST00700,SMS,Ignored,Converted
+CAM0708,Campaign House,CUST04547,SMS,Opened,Not Converted
+CAM0709,Campaign Upon,CUST09901,Email,Opened,Converted
+CAM0710,Campaign Then,CUST04219,SMS,Opened,Converted
+CAM0711,Campaign So,CUST07323,SMS,Opened,Not Converted
+CAM0712,Campaign Picture,CUST08702,Social Media,Clicked,Not Converted
+CAM0713,Campaign Risk,CUST02808,Email,Ignored,Not Converted
+CAM0714,Campaign Happy,CUST01473,Social Media,Opened,Not Converted
+CAM0715,Campaign Hand,CUST02935,SMS,Opened,Not Converted
+CAM0716,Campaign Way,CUST09317,Email,Opened,Not Converted
+CAM0717,Campaign Long,CUST00797,Social Media,Ignored,Not Converted
+CAM0718,Campaign Medical,CUST09747,SMS,Clicked,Converted
+CAM0719,Campaign Voice,CUST06975,Email,Opened,Converted
+CAM0720,Campaign Participant,CUST02532,Push Notification,Opened,Not Converted
+CAM0721,Campaign Officer,CUST00995,Push Notification,Ignored,Converted
+CAM0722,Campaign Sometimes,CUST03355,SMS,Ignored,Converted
+CAM0723,Campaign Base,CUST09860,Push Notification,Ignored,Converted
+CAM0724,Campaign Focus,CUST02933,Social Media,Ignored,Not Converted
+CAM0725,Campaign Do,CUST00174,Email,Opened,Converted
+CAM0726,Campaign Guess,CUST02401,Social Media,Ignored,Not Converted
+CAM0727,Campaign Hundred,CUST08584,Push Notification,Ignored,Converted
+CAM0728,Campaign Miss,CUST01866,Social Media,Ignored,Converted
+CAM0729,Campaign Form,CUST04975,Email,Opened,Converted
+CAM0730,Campaign Although,CUST03602,SMS,Clicked,Not Converted
+CAM0731,Campaign For,CUST09924,Email,Ignored,Not Converted
+CAM0732,Campaign Cover,CUST01810,Social Media,Ignored,Not Converted
+CAM0733,Campaign Candidate,CUST03084,Push Notification,Ignored,Not Converted
+CAM0734,Campaign Arrive,CUST06854,Email,Clicked,Not Converted
+CAM0735,Campaign Key,CUST01994,SMS,Clicked,Converted
+CAM0736,Campaign Sell,CUST05964,Email,Ignored,Converted
+CAM0737,Campaign Attention,CUST02728,Social Media,Opened,Converted
+CAM0738,Campaign Community,CUST07874,Email,Clicked,Not Converted
+CAM0739,Campaign Guy,CUST05504,Social Media,Opened,Converted
+CAM0740,Campaign Walk,CUST08772,Social Media,Ignored,Not Converted
+CAM0741,Campaign Senior,CUST08315,Email,Opened,Converted
+CAM0742,Campaign Sound,CUST02745,Push Notification,Ignored,Converted
+CAM0743,Campaign Outside,CUST02912,Social Media,Clicked,Not Converted
+CAM0744,Campaign Gas,CUST04918,SMS,Opened,Converted
+CAM0745,Campaign Newspaper,CUST04496,SMS,Clicked,Converted
+CAM0746,Campaign Represent,CUST05696,SMS,Ignored,Not Converted
+CAM0747,Campaign Thing,CUST03223,Email,Opened,Converted
+CAM0748,Campaign Fly,CUST09939,Social Media,Clicked,Not Converted
+CAM0749,Campaign Manager,CUST03290,Push Notification,Ignored,Not Converted
+CAM0750,Campaign Bill,CUST00516,SMS,Opened,Converted
+CAM0751,Campaign Art,CUST08766,Push Notification,Clicked,Converted
+CAM0752,Campaign Yeah,CUST03074,SMS,Ignored,Converted
+CAM0753,Campaign Race,CUST08665,SMS,Opened,Not Converted
+CAM0754,Campaign Begin,CUST05080,Email,Clicked,Converted
+CAM0755,Campaign Identify,CUST04839,Push Notification,Opened,Not Converted
+CAM0756,Campaign Movie,CUST05775,Email,Ignored,Converted
+CAM0757,Campaign Main,CUST03030,Push Notification,Opened,Converted
+CAM0758,Campaign Turn,CUST01127,Push Notification,Clicked,Not Converted
+CAM0759,Campaign Sport,CUST08898,Social Media,Opened,Not Converted
+CAM0760,Campaign Huge,CUST08902,Push Notification,Opened,Converted
+CAM0761,Campaign Kitchen,CUST06901,SMS,Ignored,Converted
+CAM0762,Campaign Example,CUST02922,Email,Ignored,Not Converted
+CAM0763,Campaign Compare,CUST08079,Email,Ignored,Converted
+CAM0764,Campaign Three,CUST00679,Social Media,Ignored,Not Converted
+CAM0765,Campaign Word,CUST08101,SMS,Opened,Converted
+CAM0766,Campaign Pressure,CUST09905,SMS,Clicked,Not Converted
+CAM0767,Campaign Responsibility,CUST02862,Social Media,Clicked,Converted
+CAM0768,Campaign Me,CUST07255,Push Notification,Opened,Converted
+CAM0769,Campaign College,CUST02714,Social Media,Opened,Not Converted
+CAM0770,Campaign Your,CUST02836,Social Media,Clicked,Not Converted
+CAM0771,Campaign Type,CUST01515,Push Notification,Opened,Converted
+CAM0772,Campaign Listen,CUST01201,Social Media,Clicked,Not Converted
+CAM0773,Campaign Some,CUST09119,Push Notification,Opened,Converted
+CAM0774,Campaign Within,CUST09409,Email,Ignored,Converted
+CAM0775,Campaign Loss,CUST00669,Push Notification,Ignored,Converted
+CAM0776,Campaign Spend,CUST06946,SMS,Clicked,Converted
+CAM0777,Campaign Sign,CUST00771,Push Notification,Opened,Converted
+CAM0778,Campaign Situation,CUST06825,Social Media,Ignored,Converted
+CAM0779,Campaign Every,CUST05188,Email,Ignored,Converted
+CAM0780,Campaign Property,CUST08579,Email,Ignored,Not Converted
+CAM0781,Campaign Resource,CUST03759,Email,Ignored,Not Converted
+CAM0782,Campaign Service,CUST03443,Push Notification,Clicked,Converted
+CAM0783,Campaign Attack,CUST08707,Push Notification,Opened,Converted
+CAM0784,Campaign Shake,CUST02437,Social Media,Ignored,Converted
+CAM0785,Campaign Million,CUST06306,Social Media,Opened,Converted
+CAM0786,Campaign Political,CUST06426,SMS,Clicked,Not Converted
+CAM0787,Campaign Myself,CUST01229,Push Notification,Opened,Converted
+CAM0788,Campaign Fine,CUST08847,Push Notification,Opened,Not Converted
+CAM0789,Campaign Policy,CUST08057,SMS,Ignored,Converted
+CAM0790,Campaign Red,CUST02297,Email,Ignored,Converted
+CAM0791,Campaign Around,CUST04129,Push Notification,Opened,Not Converted
+CAM0792,Campaign White,CUST01824,Social Media,Ignored,Not Converted
+CAM0793,Campaign Enter,CUST00671,Social Media,Clicked,Converted
+CAM0794,Campaign Production,CUST06182,Email,Clicked,Not Converted
+CAM0795,Campaign Effort,CUST03652,Email,Ignored,Converted
+CAM0796,Campaign Answer,CUST03172,Social Media,Clicked,Not Converted
+CAM0797,Campaign Themselves,CUST08549,Push Notification,Ignored,Converted
+CAM0798,Campaign Series,CUST02315,Social Media,Clicked,Not Converted
+CAM0799,Campaign Professor,CUST06860,Push Notification,Ignored,Not Converted
+CAM0800,Campaign Next,CUST02335,Social Media,Ignored,Converted
+CAM0801,Campaign Better,CUST04269,SMS,Clicked,Not Converted
+CAM0802,Campaign Director,CUST03751,Push Notification,Ignored,Not Converted
+CAM0803,Campaign Drug,CUST03145,SMS,Opened,Not Converted
+CAM0804,Campaign Matter,CUST02882,Email,Ignored,Not Converted
+CAM0805,Campaign Eight,CUST03922,Email,Clicked,Not Converted
+CAM0806,Campaign Say,CUST03068,SMS,Ignored,Not Converted
+CAM0807,Campaign I,CUST06770,Social Media,Opened,Converted
+CAM0808,Campaign Subject,CUST05225,Push Notification,Clicked,Not Converted
+CAM0809,Campaign List,CUST07365,SMS,Clicked,Converted
+CAM0810,Campaign Those,CUST05392,Push Notification,Clicked,Not Converted
+CAM0811,Campaign Agency,CUST05179,Email,Opened,Not Converted
+CAM0812,Campaign Experience,CUST08102,SMS,Opened,Converted
+CAM0813,Campaign Economic,CUST06741,SMS,Clicked,Not Converted
+CAM0814,Campaign Free,CUST06873,Social Media,Clicked,Converted
+CAM0815,Campaign Thing,CUST02747,SMS,Ignored,Converted
+CAM0816,Campaign Loss,CUST05745,Social Media,Ignored,Converted
+CAM0817,Campaign Together,CUST03551,Push Notification,Ignored,Converted
+CAM0818,Campaign Character,CUST00150,SMS,Clicked,Converted
+CAM0819,Campaign Expect,CUST05615,Social Media,Ignored,Converted
+CAM0820,Campaign Senior,CUST04020,Push Notification,Clicked,Not Converted
+CAM0821,Campaign Name,CUST04984,Email,Opened,Converted
+CAM0822,Campaign Popular,CUST09754,SMS,Ignored,Converted
+CAM0823,Campaign Institution,CUST07963,SMS,Clicked,Converted
+CAM0824,Campaign Rate,CUST03214,Email,Clicked,Not Converted
+CAM0825,Campaign Cost,CUST03253,Email,Opened,Converted
+CAM0826,Campaign Book,CUST01768,SMS,Opened,Converted
+CAM0827,Campaign Record,CUST04530,Social Media,Opened,Not Converted
+CAM0828,Campaign Vote,CUST00225,Push Notification,Opened,Converted
+CAM0829,Campaign Significant,CUST02114,Push Notification,Clicked,Converted
+CAM0830,Campaign Early,CUST09994,Email,Clicked,Converted
+CAM0831,Campaign Present,CUST07955,SMS,Clicked,Not Converted
+CAM0832,Campaign Serve,CUST03730,Email,Opened,Converted
+CAM0833,Campaign Surface,CUST09410,Email,Ignored,Not Converted
+CAM0834,Campaign Hand,CUST09594,SMS,Ignored,Not Converted
+CAM0835,Campaign Least,CUST07945,Social Media,Opened,Converted
+CAM0836,Campaign Lead,CUST00226,Push Notification,Ignored,Not Converted
+CAM0837,Campaign Policy,CUST04852,Social Media,Ignored,Not Converted
+CAM0838,Campaign Yourself,CUST02786,Push Notification,Clicked,Converted
+CAM0839,Campaign Parent,CUST08105,Social Media,Ignored,Converted
+CAM0840,Campaign Compare,CUST02202,Push Notification,Opened,Converted
+CAM0841,Campaign Pay,CUST06587,Email,Ignored,Not Converted
+CAM0842,Campaign Cup,CUST06765,Email,Opened,Not Converted
+CAM0843,Campaign Myself,CUST04024,Social Media,Ignored,Converted
+CAM0844,Campaign Such,CUST04477,Social Media,Ignored,Converted
+CAM0845,Campaign Western,CUST05136,Push Notification,Clicked,Not Converted
+CAM0846,Campaign Market,CUST08245,SMS,Opened,Not Converted
+CAM0847,Campaign Soldier,CUST07793,Email,Clicked,Converted
+CAM0848,Campaign Control,CUST07014,Social Media,Ignored,Converted
+CAM0849,Campaign Cultural,CUST00585,SMS,Opened,Not Converted
+CAM0850,Campaign Hard,CUST04296,Email,Opened,Converted
+CAM0851,Campaign Organization,CUST03530,Social Media,Opened,Converted
+CAM0852,Campaign Business,CUST02153,SMS,Clicked,Not Converted
+CAM0853,Campaign Forget,CUST09929,Social Media,Ignored,Converted
+CAM0854,Campaign Green,CUST05309,Push Notification,Ignored,Converted
+CAM0855,Campaign Science,CUST06569,SMS,Clicked,Converted
+CAM0856,Campaign Understand,CUST07356,Push Notification,Clicked,Not Converted
+CAM0857,Campaign Accept,CUST02450,SMS,Clicked,Not Converted
+CAM0858,Campaign Might,CUST08620,Email,Clicked,Converted
+CAM0859,Campaign Election,CUST02733,Push Notification,Clicked,Converted
+CAM0860,Campaign These,CUST03031,Push Notification,Opened,Converted
+CAM0861,Campaign Beat,CUST07163,SMS,Opened,Not Converted
+CAM0862,Campaign Glass,CUST07653,Email,Ignored,Converted
+CAM0863,Campaign Identify,CUST07007,SMS,Ignored,Converted
+CAM0864,Campaign Offer,CUST09721,Email,Clicked,Converted
+CAM0865,Campaign Hospital,CUST06908,Email,Ignored,Not Converted
+CAM0866,Campaign Budget,CUST05687,Email,Opened,Not Converted
+CAM0867,Campaign Out,CUST03595,Push Notification,Opened,Converted
+CAM0868,Campaign Fire,CUST02098,Social Media,Clicked,Converted
+CAM0869,Campaign Next,CUST05221,SMS,Ignored,Converted
+CAM0870,Campaign Gun,CUST07699,Push Notification,Clicked,Converted
+CAM0871,Campaign During,CUST02951,SMS,Clicked,Converted
+CAM0872,Campaign Last,CUST03878,SMS,Ignored,Converted
+CAM0873,Campaign Specific,CUST06398,Social Media,Opened,Converted
+CAM0874,Campaign Military,CUST02808,SMS,Clicked,Converted
+CAM0875,Campaign New,CUST05206,SMS,Ignored,Converted
+CAM0876,Campaign Health,CUST03233,Email,Ignored,Converted
+CAM0877,Campaign National,CUST06109,Email,Clicked,Not Converted
+CAM0878,Campaign Assume,CUST02206,Email,Clicked,Converted
+CAM0879,Campaign Best,CUST09990,Social Media,Clicked,Not Converted
+CAM0880,Campaign Factor,CUST09245,SMS,Ignored,Not Converted
+CAM0881,Campaign Deal,CUST05290,Social Media,Clicked,Converted
+CAM0882,Campaign Produce,CUST09861,Email,Opened,Not Converted
+CAM0883,Campaign Attack,CUST08265,Push Notification,Clicked,Not Converted
+CAM0884,Campaign Indeed,CUST02303,Social Media,Ignored,Not Converted
+CAM0885,Campaign Start,CUST08127,SMS,Clicked,Converted
+CAM0886,Campaign Else,CUST00307,Push Notification,Ignored,Converted
+CAM0887,Campaign Treat,CUST00688,SMS,Opened,Not Converted
+CAM0888,Campaign Sister,CUST00749,SMS,Ignored,Not Converted
+CAM0889,Campaign We,CUST02159,Push Notification,Clicked,Converted
+CAM0890,Campaign Management,CUST02454,Social Media,Clicked,Not Converted
+CAM0891,Campaign Likely,CUST08515,Push Notification,Ignored,Not Converted
+CAM0892,Campaign Throughout,CUST08785,Social Media,Clicked,Not Converted
+CAM0893,Campaign Surface,CUST07263,Social Media,Opened,Not Converted
+CAM0894,Campaign Message,CUST02859,Social Media,Opened,Not Converted
+CAM0895,Campaign Day,CUST03698,Email,Opened,Not Converted
+CAM0896,Campaign Able,CUST09275,SMS,Opened,Converted
+CAM0897,Campaign Yeah,CUST03758,Social Media,Clicked,Converted
+CAM0898,Campaign Size,CUST05475,Email,Opened,Not Converted
+CAM0899,Campaign Again,CUST03004,Push Notification,Clicked,Converted
+CAM0900,Campaign Small,CUST05825,Email,Clicked,Converted
+CAM0901,Campaign Teacher,CUST03476,Push Notification,Opened,Converted
+CAM0902,Campaign Whatever,CUST07401,Push Notification,Clicked,Converted
+CAM0903,Campaign Program,CUST01339,SMS,Clicked,Converted
+CAM0904,Campaign Alone,CUST05561,SMS,Opened,Not Converted
+CAM0905,Campaign Industry,CUST09357,Email,Ignored,Converted
+CAM0906,Campaign Poor,CUST02989,Email,Ignored,Not Converted
+CAM0907,Campaign Issue,CUST02594,Social Media,Opened,Not Converted
+CAM0908,Campaign Always,CUST01608,Social Media,Clicked,Not Converted
+CAM0909,Campaign General,CUST09525,Social Media,Opened,Converted
+CAM0910,Campaign Remain,CUST09721,SMS,Ignored,Not Converted
+CAM0911,Campaign Compare,CUST08168,Social Media,Opened,Not Converted
+CAM0912,Campaign Manage,CUST04649,Push Notification,Clicked,Not Converted
+CAM0913,Campaign At,CUST00542,Email,Ignored,Not Converted
+CAM0914,Campaign Alone,CUST02905,Email,Ignored,Not Converted
+CAM0915,Campaign Likely,CUST03896,Push Notification,Clicked,Not Converted
+CAM0916,Campaign Home,CUST06865,Push Notification,Opened,Converted
+CAM0917,Campaign Bed,CUST05756,Email,Opened,Converted
+CAM0918,Campaign Performance,CUST00218,Email,Opened,Converted
+CAM0919,Campaign Future,CUST09848,Email,Ignored,Not Converted
+CAM0920,Campaign Here,CUST00470,Social Media,Ignored,Converted
+CAM0921,Campaign Apply,CUST07148,SMS,Opened,Converted
+CAM0922,Campaign Central,CUST01923,Social Media,Clicked,Not Converted
+CAM0923,Campaign Father,CUST08467,Email,Opened,Converted
+CAM0924,Campaign People,CUST05056,Email,Ignored,Not Converted
+CAM0925,Campaign Common,CUST04270,Push Notification,Clicked,Converted
+CAM0926,Campaign Animal,CUST06302,Email,Opened,Converted
+CAM0927,Campaign We,CUST09467,Social Media,Clicked,Converted
+CAM0928,Campaign Watch,CUST00509,Social Media,Ignored,Not Converted
+CAM0929,Campaign Hotel,CUST03257,Push Notification,Opened,Not Converted
+CAM0930,Campaign On,CUST04151,Push Notification,Opened,Converted
+CAM0931,Campaign Nice,CUST02947,SMS,Ignored,Converted
+CAM0932,Campaign Since,CUST09962,Email,Clicked,Converted
+CAM0933,Campaign Her,CUST08234,Email,Ignored,Not Converted
+CAM0934,Campaign Five,CUST08735,Email,Ignored,Converted
+CAM0935,Campaign North,CUST00695,Social Media,Ignored,Converted
+CAM0936,Campaign Garden,CUST03180,Push Notification,Ignored,Converted
+CAM0937,Campaign Change,CUST09699,Push Notification,Clicked,Not Converted
+CAM0938,Campaign Across,CUST09817,Social Media,Ignored,Not Converted
+CAM0939,Campaign Continue,CUST07008,SMS,Ignored,Not Converted
+CAM0940,Campaign Field,CUST01735,SMS,Ignored,Converted
+CAM0941,Campaign Might,CUST08233,SMS,Ignored,Not Converted
+CAM0942,Campaign Trouble,CUST07405,Social Media,Opened,Converted
+CAM0943,Campaign Cell,CUST07789,Push Notification,Clicked,Not Converted
+CAM0944,Campaign Base,CUST09916,Email,Ignored,Not Converted
+CAM0945,Campaign Off,CUST05810,Social Media,Clicked,Converted
+CAM0946,Campaign Visit,CUST07546,Push Notification,Ignored,Converted
+CAM0947,Campaign Although,CUST05936,Social Media,Ignored,Converted
+CAM0948,Campaign West,CUST04159,Push Notification,Clicked,Not Converted
+CAM0949,Campaign Apply,CUST04007,Push Notification,Ignored,Not Converted
+CAM0950,Campaign Walk,CUST00889,Social Media,Opened,Converted
+CAM0951,Campaign Season,CUST02199,Social Media,Ignored,Converted
+CAM0952,Campaign Similar,CUST04358,SMS,Clicked,Not Converted
+CAM0953,Campaign Walk,CUST02500,Email,Opened,Converted
+CAM0954,Campaign Chair,CUST06636,Push Notification,Opened,Converted
+CAM0955,Campaign Program,CUST07816,Push Notification,Opened,Converted
+CAM0956,Campaign Question,CUST01209,Email,Opened,Not Converted
+CAM0957,Campaign Different,CUST08491,Social Media,Opened,Not Converted
+CAM0958,Campaign You,CUST02937,Email,Ignored,Converted
+CAM0959,Campaign Today,CUST02391,Email,Opened,Converted
+CAM0960,Campaign Interview,CUST01079,SMS,Opened,Converted
+CAM0961,Campaign Piece,CUST02621,Email,Opened,Not Converted
+CAM0962,Campaign Him,CUST08514,Email,Clicked,Not Converted
+CAM0963,Campaign Country,CUST09899,Push Notification,Opened,Not Converted
+CAM0964,Campaign Notice,CUST07373,SMS,Clicked,Converted
+CAM0965,Campaign Of,CUST04650,Push Notification,Clicked,Converted
+CAM0966,Campaign Material,CUST03495,Email,Opened,Not Converted
+CAM0967,Campaign Within,CUST07225,Push Notification,Clicked,Not Converted
+CAM0968,Campaign Present,CUST01860,Push Notification,Ignored,Not Converted
+CAM0969,Campaign Difference,CUST00801,SMS,Clicked,Converted
+CAM0970,Campaign Development,CUST05052,Email,Clicked,Not Converted
+CAM0971,Campaign Law,CUST01608,Social Media,Ignored,Converted
+CAM0972,Campaign Affect,CUST04114,SMS,Opened,Converted
+CAM0973,Campaign Impact,CUST08577,Social Media,Ignored,Not Converted
+CAM0974,Campaign Work,CUST05123,Social Media,Clicked,Converted
+CAM0975,Campaign Recognize,CUST08195,Social Media,Clicked,Not Converted
+CAM0976,Campaign Measure,CUST08853,SMS,Opened,Not Converted
+CAM0977,Campaign Various,CUST04015,Push Notification,Opened,Not Converted
+CAM0978,Campaign Environment,CUST09376,Email,Clicked,Converted
+CAM0979,Campaign Practice,CUST08696,Social Media,Clicked,Converted
+CAM0980,Campaign Mouth,CUST04039,Email,Clicked,Not Converted
+CAM0981,Campaign Him,CUST03726,Social Media,Ignored,Converted
+CAM0982,Campaign Authority,CUST07346,Push Notification,Ignored,Converted
+CAM0983,Campaign Wide,CUST07417,Push Notification,Clicked,Converted
+CAM0984,Campaign Away,CUST01243,Social Media,Opened,Converted
+CAM0985,Campaign The,CUST09775,Social Media,Opened,Converted
+CAM0986,Campaign Soldier,CUST00503,SMS,Ignored,Converted
+CAM0987,Campaign Exactly,CUST02429,Push Notification,Clicked,Not Converted
+CAM0988,Campaign Kind,CUST05044,Push Notification,Clicked,Converted
+CAM0989,Campaign Eye,CUST01409,Email,Opened,Not Converted
+CAM0990,Campaign Major,CUST00448,Email,Opened,Converted
+CAM0991,Campaign Develop,CUST05899,Push Notification,Clicked,Converted
+CAM0992,Campaign Site,CUST03525,Social Media,Ignored,Converted
+CAM0993,Campaign Allow,CUST04334,Push Notification,Ignored,Converted
+CAM0994,Campaign Budget,CUST05972,Push Notification,Clicked,Not Converted
+CAM0995,Campaign Medical,CUST04614,Push Notification,Opened,Not Converted
+CAM0996,Campaign Road,CUST00823,Social Media,Opened,Converted
+CAM0997,Campaign Major,CUST04087,Push Notification,Clicked,Converted
+CAM0998,Campaign Television,CUST05482,Social Media,Ignored,Not Converted
+CAM0999,Campaign Doctor,CUST01996,Email,Opened,Converted
+CAM1000,Campaign Create,CUST00666,Push Notification,Ignored,Converted
+CAM1001,Campaign Professor,CUST07482,Email,Opened,Converted
+CAM1002,Campaign Sometimes,CUST04860,SMS,Clicked,Not Converted
+CAM1003,Campaign Three,CUST09450,Email,Clicked,Not Converted
+CAM1004,Campaign Matter,CUST08493,Social Media,Clicked,Not Converted
+CAM1005,Campaign Ready,CUST03505,Email,Ignored,Converted
+CAM1006,Campaign Late,CUST00315,Push Notification,Opened,Converted
+CAM1007,Campaign Green,CUST09033,Push Notification,Ignored,Converted
+CAM1008,Campaign Fall,CUST08069,Push Notification,Opened,Converted
+CAM1009,Campaign Camera,CUST09046,Email,Opened,Not Converted
+CAM1010,Campaign Measure,CUST05029,Email,Clicked,Not Converted
+CAM1011,Campaign Senior,CUST04546,Social Media,Opened,Converted
+CAM1012,Campaign Stand,CUST05283,SMS,Opened,Not Converted
+CAM1013,Campaign Only,CUST09651,Push Notification,Ignored,Converted
+CAM1014,Campaign Return,CUST09376,Social Media,Ignored,Not Converted
+CAM1015,Campaign House,CUST03910,Email,Clicked,Converted
+CAM1016,Campaign Memory,CUST06057,SMS,Clicked,Not Converted
+CAM1017,Campaign Threat,CUST06763,Social Media,Opened,Not Converted
+CAM1018,Campaign Certain,CUST01881,Social Media,Ignored,Not Converted
+CAM1019,Campaign Worry,CUST01545,SMS,Opened,Converted
+CAM1020,Campaign Trip,CUST06678,Email,Opened,Not Converted
+CAM1021,Campaign Enter,CUST06677,SMS,Opened,Not Converted
+CAM1022,Campaign Short,CUST09297,Social Media,Clicked,Converted
+CAM1023,Campaign Discussion,CUST01528,Push Notification,Clicked,Converted
+CAM1024,Campaign Someone,CUST06624,Email,Clicked,Not Converted
+CAM1025,Campaign Anything,CUST06134,SMS,Ignored,Not Converted
+CAM1026,Campaign Like,CUST06130,Push Notification,Ignored,Converted
+CAM1027,Campaign Them,CUST04217,Social Media,Clicked,Converted
+CAM1028,Campaign Tree,CUST00751,Email,Ignored,Converted
+CAM1029,Campaign Later,CUST05053,Push Notification,Opened,Not Converted
+CAM1030,Campaign Prevent,CUST03122,Email,Clicked,Not Converted
+CAM1031,Campaign Stage,CUST07043,SMS,Opened,Converted
+CAM1032,Campaign Street,CUST05927,Email,Clicked,Converted
+CAM1033,Campaign Yourself,CUST02077,Social Media,Ignored,Converted
+CAM1034,Campaign Old,CUST06787,Email,Ignored,Not Converted
+CAM1035,Campaign Fund,CUST03696,SMS,Clicked,Converted
+CAM1036,Campaign Sell,CUST05509,SMS,Clicked,Not Converted
+CAM1037,Campaign Hear,CUST03091,Email,Clicked,Converted
+CAM1038,Campaign Population,CUST02370,Email,Clicked,Converted
+CAM1039,Campaign Glass,CUST05991,SMS,Opened,Converted
+CAM1040,Campaign Word,CUST09989,Email,Ignored,Converted
+CAM1041,Campaign Movie,CUST04703,Social Media,Ignored,Not Converted
+CAM1042,Campaign Scientist,CUST02752,Push Notification,Opened,Converted
+CAM1043,Campaign Take,CUST04911,Social Media,Opened,Converted
+CAM1044,Campaign Contain,CUST09314,Push Notification,Clicked,Not Converted
+CAM1045,Campaign Boy,CUST06717,SMS,Opened,Converted
+CAM1046,Campaign Also,CUST01350,Email,Opened,Not Converted
+CAM1047,Campaign Table,CUST03256,Push Notification,Opened,Converted
+CAM1048,Campaign Between,CUST08805,Push Notification,Opened,Not Converted
+CAM1049,Campaign Once,CUST03194,SMS,Opened,Converted
+CAM1050,Campaign Structure,CUST03046,Social Media,Clicked,Converted
+CAM1051,Campaign Add,CUST02264,SMS,Ignored,Converted
+CAM1052,Campaign Person,CUST07628,Email,Opened,Converted
+CAM1053,Campaign Three,CUST09939,Push Notification,Clicked,Converted
+CAM1054,Campaign Owner,CUST02725,Push Notification,Ignored,Not Converted
+CAM1055,Campaign Although,CUST06992,Email,Clicked,Not Converted
+CAM1056,Campaign Fish,CUST02008,Email,Clicked,Not Converted
+CAM1057,Campaign Health,CUST06246,Social Media,Opened,Converted
+CAM1058,Campaign Politics,CUST05514,Push Notification,Ignored,Converted
+CAM1059,Campaign Very,CUST02268,Email,Clicked,Not Converted
+CAM1060,Campaign Production,CUST00148,Social Media,Clicked,Not Converted
+CAM1061,Campaign Whether,CUST03151,SMS,Clicked,Converted
+CAM1062,Campaign Do,CUST08420,Email,Opened,Converted
+CAM1063,Campaign Stuff,CUST05557,Push Notification,Ignored,Converted
+CAM1064,Campaign Sell,CUST06990,Social Media,Opened,Converted
+CAM1065,Campaign Close,CUST00449,Push Notification,Clicked,Not Converted
+CAM1066,Campaign Threat,CUST04768,Social Media,Clicked,Not Converted
+CAM1067,Campaign Hundred,CUST01556,Push Notification,Clicked,Converted
+CAM1068,Campaign Draw,CUST00174,Social Media,Opened,Converted
+CAM1069,Campaign Speak,CUST08129,Push Notification,Clicked,Converted
+CAM1070,Campaign Effect,CUST00515,Social Media,Opened,Not Converted
+CAM1071,Campaign Your,CUST09791,Social Media,Opened,Not Converted
+CAM1072,Campaign Offer,CUST04193,Social Media,Clicked,Converted
+CAM1073,Campaign Why,CUST05405,Push Notification,Ignored,Converted
+CAM1074,Campaign Everyone,CUST05984,SMS,Opened,Not Converted
+CAM1075,Campaign Least,CUST02883,Push Notification,Clicked,Not Converted
+CAM1076,Campaign Develop,CUST09244,Push Notification,Clicked,Converted
+CAM1077,Campaign Sound,CUST04843,Email,Clicked,Converted
+CAM1078,Campaign Live,CUST09117,Social Media,Ignored,Converted
+CAM1079,Campaign Sing,CUST00197,SMS,Ignored,Not Converted
+CAM1080,Campaign Trade,CUST05533,Social Media,Opened,Not Converted
+CAM1081,Campaign Use,CUST02281,SMS,Opened,Converted
+CAM1082,Campaign Tonight,CUST02358,Email,Ignored,Not Converted
+CAM1083,Campaign Certainly,CUST09365,Social Media,Clicked,Converted
+CAM1084,Campaign Certainly,CUST02085,Social Media,Opened,Not Converted
+CAM1085,Campaign Sea,CUST07633,Social Media,Ignored,Converted
+CAM1086,Campaign Seat,CUST05076,Social Media,Clicked,Not Converted
+CAM1087,Campaign Maintain,CUST05003,Social Media,Clicked,Not Converted
+CAM1088,Campaign Mrs,CUST00809,Email,Ignored,Not Converted
+CAM1089,Campaign Painting,CUST03602,Email,Opened,Not Converted
+CAM1090,Campaign Week,CUST08442,Push Notification,Ignored,Not Converted
+CAM1091,Campaign Be,CUST03591,Push Notification,Opened,Not Converted
+CAM1092,Campaign Practice,CUST02003,Push Notification,Ignored,Not Converted
+CAM1093,Campaign Senior,CUST03477,Push Notification,Opened,Converted
+CAM1094,Campaign Current,CUST00671,Email,Clicked,Converted
+CAM1095,Campaign Politics,CUST09788,Email,Opened,Converted
+CAM1096,Campaign Full,CUST02496,SMS,Ignored,Not Converted
+CAM1097,Campaign Discussion,CUST06171,SMS,Opened,Converted
+CAM1098,Campaign Call,CUST08687,Email,Opened,Converted
+CAM1099,Campaign Decide,CUST07183,Push Notification,Opened,Not Converted
+CAM1100,Campaign Morning,CUST03977,Email,Opened,Converted
+CAM1101,Campaign President,CUST01576,SMS,Clicked,Not Converted
+CAM1102,Campaign People,CUST06766,SMS,Ignored,Converted
+CAM1103,Campaign Quickly,CUST03171,Social Media,Ignored,Converted
+CAM1104,Campaign Away,CUST08000,Email,Clicked,Converted
+CAM1105,Campaign Attack,CUST09913,Email,Clicked,Not Converted
+CAM1106,Campaign They,CUST09039,Push Notification,Opened,Not Converted
+CAM1107,Campaign Relationship,CUST05021,SMS,Ignored,Not Converted
+CAM1108,Campaign Suffer,CUST03941,Email,Ignored,Converted
+CAM1109,Campaign Human,CUST07838,Email,Clicked,Converted
+CAM1110,Campaign Campaign,CUST07869,Email,Clicked,Not Converted
+CAM1111,Campaign Current,CUST02272,Email,Clicked,Not Converted
+CAM1112,Campaign Film,CUST03940,SMS,Opened,Converted
+CAM1113,Campaign Including,CUST07679,Push Notification,Opened,Not Converted
+CAM1114,Campaign Too,CUST05848,SMS,Opened,Converted
+CAM1115,Campaign Financial,CUST01410,SMS,Opened,Not Converted
+CAM1116,Campaign Camera,CUST06336,Email,Opened,Converted
+CAM1117,Campaign Stay,CUST04478,SMS,Opened,Not Converted
+CAM1118,Campaign Free,CUST09950,Email,Opened,Not Converted
+CAM1119,Campaign With,CUST07154,SMS,Opened,Not Converted
+CAM1120,Campaign Way,CUST01425,Social Media,Opened,Converted
+CAM1121,Campaign Find,CUST07343,Social Media,Opened,Not Converted
+CAM1122,Campaign Prove,CUST07248,Push Notification,Clicked,Converted
+CAM1123,Campaign But,CUST06073,SMS,Ignored,Not Converted
+CAM1124,Campaign Do,CUST04247,Push Notification,Ignored,Not Converted
+CAM1125,Campaign Down,CUST01142,SMS,Clicked,Not Converted
+CAM1126,Campaign Lead,CUST04990,Social Media,Ignored,Not Converted
+CAM1127,Campaign Talk,CUST08147,Push Notification,Clicked,Converted
+CAM1128,Campaign At,CUST01006,Social Media,Opened,Not Converted
+CAM1129,Campaign Yard,CUST05057,Social Media,Clicked,Converted
+CAM1130,Campaign Possible,CUST07270,Email,Opened,Not Converted
+CAM1131,Campaign Idea,CUST09497,Email,Ignored,Not Converted
+CAM1132,Campaign Current,CUST03606,Push Notification,Opened,Converted
+CAM1133,Campaign Something,CUST01897,Email,Opened,Not Converted
+CAM1134,Campaign Agreement,CUST06400,Push Notification,Ignored,Converted
+CAM1135,Campaign Talk,CUST04120,Social Media,Opened,Not Converted
+CAM1136,Campaign Memory,CUST08818,Email,Clicked,Converted
+CAM1137,Campaign Consider,CUST09520,SMS,Opened,Converted
+CAM1138,Campaign Property,CUST05255,Email,Clicked,Not Converted
+CAM1139,Campaign Dream,CUST01623,SMS,Opened,Converted
+CAM1140,Campaign Against,CUST07952,Social Media,Ignored,Converted
+CAM1141,Campaign General,CUST04143,SMS,Opened,Not Converted
+CAM1142,Campaign Seek,CUST07536,SMS,Opened,Converted
+CAM1143,Campaign Area,CUST08420,SMS,Opened,Not Converted
+CAM1144,Campaign Voice,CUST07704,Email,Clicked,Converted
+CAM1145,Campaign Interest,CUST08304,Push Notification,Opened,Converted
+CAM1146,Campaign Up,CUST07721,Push Notification,Clicked,Not Converted
+CAM1147,Campaign Just,CUST00172,Social Media,Clicked,Not Converted
+CAM1148,Campaign Professor,CUST05833,Push Notification,Opened,Converted
+CAM1149,Campaign Institution,CUST01642,Push Notification,Opened,Not Converted
+CAM1150,Campaign Participant,CUST04538,SMS,Ignored,Not Converted
+CAM1151,Campaign Consumer,CUST04850,Email,Opened,Converted
+CAM1152,Campaign Available,CUST09522,Push Notification,Ignored,Converted
+CAM1153,Campaign According,CUST09399,Push Notification,Ignored,Converted
+CAM1154,Campaign Or,CUST07087,Social Media,Opened,Not Converted
+CAM1155,Campaign Method,CUST02238,SMS,Opened,Not Converted
+CAM1156,Campaign Fear,CUST01795,Push Notification,Clicked,Not Converted
+CAM1157,Campaign Prove,CUST01694,Social Media,Opened,Not Converted
+CAM1158,Campaign Scene,CUST00412,Push Notification,Clicked,Converted
+CAM1159,Campaign Price,CUST06146,Push Notification,Opened,Not Converted
+CAM1160,Campaign Teacher,CUST06170,SMS,Clicked,Not Converted
+CAM1161,Campaign Argue,CUST01473,SMS,Clicked,Not Converted
+CAM1162,Campaign Similar,CUST00693,Social Media,Clicked,Converted
+CAM1163,Campaign Include,CUST06803,SMS,Ignored,Not Converted
+CAM1164,Campaign Investment,CUST06376,Email,Clicked,Converted
+CAM1165,Campaign Drop,CUST04160,Social Media,Opened,Converted
+CAM1166,Campaign Art,CUST07260,Push Notification,Clicked,Not Converted
+CAM1167,Campaign Consider,CUST06326,SMS,Opened,Converted
+CAM1168,Campaign The,CUST03993,Email,Clicked,Converted
+CAM1169,Campaign Level,CUST06380,Social Media,Opened,Converted
+CAM1170,Campaign Program,CUST04474,Push Notification,Ignored,Converted
+CAM1171,Campaign Let,CUST00144,Social Media,Opened,Converted
+CAM1172,Campaign Cause,CUST07078,Push Notification,Opened,Converted
+CAM1173,Campaign Old,CUST07635,Push Notification,Clicked,Not Converted
+CAM1174,Campaign Her,CUST00261,Email,Ignored,Not Converted
+CAM1175,Campaign General,CUST00254,Social Media,Opened,Converted
+CAM1176,Campaign Office,CUST06370,Push Notification,Ignored,Converted
+CAM1177,Campaign Compare,CUST00559,Push Notification,Ignored,Converted
+CAM1178,Campaign Field,CUST08929,Email,Opened,Converted
+CAM1179,Campaign Pass,CUST07360,SMS,Opened,Converted
+CAM1180,Campaign Response,CUST02160,Email,Opened,Not Converted
+CAM1181,Campaign Real,CUST09366,Push Notification,Opened,Converted
+CAM1182,Campaign Television,CUST06617,SMS,Opened,Not Converted
+CAM1183,Campaign Involve,CUST06864,Push Notification,Opened,Converted
+CAM1184,Campaign List,CUST02929,Email,Clicked,Not Converted
+CAM1185,Campaign Feeling,CUST02460,Push Notification,Clicked,Converted
+CAM1186,Campaign Employee,CUST05615,SMS,Opened,Converted
+CAM1187,Campaign Answer,CUST05667,Push Notification,Clicked,Converted
+CAM1188,Campaign Message,CUST09692,Email,Ignored,Not Converted
+CAM1189,Campaign Produce,CUST08136,Email,Clicked,Not Converted
+CAM1190,Campaign Air,CUST07820,Email,Clicked,Converted
+CAM1191,Campaign Green,CUST04330,Email,Ignored,Converted
+CAM1192,Campaign Rich,CUST09113,Social Media,Clicked,Converted
+CAM1193,Campaign Last,CUST01908,Social Media,Clicked,Converted
+CAM1194,Campaign Free,CUST07357,Social Media,Ignored,Converted
+CAM1195,Campaign City,CUST08191,Social Media,Opened,Not Converted
+CAM1196,Campaign To,CUST01483,Push Notification,Opened,Converted
+CAM1197,Campaign Subject,CUST03032,Social Media,Clicked,Converted
+CAM1198,Campaign Number,CUST04763,Social Media,Opened,Not Converted
+CAM1199,Campaign Rise,CUST03248,Push Notification,Opened,Converted
+CAM1200,Campaign Reduce,CUST03119,Email,Clicked,Converted
+CAM1201,Campaign Watch,CUST04057,Social Media,Opened,Not Converted
+CAM1202,Campaign During,CUST06209,Push Notification,Opened,Not Converted
+CAM1203,Campaign Than,CUST01258,Social Media,Ignored,Not Converted
+CAM1204,Campaign Throw,CUST08182,SMS,Clicked,Converted
+CAM1205,Campaign Left,CUST07334,Social Media,Ignored,Converted
+CAM1206,Campaign List,CUST04830,Email,Ignored,Not Converted
+CAM1207,Campaign Dinner,CUST09017,Push Notification,Clicked,Not Converted
+CAM1208,Campaign For,CUST06819,Social Media,Opened,Not Converted
+CAM1209,Campaign Thought,CUST08512,Email,Ignored,Converted
+CAM1210,Campaign Consider,CUST01275,Push Notification,Opened,Not Converted
+CAM1211,Campaign Chair,CUST00785,Social Media,Clicked,Converted
+CAM1212,Campaign Nation,CUST06164,SMS,Ignored,Converted
+CAM1213,Campaign Bad,CUST07805,Push Notification,Clicked,Not Converted
+CAM1214,Campaign This,CUST08867,Social Media,Ignored,Not Converted
+CAM1215,Campaign Film,CUST08782,Email,Ignored,Converted
+CAM1216,Campaign President,CUST03317,Push Notification,Opened,Converted
+CAM1217,Campaign Reason,CUST00187,SMS,Ignored,Not Converted
+CAM1218,Campaign Myself,CUST04649,Email,Clicked,Converted
+CAM1219,Campaign Budget,CUST05640,SMS,Clicked,Not Converted
+CAM1220,Campaign Cover,CUST09068,SMS,Ignored,Not Converted
+CAM1221,Campaign Yourself,CUST03403,Push Notification,Clicked,Not Converted
+CAM1222,Campaign Fire,CUST08145,Push Notification,Clicked,Not Converted
+CAM1223,Campaign Direction,CUST03979,Email,Clicked,Not Converted
+CAM1224,Campaign Into,CUST03390,Social Media,Opened,Converted
+CAM1225,Campaign Live,CUST03253,SMS,Clicked,Not Converted
+CAM1226,Campaign Training,CUST02725,Push Notification,Clicked,Converted
+CAM1227,Campaign How,CUST00389,SMS,Ignored,Not Converted
+CAM1228,Campaign Writer,CUST06779,SMS,Clicked,Not Converted
+CAM1229,Campaign His,CUST02663,Social Media,Opened,Converted
+CAM1230,Campaign Movement,CUST06276,Social Media,Opened,Not Converted
+CAM1231,Campaign Black,CUST07814,SMS,Clicked,Converted
+CAM1232,Campaign Art,CUST00723,Push Notification,Clicked,Not Converted
+CAM1233,Campaign Bed,CUST05274,SMS,Ignored,Converted
+CAM1234,Campaign Carry,CUST04150,Social Media,Clicked,Converted
+CAM1235,Campaign Outside,CUST09622,Email,Clicked,Not Converted
+CAM1236,Campaign Law,CUST08536,Email,Clicked,Not Converted
+CAM1237,Campaign Someone,CUST09585,SMS,Clicked,Converted
+CAM1238,Campaign Media,CUST07668,Push Notification,Clicked,Converted
+CAM1239,Campaign Door,CUST07883,SMS,Clicked,Converted
+CAM1240,Campaign Bag,CUST00699,Push Notification,Clicked,Not Converted
+CAM1241,Campaign Western,CUST05521,SMS,Ignored,Not Converted
+CAM1242,Campaign Relate,CUST04644,Push Notification,Ignored,Converted
+CAM1243,Campaign That,CUST01396,Push Notification,Opened,Not Converted
+CAM1244,Campaign Generation,CUST05404,Social Media,Ignored,Converted
+CAM1245,Campaign Woman,CUST03957,Social Media,Clicked,Not Converted
+CAM1246,Campaign Participant,CUST08143,Email,Ignored,Not Converted
+CAM1247,Campaign Audience,CUST07243,Push Notification,Ignored,Not Converted
+CAM1248,Campaign Employee,CUST04941,Email,Opened,Converted
+CAM1249,Campaign Appear,CUST01090,Push Notification,Clicked,Converted
+CAM1250,Campaign High,CUST08682,Push Notification,Opened,Not Converted
+CAM1251,Campaign Actually,CUST08304,Social Media,Ignored,Converted
+CAM1252,Campaign Suddenly,CUST00365,Social Media,Clicked,Not Converted
+CAM1253,Campaign Arrive,CUST01129,SMS,Ignored,Converted
+CAM1254,Campaign No,CUST02780,SMS,Ignored,Not Converted
+CAM1255,Campaign Laugh,CUST09932,Push Notification,Opened,Converted
+CAM1256,Campaign Five,CUST03574,Email,Clicked,Not Converted
+CAM1257,Campaign Without,CUST03450,SMS,Opened,Converted
+CAM1258,Campaign Marriage,CUST03264,Social Media,Clicked,Converted
+CAM1259,Campaign Star,CUST04908,SMS,Opened,Not Converted
+CAM1260,Campaign Possible,CUST09446,SMS,Ignored,Not Converted
+CAM1261,Campaign Me,CUST05020,Push Notification,Clicked,Not Converted
+CAM1262,Campaign Run,CUST05017,Social Media,Clicked,Converted
+CAM1263,Campaign Discover,CUST01969,Push Notification,Clicked,Not Converted
+CAM1264,Campaign Ask,CUST02782,Email,Clicked,Not Converted
+CAM1265,Campaign Board,CUST01379,SMS,Ignored,Not Converted
+CAM1266,Campaign Outside,CUST07759,SMS,Opened,Converted
+CAM1267,Campaign Start,CUST01316,Social Media,Clicked,Not Converted
+CAM1268,Campaign Social,CUST01989,Email,Opened,Not Converted
+CAM1269,Campaign Name,CUST09085,SMS,Ignored,Converted
+CAM1270,Campaign Do,CUST09417,Social Media,Opened,Not Converted
+CAM1271,Campaign Bank,CUST00609,Email,Opened,Converted
+CAM1272,Campaign Film,CUST09321,Social Media,Clicked,Not Converted
+CAM1273,Campaign Different,CUST08170,Social Media,Opened,Converted
+CAM1274,Campaign Should,CUST02883,Email,Clicked,Not Converted
+CAM1275,Campaign Reduce,CUST08906,Push Notification,Opened,Converted
+CAM1276,Campaign Card,CUST05833,Social Media,Clicked,Not Converted
+CAM1277,Campaign Enjoy,CUST09004,Email,Ignored,Converted
+CAM1278,Campaign Something,CUST07135,SMS,Clicked,Not Converted
+CAM1279,Campaign Address,CUST08795,Push Notification,Clicked,Converted
+CAM1280,Campaign Environment,CUST04821,Push Notification,Ignored,Not Converted
+CAM1281,Campaign Can,CUST09632,Social Media,Clicked,Not Converted
+CAM1282,Campaign Seat,CUST06726,Email,Opened,Not Converted
+CAM1283,Campaign Stop,CUST07066,Social Media,Opened,Not Converted
+CAM1284,Campaign Night,CUST06522,SMS,Opened,Not Converted
+CAM1285,Campaign Treatment,CUST09759,SMS,Clicked,Not Converted
+CAM1286,Campaign Man,CUST02329,Push Notification,Clicked,Converted
+CAM1287,Campaign Two,CUST03833,Push Notification,Clicked,Converted
+CAM1288,Campaign Process,CUST01853,Email,Opened,Not Converted
+CAM1289,Campaign Mean,CUST09932,SMS,Ignored,Not Converted
+CAM1290,Campaign Indeed,CUST02783,Push Notification,Clicked,Converted
+CAM1291,Campaign Avoid,CUST01937,SMS,Opened,Converted
+CAM1292,Campaign Ready,CUST02150,Social Media,Opened,Not Converted
+CAM1293,Campaign Wrong,CUST02978,SMS,Opened,Not Converted
+CAM1294,Campaign Both,CUST01353,SMS,Clicked,Converted
+CAM1295,Campaign Trip,CUST02049,SMS,Clicked,Converted
+CAM1296,Campaign Song,CUST00346,SMS,Opened,Converted
+CAM1297,Campaign Hope,CUST08720,Social Media,Opened,Converted
+CAM1298,Campaign Indicate,CUST09034,Push Notification,Ignored,Not Converted
+CAM1299,Campaign Visit,CUST02076,Email,Clicked,Converted
+CAM1300,Campaign Upon,CUST02948,SMS,Ignored,Converted
+CAM1301,Campaign Father,CUST03309,Social Media,Clicked,Not Converted
+CAM1302,Campaign Wait,CUST05735,Push Notification,Opened,Not Converted
+CAM1303,Campaign Sing,CUST07643,Email,Opened,Converted
+CAM1304,Campaign Camera,CUST00737,SMS,Ignored,Not Converted
+CAM1305,Campaign Alone,CUST07105,Email,Ignored,Not Converted
+CAM1306,Campaign Century,CUST08895,SMS,Opened,Not Converted
+CAM1307,Campaign Worker,CUST06222,Email,Opened,Not Converted
+CAM1308,Campaign Center,CUST07086,Email,Clicked,Not Converted
+CAM1309,Campaign Statement,CUST03360,Email,Ignored,Not Converted
+CAM1310,Campaign Next,CUST01173,Email,Ignored,Not Converted
+CAM1311,Campaign Seek,CUST05119,SMS,Clicked,Converted
+CAM1312,Campaign Reflect,CUST07309,Social Media,Ignored,Converted
+CAM1313,Campaign His,CUST01942,Social Media,Ignored,Converted
+CAM1314,Campaign Receive,CUST04540,SMS,Opened,Converted
+CAM1315,Campaign Technology,CUST09749,Push Notification,Opened,Not Converted
+CAM1316,Campaign Company,CUST01167,Social Media,Opened,Converted
+CAM1317,Campaign Listen,CUST05890,Email,Ignored,Not Converted
+CAM1318,Campaign Raise,CUST04645,Push Notification,Ignored,Not Converted
+CAM1319,Campaign Field,CUST08257,Social Media,Ignored,Not Converted
+CAM1320,Campaign Together,CUST07447,SMS,Opened,Not Converted
+CAM1321,Campaign Professional,CUST05976,Push Notification,Clicked,Converted
+CAM1322,Campaign Use,CUST08182,SMS,Ignored,Not Converted
+CAM1323,Campaign Scientist,CUST00657,Social Media,Opened,Converted
+CAM1324,Campaign Speak,CUST03512,Push Notification,Clicked,Not Converted
+CAM1325,Campaign Street,CUST05404,Email,Clicked,Not Converted
+CAM1326,Campaign Turn,CUST06326,Email,Clicked,Converted
+CAM1327,Campaign Space,CUST03402,SMS,Clicked,Converted
+CAM1328,Campaign In,CUST09967,Social Media,Clicked,Not Converted
+CAM1329,Campaign Key,CUST04194,Push Notification,Clicked,Not Converted
+CAM1330,Campaign Age,CUST02581,Social Media,Ignored,Converted
+CAM1331,Campaign Member,CUST02550,Social Media,Opened,Not Converted
+CAM1332,Campaign Subject,CUST07099,Email,Ignored,Not Converted
+CAM1333,Campaign Here,CUST03633,Push Notification,Opened,Converted
+CAM1334,Campaign Media,CUST04083,Push Notification,Clicked,Not Converted
+CAM1335,Campaign Miss,CUST04254,Push Notification,Opened,Not Converted
+CAM1336,Campaign Other,CUST04730,Social Media,Ignored,Not Converted
+CAM1337,Campaign Low,CUST03519,Social Media,Opened,Converted
+CAM1338,Campaign Blue,CUST08247,Email,Clicked,Converted
+CAM1339,Campaign Performance,CUST09528,Social Media,Ignored,Not Converted
+CAM1340,Campaign Beautiful,CUST03300,Social Media,Clicked,Converted
+CAM1341,Campaign Worker,CUST00728,Social Media,Ignored,Converted
+CAM1342,Campaign Find,CUST09378,SMS,Opened,Not Converted
+CAM1343,Campaign Both,CUST05076,Social Media,Opened,Not Converted
+CAM1344,Campaign Site,CUST08636,SMS,Ignored,Not Converted
+CAM1345,Campaign Fly,CUST07792,SMS,Clicked,Converted
+CAM1346,Campaign Field,CUST05545,Push Notification,Ignored,Converted
+CAM1347,Campaign Fill,CUST07762,Social Media,Clicked,Not Converted
+CAM1348,Campaign Them,CUST08370,Social Media,Clicked,Converted
+CAM1349,Campaign Church,CUST06091,Push Notification,Clicked,Not Converted
+CAM1350,Campaign Drive,CUST03746,SMS,Ignored,Converted
+CAM1351,Campaign Growth,CUST01494,Push Notification,Clicked,Not Converted
+CAM1352,Campaign Collection,CUST07143,Email,Ignored,Converted
+CAM1353,Campaign Process,CUST06239,SMS,Opened,Converted
+CAM1354,Campaign Protect,CUST01486,Push Notification,Opened,Converted
+CAM1355,Campaign Cold,CUST04418,SMS,Ignored,Not Converted
+CAM1356,Campaign Action,CUST07213,Email,Ignored,Not Converted
+CAM1357,Campaign Purpose,CUST04190,Social Media,Opened,Converted
+CAM1358,Campaign When,CUST07598,Push Notification,Clicked,Not Converted
+CAM1359,Campaign Relationship,CUST09051,Push Notification,Ignored,Converted
+CAM1360,Campaign Kind,CUST09934,Social Media,Clicked,Not Converted
+CAM1361,Campaign Floor,CUST07312,Email,Opened,Not Converted
+CAM1362,Campaign His,CUST07425,Social Media,Opened,Converted
+CAM1363,Campaign Measure,CUST00884,Social Media,Clicked,Converted
+CAM1364,Campaign Result,CUST02623,Email,Ignored,Converted
+CAM1365,Campaign Realize,CUST02554,Email,Opened,Not Converted
+CAM1366,Campaign Language,CUST04454,Social Media,Ignored,Not Converted
+CAM1367,Campaign Sister,CUST00612,SMS,Opened,Converted
+CAM1368,Campaign Debate,CUST02236,Email,Clicked,Converted
+CAM1369,Campaign Decision,CUST03343,Push Notification,Opened,Not Converted
+CAM1370,Campaign Just,CUST00270,Social Media,Clicked,Converted
+CAM1371,Campaign Safe,CUST07794,Email,Clicked,Converted
+CAM1372,Campaign New,CUST06139,Email,Ignored,Not Converted
+CAM1373,Campaign Stage,CUST04463,Social Media,Ignored,Converted
+CAM1374,Campaign Class,CUST02700,Email,Clicked,Converted
+CAM1375,Campaign Investment,CUST05488,SMS,Clicked,Converted
+CAM1376,Campaign Heavy,CUST04164,Email,Ignored,Converted
+CAM1377,Campaign Close,CUST00517,Push Notification,Opened,Converted
+CAM1378,Campaign Doctor,CUST00920,Email,Clicked,Converted
+CAM1379,Campaign Seven,CUST02299,SMS,Ignored,Converted
+CAM1380,Campaign Word,CUST02275,Social Media,Clicked,Converted
+CAM1381,Campaign Also,CUST01053,Push Notification,Clicked,Converted
+CAM1382,Campaign Assume,CUST09554,Push Notification,Ignored,Not Converted
+CAM1383,Campaign Develop,CUST02604,Email,Opened,Not Converted
+CAM1384,Campaign Address,CUST07859,Email,Opened,Converted
+CAM1385,Campaign Loss,CUST06917,SMS,Opened,Not Converted
+CAM1386,Campaign Hair,CUST00709,Email,Clicked,Not Converted
+CAM1387,Campaign Prove,CUST01609,Social Media,Opened,Converted
+CAM1388,Campaign Employee,CUST07554,Social Media,Ignored,Not Converted
+CAM1389,Campaign Reach,CUST00712,Email,Ignored,Converted
+CAM1390,Campaign Adult,CUST05534,SMS,Ignored,Converted
+CAM1391,Campaign Main,CUST05608,SMS,Opened,Converted
+CAM1392,Campaign Former,CUST03384,Social Media,Clicked,Not Converted
+CAM1393,Campaign Half,CUST07551,SMS,Opened,Converted
+CAM1394,Campaign Environment,CUST04111,Email,Ignored,Converted
+CAM1395,Campaign Road,CUST07541,SMS,Opened,Converted
+CAM1396,Campaign Establish,CUST09351,SMS,Clicked,Converted
+CAM1397,Campaign Pay,CUST08934,Email,Clicked,Converted
+CAM1398,Campaign Positive,CUST04330,Email,Opened,Not Converted
+CAM1399,Campaign Lay,CUST09791,Push Notification,Ignored,Not Converted
+CAM1400,Campaign Property,CUST00224,SMS,Opened,Converted
+CAM1401,Campaign Friend,CUST07182,Push Notification,Clicked,Converted
+CAM1402,Campaign Bed,CUST06936,SMS,Ignored,Not Converted
+CAM1403,Campaign Glass,CUST06733,Email,Opened,Converted
+CAM1404,Campaign Conference,CUST06203,SMS,Opened,Converted
+CAM1405,Campaign Charge,CUST01334,Push Notification,Opened,Not Converted
+CAM1406,Campaign Five,CUST08108,SMS,Opened,Not Converted
+CAM1407,Campaign Knowledge,CUST08109,Email,Ignored,Not Converted
+CAM1408,Campaign Ability,CUST08458,Push Notification,Opened,Not Converted
+CAM1409,Campaign Role,CUST03033,SMS,Ignored,Converted
+CAM1410,Campaign Since,CUST05826,Social Media,Opened,Not Converted
+CAM1411,Campaign Edge,CUST07802,Push Notification,Ignored,Converted
+CAM1412,Campaign See,CUST01412,SMS,Opened,Converted
+CAM1413,Campaign Decision,CUST03783,Email,Ignored,Converted
+CAM1414,Campaign Leave,CUST04505,SMS,Clicked,Not Converted
+CAM1415,Campaign Agree,CUST04288,Push Notification,Opened,Converted
+CAM1416,Campaign Hit,CUST03460,Push Notification,Ignored,Not Converted
+CAM1417,Campaign Recently,CUST07180,Social Media,Opened,Not Converted
+CAM1418,Campaign Nice,CUST03062,Push Notification,Ignored,Not Converted
+CAM1419,Campaign Admit,CUST09039,Push Notification,Ignored,Converted
+CAM1420,Campaign Stay,CUST09648,SMS,Opened,Converted
+CAM1421,Campaign Certainly,CUST05043,SMS,Clicked,Not Converted
+CAM1422,Campaign Two,CUST01907,Social Media,Ignored,Converted
+CAM1423,Campaign Happen,CUST02771,Social Media,Ignored,Not Converted
+CAM1424,Campaign Yourself,CUST08474,SMS,Ignored,Converted
+CAM1425,Campaign Per,CUST08844,SMS,Clicked,Converted
+CAM1426,Campaign About,CUST09517,Social Media,Clicked,Converted
+CAM1427,Campaign Instead,CUST02861,Social Media,Ignored,Converted
+CAM1428,Campaign Approach,CUST08051,SMS,Ignored,Converted
+CAM1429,Campaign Perform,CUST00616,Social Media,Clicked,Not Converted
+CAM1430,Campaign Magazine,CUST00419,SMS,Clicked,Converted
+CAM1431,Campaign Since,CUST00997,Social Media,Clicked,Not Converted
+CAM1432,Campaign Several,CUST04209,Push Notification,Ignored,Not Converted
+CAM1433,Campaign Trade,CUST00509,Email,Ignored,Converted
+CAM1434,Campaign Partner,CUST07934,SMS,Ignored,Converted
+CAM1435,Campaign Sit,CUST00915,Email,Clicked,Converted
+CAM1436,Campaign Development,CUST09392,SMS,Clicked,Not Converted
+CAM1437,Campaign Crime,CUST03764,Push Notification,Clicked,Converted
+CAM1438,Campaign Society,CUST04206,Social Media,Ignored,Not Converted
+CAM1439,Campaign Case,CUST02747,SMS,Ignored,Converted
+CAM1440,Campaign Wish,CUST02121,SMS,Ignored,Not Converted
+CAM1441,Campaign Against,CUST01010,Email,Clicked,Converted
+CAM1442,Campaign Others,CUST05306,Email,Ignored,Converted
+CAM1443,Campaign Think,CUST02257,SMS,Opened,Not Converted
+CAM1444,Campaign Or,CUST00773,Push Notification,Opened,Converted
+CAM1445,Campaign Act,CUST01452,Push Notification,Ignored,Converted
+CAM1446,Campaign Short,CUST07179,Email,Opened,Not Converted
+CAM1447,Campaign Activity,CUST06889,SMS,Ignored,Converted
+CAM1448,Campaign Want,CUST08663,Email,Ignored,Converted
+CAM1449,Campaign Friend,CUST00251,Push Notification,Clicked,Not Converted
+CAM1450,Campaign Hour,CUST01012,Email,Ignored,Converted
+CAM1451,Campaign Police,CUST02717,SMS,Opened,Not Converted
+CAM1452,Campaign Reveal,CUST08571,Email,Clicked,Not Converted
+CAM1453,Campaign Phone,CUST08292,Email,Ignored,Not Converted
+CAM1454,Campaign Little,CUST00116,Push Notification,Ignored,Not Converted
+CAM1455,Campaign Open,CUST05327,Email,Clicked,Converted
+CAM1456,Campaign Arrive,CUST07876,Push Notification,Opened,Not Converted
+CAM1457,Campaign Note,CUST03051,SMS,Ignored,Not Converted
+CAM1458,Campaign Data,CUST00370,SMS,Opened,Not Converted
+CAM1459,Campaign Game,CUST05275,Push Notification,Clicked,Not Converted
+CAM1460,Campaign Happy,CUST02032,Social Media,Opened,Not Converted
+CAM1461,Campaign Expect,CUST09097,Email,Opened,Not Converted
+CAM1462,Campaign Type,CUST03877,Social Media,Clicked,Converted
+CAM1463,Campaign Probably,CUST06330,Social Media,Opened,Not Converted
+CAM1464,Campaign Minute,CUST02499,SMS,Clicked,Not Converted
+CAM1465,Campaign Agent,CUST03610,Social Media,Opened,Converted
+CAM1466,Campaign Use,CUST02267,SMS,Ignored,Not Converted
+CAM1467,Campaign Point,CUST09769,Social Media,Ignored,Converted
+CAM1468,Campaign Open,CUST02972,Social Media,Ignored,Converted
+CAM1469,Campaign Five,CUST00925,Push Notification,Clicked,Converted
+CAM1470,Campaign Read,CUST00448,Push Notification,Opened,Not Converted
+CAM1471,Campaign Adult,CUST03486,Social Media,Opened,Not Converted
+CAM1472,Campaign Civil,CUST05743,Social Media,Opened,Not Converted
+CAM1473,Campaign Amount,CUST05279,Email,Ignored,Not Converted
+CAM1474,Campaign Our,CUST04903,Push Notification,Opened,Not Converted
+CAM1475,Campaign Meet,CUST03311,Social Media,Clicked,Not Converted
+CAM1476,Campaign Than,CUST09976,SMS,Opened,Converted
+CAM1477,Campaign Chance,CUST06579,Email,Clicked,Converted
+CAM1478,Campaign Full,CUST05669,Email,Opened,Not Converted
+CAM1479,Campaign Hold,CUST08584,Push Notification,Opened,Converted
+CAM1480,Campaign Go,CUST09036,Push Notification,Clicked,Converted
+CAM1481,Campaign Occur,CUST01811,SMS,Clicked,Converted
+CAM1482,Campaign Spring,CUST08423,SMS,Ignored,Not Converted
+CAM1483,Campaign Capital,CUST00844,Email,Clicked,Not Converted
+CAM1484,Campaign Address,CUST09893,Social Media,Ignored,Converted
+CAM1485,Campaign Difference,CUST01969,Push Notification,Opened,Not Converted
+CAM1486,Campaign Article,CUST04474,Push Notification,Opened,Converted
+CAM1487,Campaign Party,CUST03408,SMS,Ignored,Not Converted
+CAM1488,Campaign Right,CUST01473,Email,Clicked,Not Converted
+CAM1489,Campaign May,CUST01606,Email,Clicked,Not Converted
+CAM1490,Campaign Fill,CUST02739,Email,Ignored,Not Converted
+CAM1491,Campaign Strategy,CUST05867,Email,Clicked,Converted
+CAM1492,Campaign Role,CUST09060,Social Media,Clicked,Converted
+CAM1493,Campaign Arm,CUST05485,Push Notification,Opened,Not Converted
+CAM1494,Campaign While,CUST08481,SMS,Clicked,Not Converted
+CAM1495,Campaign Should,CUST09415,Social Media,Clicked,Not Converted
+CAM1496,Campaign Support,CUST07750,Social Media,Opened,Converted
+CAM1497,Campaign Respond,CUST09095,Push Notification,Ignored,Converted
+CAM1498,Campaign Simple,CUST00509,Social Media,Ignored,Converted
+CAM1499,Campaign Others,CUST07087,Push Notification,Ignored,Converted
+CAM1500,Campaign Follow,CUST00016,Push Notification,Ignored,Converted
+CAM1501,Campaign Every,CUST07442,Push Notification,Opened,Converted
+CAM1502,Campaign This,CUST05388,Email,Opened,Not Converted
+CAM1503,Campaign Teach,CUST04532,Push Notification,Ignored,Converted
+CAM1504,Campaign Speak,CUST00512,Push Notification,Opened,Not Converted
+CAM1505,Campaign Include,CUST08094,Push Notification,Ignored,Converted
+CAM1506,Campaign Agreement,CUST00462,Social Media,Clicked,Converted
+CAM1507,Campaign Trial,CUST00187,SMS,Ignored,Not Converted
+CAM1508,Campaign Through,CUST09735,Email,Ignored,Not Converted
+CAM1509,Campaign Own,CUST09104,Social Media,Clicked,Not Converted
+CAM1510,Campaign Avoid,CUST06965,Email,Ignored,Not Converted
+CAM1511,Campaign News,CUST07347,Email,Opened,Converted
+CAM1512,Campaign Occur,CUST08970,SMS,Opened,Not Converted
+CAM1513,Campaign Organization,CUST01933,Social Media,Ignored,Not Converted
+CAM1514,Campaign Arm,CUST03471,Social Media,Opened,Not Converted
+CAM1515,Campaign Choice,CUST07409,Email,Ignored,Not Converted
+CAM1516,Campaign Commercial,CUST05223,Email,Clicked,Not Converted
+CAM1517,Campaign Sit,CUST01813,SMS,Ignored,Converted
+CAM1518,Campaign Three,CUST06680,Email,Clicked,Converted
+CAM1519,Campaign Fine,CUST07867,Push Notification,Opened,Converted
+CAM1520,Campaign Matter,CUST00532,SMS,Clicked,Not Converted
+CAM1521,Campaign Deal,CUST03312,SMS,Opened,Converted
+CAM1522,Campaign Assume,CUST03984,Email,Clicked,Converted
+CAM1523,Campaign Year,CUST06130,SMS,Clicked,Converted
+CAM1524,Campaign Single,CUST07952,Social Media,Opened,Not Converted
+CAM1525,Campaign Account,CUST07608,Social Media,Opened,Not Converted
+CAM1526,Campaign Always,CUST05854,Push Notification,Clicked,Not Converted
+CAM1527,Campaign Subject,CUST04453,Social Media,Clicked,Not Converted
+CAM1528,Campaign Detail,CUST01598,Email,Clicked,Converted
+CAM1529,Campaign Check,CUST03958,SMS,Ignored,Converted
+CAM1530,Campaign Past,CUST05920,SMS,Opened,Converted
+CAM1531,Campaign Shoulder,CUST00793,SMS,Ignored,Converted
+CAM1532,Campaign Teach,CUST00370,SMS,Clicked,Converted
+CAM1533,Campaign Less,CUST07745,Social Media,Ignored,Converted
+CAM1534,Campaign Team,CUST05954,Social Media,Ignored,Converted
+CAM1535,Campaign Range,CUST04126,SMS,Clicked,Converted
+CAM1536,Campaign Simple,CUST08484,SMS,Opened,Converted
+CAM1537,Campaign Put,CUST05268,Push Notification,Opened,Not Converted
+CAM1538,Campaign Run,CUST02811,SMS,Opened,Not Converted
+CAM1539,Campaign General,CUST08026,Push Notification,Opened,Converted
+CAM1540,Campaign Person,CUST06472,Push Notification,Ignored,Converted
+CAM1541,Campaign It,CUST07431,SMS,Ignored,Converted
+CAM1542,Campaign Everything,CUST09552,Push Notification,Ignored,Not Converted
+CAM1543,Campaign Night,CUST09480,Email,Ignored,Not Converted
+CAM1544,Campaign Material,CUST04505,Email,Clicked,Converted
+CAM1545,Campaign Sort,CUST08229,SMS,Clicked,Not Converted
+CAM1546,Campaign Guess,CUST00986,Social Media,Clicked,Converted
+CAM1547,Campaign Or,CUST04347,SMS,Ignored,Not Converted
+CAM1548,Campaign Difference,CUST00864,Push Notification,Clicked,Not Converted
+CAM1549,Campaign Crime,CUST01788,SMS,Opened,Not Converted
+CAM1550,Campaign Fly,CUST05200,SMS,Clicked,Not Converted
+CAM1551,Campaign Total,CUST01884,Push Notification,Opened,Not Converted
+CAM1552,Campaign Vote,CUST03284,Social Media,Opened,Converted
+CAM1553,Campaign Professional,CUST05198,Email,Clicked,Not Converted
+CAM1554,Campaign Item,CUST01072,Push Notification,Clicked,Not Converted
+CAM1555,Campaign Under,CUST09359,Email,Ignored,Not Converted
+CAM1556,Campaign Race,CUST00295,SMS,Ignored,Converted
+CAM1557,Campaign East,CUST05958,SMS,Opened,Not Converted
+CAM1558,Campaign Evidence,CUST06996,Email,Opened,Not Converted
+CAM1559,Campaign Community,CUST07208,Push Notification,Ignored,Not Converted
+CAM1560,Campaign Condition,CUST02590,Email,Ignored,Not Converted
+CAM1561,Campaign Drop,CUST00904,Email,Ignored,Not Converted
+CAM1562,Campaign Short,CUST04624,Social Media,Ignored,Converted
+CAM1563,Campaign Section,CUST03365,Push Notification,Ignored,Converted
+CAM1564,Campaign Top,CUST07107,Social Media,Opened,Converted
+CAM1565,Campaign Rate,CUST06610,SMS,Opened,Not Converted
+CAM1566,Campaign Decade,CUST07299,Email,Clicked,Not Converted
+CAM1567,Campaign Health,CUST01602,Push Notification,Opened,Not Converted
+CAM1568,Campaign Usually,CUST05095,Email,Clicked,Converted
+CAM1569,Campaign Recognize,CUST00646,SMS,Opened,Not Converted
+CAM1570,Campaign Thank,CUST05604,Email,Clicked,Not Converted
+CAM1571,Campaign Sound,CUST09490,Push Notification,Opened,Not Converted
+CAM1572,Campaign Political,CUST08636,Social Media,Clicked,Converted
+CAM1573,Campaign Major,CUST03258,Social Media,Clicked,Converted
+CAM1574,Campaign Imagine,CUST06613,Social Media,Clicked,Converted
+CAM1575,Campaign Stay,CUST06631,Email,Opened,Not Converted
+CAM1576,Campaign Teacher,CUST08851,SMS,Opened,Not Converted
+CAM1577,Campaign Exist,CUST03397,Email,Clicked,Not Converted
+CAM1578,Campaign Theory,CUST09908,Email,Ignored,Not Converted
+CAM1579,Campaign Who,CUST02669,Social Media,Opened,Not Converted
+CAM1580,Campaign Show,CUST03279,Email,Opened,Converted
+CAM1581,Campaign One,CUST04846,Social Media,Opened,Converted
+CAM1582,Campaign Exist,CUST06888,SMS,Ignored,Converted
+CAM1583,Campaign Natural,CUST03976,Push Notification,Clicked,Not Converted
+CAM1584,Campaign Cover,CUST01579,SMS,Clicked,Not Converted
+CAM1585,Campaign Term,CUST02670,SMS,Ignored,Not Converted
+CAM1586,Campaign Speak,CUST01234,Push Notification,Clicked,Not Converted
+CAM1587,Campaign Book,CUST01263,Social Media,Ignored,Converted
+CAM1588,Campaign Option,CUST09260,Email,Clicked,Converted
+CAM1589,Campaign Me,CUST04525,Push Notification,Ignored,Not Converted
+CAM1590,Campaign Tough,CUST04835,SMS,Clicked,Not Converted
+CAM1591,Campaign Edge,CUST09489,Email,Opened,Converted
+CAM1592,Campaign Field,CUST09125,Push Notification,Opened,Converted
+CAM1593,Campaign Age,CUST00459,Email,Ignored,Converted
+CAM1594,Campaign Growth,CUST05290,SMS,Opened,Converted
+CAM1595,Campaign Financial,CUST04376,Push Notification,Clicked,Converted
+CAM1596,Campaign Form,CUST06677,Push Notification,Opened,Not Converted
+CAM1597,Campaign American,CUST06471,Push Notification,Opened,Converted
+CAM1598,Campaign Already,CUST05314,Push Notification,Ignored,Not Converted
+CAM1599,Campaign Policy,CUST06176,Push Notification,Clicked,Not Converted
+CAM1600,Campaign Out,CUST00019,Social Media,Clicked,Converted
+CAM1601,Campaign Those,CUST07618,Email,Opened,Not Converted
+CAM1602,Campaign Cost,CUST08014,Social Media,Opened,Not Converted
+CAM1603,Campaign Myself,CUST09296,Social Media,Ignored,Converted
+CAM1604,Campaign Off,CUST02873,Email,Opened,Not Converted
+CAM1605,Campaign Financial,CUST02496,Push Notification,Ignored,Converted
+CAM1606,Campaign Without,CUST03241,Push Notification,Ignored,Converted
+CAM1607,Campaign Opportunity,CUST04776,Push Notification,Ignored,Converted
+CAM1608,Campaign Oil,CUST02690,SMS,Opened,Not Converted
+CAM1609,Campaign Seven,CUST01421,Email,Opened,Not Converted
+CAM1610,Campaign Able,CUST06618,Email,Opened,Not Converted
+CAM1611,Campaign Feeling,CUST00920,Email,Ignored,Not Converted
+CAM1612,Campaign Later,CUST05098,Email,Opened,Converted
+CAM1613,Campaign Involve,CUST09358,Email,Opened,Not Converted
+CAM1614,Campaign Democrat,CUST03630,Social Media,Opened,Not Converted
+CAM1615,Campaign Heavy,CUST05489,Email,Ignored,Not Converted
+CAM1616,Campaign All,CUST06742,SMS,Clicked,Converted
+CAM1617,Campaign Big,CUST09228,Email,Opened,Converted
+CAM1618,Campaign Production,CUST09716,Email,Opened,Not Converted
+CAM1619,Campaign Drive,CUST04121,Push Notification,Opened,Not Converted
+CAM1620,Campaign Senior,CUST03185,Social Media,Opened,Converted
+CAM1621,Campaign Behavior,CUST06787,Email,Opened,Converted
+CAM1622,Campaign Source,CUST06828,Social Media,Opened,Converted
+CAM1623,Campaign Technology,CUST06343,Social Media,Opened,Converted
+CAM1624,Campaign Laugh,CUST04239,Push Notification,Ignored,Not Converted
+CAM1625,Campaign General,CUST04868,Social Media,Clicked,Not Converted
+CAM1626,Campaign Bed,CUST05700,SMS,Clicked,Converted
+CAM1627,Campaign Environmental,CUST04093,Social Media,Opened,Not Converted
+CAM1628,Campaign Foot,CUST06553,Email,Ignored,Converted
+CAM1629,Campaign Reduce,CUST02349,Social Media,Opened,Converted
+CAM1630,Campaign Pretty,CUST07700,Email,Ignored,Not Converted
+CAM1631,Campaign Recognize,CUST06414,Social Media,Ignored,Not Converted
+CAM1632,Campaign Box,CUST06759,Email,Ignored,Converted
+CAM1633,Campaign Institution,CUST00938,Push Notification,Clicked,Not Converted
+CAM1634,Campaign Have,CUST08897,Push Notification,Clicked,Converted
+CAM1635,Campaign Senior,CUST01621,Email,Ignored,Converted
+CAM1636,Campaign Sure,CUST00319,Push Notification,Clicked,Not Converted
+CAM1637,Campaign Important,CUST08336,Push Notification,Opened,Not Converted
+CAM1638,Campaign Voice,CUST00302,SMS,Opened,Converted
+CAM1639,Campaign Old,CUST01625,Push Notification,Ignored,Converted
+CAM1640,Campaign Lawyer,CUST07645,Social Media,Clicked,Converted
+CAM1641,Campaign Thus,CUST00746,Email,Ignored,Converted
+CAM1642,Campaign Idea,CUST02365,Email,Clicked,Converted
+CAM1643,Campaign Consumer,CUST02888,SMS,Opened,Converted
+CAM1644,Campaign Life,CUST01938,Push Notification,Clicked,Converted
+CAM1645,Campaign Campaign,CUST01131,Email,Ignored,Converted
+CAM1646,Campaign Resource,CUST08085,SMS,Clicked,Not Converted
+CAM1647,Campaign Want,CUST07664,Push Notification,Ignored,Converted
+CAM1648,Campaign Build,CUST07961,SMS,Clicked,Converted
+CAM1649,Campaign Mean,CUST01181,Social Media,Opened,Not Converted
+CAM1650,Campaign Trip,CUST08797,Push Notification,Opened,Not Converted
+CAM1651,Campaign So,CUST06176,Email,Ignored,Not Converted
+CAM1652,Campaign Citizen,CUST00185,Push Notification,Clicked,Converted
+CAM1653,Campaign Face,CUST00983,Push Notification,Ignored,Converted
+CAM1654,Campaign Movie,CUST09809,Social Media,Ignored,Not Converted
+CAM1655,Campaign Positive,CUST01587,Social Media,Clicked,Not Converted
+CAM1656,Campaign Try,CUST08627,SMS,Ignored,Converted
+CAM1657,Campaign About,CUST00016,Push Notification,Opened,Not Converted
+CAM1658,Campaign Activity,CUST02340,SMS,Clicked,Not Converted
+CAM1659,Campaign Drop,CUST08583,Push Notification,Clicked,Not Converted
+CAM1660,Campaign Effect,CUST07423,Social Media,Clicked,Converted
+CAM1661,Campaign Set,CUST07665,Push Notification,Opened,Not Converted
+CAM1662,Campaign More,CUST09244,SMS,Clicked,Converted
+CAM1663,Campaign Bring,CUST08617,Email,Ignored,Converted
+CAM1664,Campaign Out,CUST02142,Email,Opened,Converted
+CAM1665,Campaign Main,CUST09722,Push Notification,Ignored,Converted
+CAM1666,Campaign Scientist,CUST01227,Email,Opened,Converted
+CAM1667,Campaign Charge,CUST07233,SMS,Ignored,Not Converted
+CAM1668,Campaign Particular,CUST01869,Social Media,Opened,Converted
+CAM1669,Campaign Performance,CUST00922,Push Notification,Ignored,Converted
+CAM1670,Campaign Response,CUST06878,SMS,Opened,Converted
+CAM1671,Campaign Car,CUST07962,Email,Clicked,Not Converted
+CAM1672,Campaign Myself,CUST05595,Social Media,Opened,Converted
+CAM1673,Campaign This,CUST07474,Email,Ignored,Not Converted
+CAM1674,Campaign Win,CUST01733,SMS,Opened,Not Converted
+CAM1675,Campaign Good,CUST05686,Social Media,Ignored,Not Converted
+CAM1676,Campaign Dog,CUST08350,Email,Opened,Not Converted
+CAM1677,Campaign First,CUST07318,SMS,Clicked,Converted
+CAM1678,Campaign Thank,CUST03332,SMS,Ignored,Converted
+CAM1679,Campaign The,CUST00562,Push Notification,Ignored,Converted
+CAM1680,Campaign Sign,CUST07558,Push Notification,Clicked,Not Converted
+CAM1681,Campaign Artist,CUST01166,Email,Ignored,Converted
+CAM1682,Campaign Material,CUST09945,Email,Opened,Converted
+CAM1683,Campaign Argue,CUST05990,SMS,Opened,Not Converted
+CAM1684,Campaign Very,CUST01858,Social Media,Opened,Not Converted
+CAM1685,Campaign Condition,CUST02729,Email,Opened,Not Converted
+CAM1686,Campaign Enter,CUST03619,Social Media,Ignored,Not Converted
+CAM1687,Campaign Glass,CUST03682,Push Notification,Ignored,Not Converted
+CAM1688,Campaign Hand,CUST01879,Social Media,Clicked,Converted
+CAM1689,Campaign Feeling,CUST01833,Email,Clicked,Converted
+CAM1690,Campaign Method,CUST01724,SMS,Ignored,Converted
+CAM1691,Campaign Cover,CUST04850,Email,Clicked,Converted
+CAM1692,Campaign Painting,CUST08025,Push Notification,Opened,Converted
+CAM1693,Campaign Natural,CUST06102,Email,Clicked,Converted
+CAM1694,Campaign Order,CUST06755,Push Notification,Opened,Converted
+CAM1695,Campaign Value,CUST01332,SMS,Opened,Converted
+CAM1696,Campaign Finally,CUST07720,Social Media,Clicked,Not Converted
+CAM1697,Campaign Notice,CUST02230,Push Notification,Clicked,Not Converted
+CAM1698,Campaign Water,CUST09879,Push Notification,Clicked,Converted
+CAM1699,Campaign Fine,CUST00478,Social Media,Ignored,Not Converted
+CAM1700,Campaign Out,CUST01779,Email,Opened,Converted
+CAM1701,Campaign Might,CUST04202,Social Media,Clicked,Converted
+CAM1702,Campaign Leader,CUST08149,Social Media,Clicked,Not Converted
+CAM1703,Campaign Season,CUST03093,Email,Clicked,Converted
+CAM1704,Campaign Own,CUST06639,Social Media,Opened,Converted
+CAM1705,Campaign Focus,CUST03757,SMS,Opened,Converted
+CAM1706,Campaign More,CUST02497,SMS,Ignored,Not Converted
+CAM1707,Campaign Ground,CUST08579,Social Media,Opened,Converted
+CAM1708,Campaign Everything,CUST03768,Push Notification,Opened,Converted
+CAM1709,Campaign Follow,CUST07461,SMS,Clicked,Not Converted
+CAM1710,Campaign Where,CUST09802,Email,Ignored,Converted
+CAM1711,Campaign Subject,CUST08999,Push Notification,Ignored,Not Converted
+CAM1712,Campaign Build,CUST03475,Email,Ignored,Converted
+CAM1713,Campaign Yard,CUST08457,Social Media,Opened,Converted
+CAM1714,Campaign Current,CUST04735,Push Notification,Opened,Not Converted
+CAM1715,Campaign Learn,CUST00824,Email,Opened,Not Converted
+CAM1716,Campaign Everyone,CUST06182,Push Notification,Clicked,Converted
+CAM1717,Campaign Drive,CUST04344,SMS,Clicked,Converted
+CAM1718,Campaign Democratic,CUST07706,SMS,Opened,Converted
+CAM1719,Campaign Surface,CUST08939,Social Media,Ignored,Converted
+CAM1720,Campaign Describe,CUST08899,Email,Ignored,Not Converted
+CAM1721,Campaign Impact,CUST03138,SMS,Opened,Converted
+CAM1722,Campaign And,CUST06741,Email,Opened,Not Converted
+CAM1723,Campaign Least,CUST00453,Push Notification,Clicked,Not Converted
+CAM1724,Campaign Resource,CUST06286,Push Notification,Ignored,Converted
+CAM1725,Campaign Theory,CUST01955,Email,Ignored,Converted
+CAM1726,Campaign Year,CUST06258,SMS,Clicked,Converted
+CAM1727,Campaign Worker,CUST00716,Social Media,Ignored,Converted
+CAM1728,Campaign Base,CUST09011,Push Notification,Opened,Converted
+CAM1729,Campaign Project,CUST00841,Social Media,Ignored,Converted
+CAM1730,Campaign Fill,CUST09681,SMS,Opened,Converted
+CAM1731,Campaign Tax,CUST09566,SMS,Clicked,Not Converted
+CAM1732,Campaign Blue,CUST04233,SMS,Clicked,Converted
+CAM1733,Campaign Worker,CUST01304,Push Notification,Ignored,Not Converted
+CAM1734,Campaign Police,CUST04196,Social Media,Ignored,Not Converted
+CAM1735,Campaign Rich,CUST08991,Email,Ignored,Not Converted
+CAM1736,Campaign Late,CUST06369,Email,Ignored,Converted
+CAM1737,Campaign Case,CUST01884,Social Media,Clicked,Not Converted
+CAM1738,Campaign Court,CUST07619,Email,Opened,Not Converted
+CAM1739,Campaign Choose,CUST01462,Email,Clicked,Not Converted
+CAM1740,Campaign Each,CUST04232,Social Media,Ignored,Not Converted
+CAM1741,Campaign With,CUST09283,Email,Ignored,Converted
+CAM1742,Campaign Article,CUST00064,Push Notification,Opened,Converted
+CAM1743,Campaign Remember,CUST06634,Email,Opened,Not Converted
+CAM1744,Campaign Case,CUST08146,SMS,Ignored,Converted
+CAM1745,Campaign Something,CUST09355,Push Notification,Ignored,Not Converted
+CAM1746,Campaign Speak,CUST05221,Push Notification,Ignored,Converted
+CAM1747,Campaign Hand,CUST04141,SMS,Clicked,Not Converted
+CAM1748,Campaign Agreement,CUST02738,Push Notification,Clicked,Converted
+CAM1749,Campaign Result,CUST00971,Social Media,Clicked,Not Converted
+CAM1750,Campaign Billion,CUST01857,SMS,Clicked,Not Converted
+CAM1751,Campaign Statement,CUST04947,Social Media,Ignored,Not Converted
+CAM1752,Campaign State,CUST08574,Push Notification,Ignored,Converted
+CAM1753,Campaign Hospital,CUST02486,SMS,Clicked,Converted
+CAM1754,Campaign Eight,CUST03289,SMS,Opened,Not Converted
+CAM1755,Campaign Spring,CUST08342,Email,Opened,Converted
+CAM1756,Campaign Suffer,CUST08627,Social Media,Opened,Converted
+CAM1757,Campaign About,CUST08735,Email,Opened,Not Converted
+CAM1758,Campaign Miss,CUST01570,Push Notification,Clicked,Not Converted
+CAM1759,Campaign Turn,CUST01524,Social Media,Opened,Converted
+CAM1760,Campaign Case,CUST09225,Email,Clicked,Not Converted
+CAM1761,Campaign Recognize,CUST02281,Email,Ignored,Converted
+CAM1762,Campaign Article,CUST07458,Social Media,Opened,Not Converted
+CAM1763,Campaign Happy,CUST02941,Push Notification,Opened,Not Converted
+CAM1764,Campaign Cup,CUST07820,SMS,Opened,Converted
+CAM1765,Campaign Take,CUST00754,Push Notification,Clicked,Converted
+CAM1766,Campaign Budget,CUST07170,Email,Ignored,Converted
+CAM1767,Campaign Since,CUST05721,Social Media,Ignored,Converted
+CAM1768,Campaign Popular,CUST05654,SMS,Opened,Not Converted
+CAM1769,Campaign Piece,CUST06434,Social Media,Opened,Not Converted
+CAM1770,Campaign Get,CUST05658,Social Media,Clicked,Not Converted
+CAM1771,Campaign Region,CUST06800,Social Media,Clicked,Converted
+CAM1772,Campaign Happy,CUST04575,Email,Opened,Not Converted
+CAM1773,Campaign Hold,CUST07345,Social Media,Ignored,Converted
+CAM1774,Campaign Home,CUST09864,Social Media,Opened,Not Converted
+CAM1775,Campaign Present,CUST03471,Push Notification,Opened,Not Converted
+CAM1776,Campaign Analysis,CUST08504,Email,Clicked,Not Converted
+CAM1777,Campaign Economy,CUST00140,SMS,Clicked,Not Converted
+CAM1778,Campaign Throughout,CUST07148,Push Notification,Opened,Not Converted
+CAM1779,Campaign Reality,CUST03007,Social Media,Ignored,Converted
+CAM1780,Campaign Hot,CUST06869,SMS,Clicked,Not Converted
+CAM1781,Campaign Eye,CUST06583,Email,Opened,Converted
+CAM1782,Campaign Industry,CUST08384,Social Media,Opened,Converted
+CAM1783,Campaign Make,CUST02713,SMS,Clicked,Not Converted
+CAM1784,Campaign Total,CUST01114,Social Media,Ignored,Not Converted
+CAM1785,Campaign School,CUST01865,Email,Opened,Not Converted
+CAM1786,Campaign Draw,CUST01566,SMS,Ignored,Converted
+CAM1787,Campaign Machine,CUST06629,SMS,Clicked,Converted
+CAM1788,Campaign Else,CUST08214,SMS,Ignored,Not Converted
+CAM1789,Campaign Require,CUST08166,Social Media,Ignored,Converted
+CAM1790,Campaign Seat,CUST07438,Email,Opened,Not Converted
+CAM1791,Campaign Sort,CUST03072,SMS,Ignored,Not Converted
+CAM1792,Campaign National,CUST09262,Social Media,Opened,Converted
+CAM1793,Campaign Forward,CUST09422,SMS,Opened,Not Converted
+CAM1794,Campaign Institution,CUST02923,SMS,Clicked,Converted
+CAM1795,Campaign Difference,CUST00431,SMS,Clicked,Not Converted
+CAM1796,Campaign Best,CUST09026,Social Media,Clicked,Converted
+CAM1797,Campaign Remember,CUST00452,Push Notification,Ignored,Not Converted
+CAM1798,Campaign Floor,CUST00998,Email,Clicked,Converted
+CAM1799,Campaign Evening,CUST05340,Email,Ignored,Not Converted
+CAM1800,Campaign School,CUST06687,SMS,Clicked,Not Converted
+CAM1801,Campaign Standard,CUST01790,Push Notification,Clicked,Converted
+CAM1802,Campaign That,CUST02299,Social Media,Clicked,Not Converted
+CAM1803,Campaign Personal,CUST05877,Push Notification,Ignored,Converted
+CAM1804,Campaign Side,CUST00076,Social Media,Clicked,Not Converted
+CAM1805,Campaign Site,CUST07938,SMS,Opened,Converted
+CAM1806,Campaign Since,CUST05176,SMS,Clicked,Not Converted
+CAM1807,Campaign Event,CUST02680,SMS,Opened,Not Converted
+CAM1808,Campaign Senior,CUST04504,Email,Clicked,Not Converted
+CAM1809,Campaign Technology,CUST03274,SMS,Opened,Not Converted
+CAM1810,Campaign Quite,CUST06406,Social Media,Opened,Not Converted
+CAM1811,Campaign Suddenly,CUST04866,Push Notification,Ignored,Converted
+CAM1812,Campaign Record,CUST04940,Social Media,Ignored,Converted
+CAM1813,Campaign Condition,CUST09952,Social Media,Clicked,Converted
+CAM1814,Campaign Provide,CUST07719,Email,Opened,Not Converted
+CAM1815,Campaign Positive,CUST01125,SMS,Clicked,Not Converted
+CAM1816,Campaign Magazine,CUST09064,SMS,Clicked,Converted
+CAM1817,Campaign The,CUST07810,SMS,Ignored,Not Converted
+CAM1818,Campaign Number,CUST05974,Push Notification,Ignored,Converted
+CAM1819,Campaign Man,CUST01807,Email,Ignored,Converted
+CAM1820,Campaign Practice,CUST01802,Email,Opened,Not Converted
+CAM1821,Campaign Bag,CUST09399,SMS,Opened,Not Converted
+CAM1822,Campaign Value,CUST07443,Push Notification,Opened,Converted
+CAM1823,Campaign Them,CUST05397,Social Media,Opened,Converted
+CAM1824,Campaign Mind,CUST06055,Email,Clicked,Not Converted
+CAM1825,Campaign Choose,CUST04273,Push Notification,Clicked,Not Converted
+CAM1826,Campaign Name,CUST09956,SMS,Ignored,Not Converted
+CAM1827,Campaign Language,CUST04753,SMS,Clicked,Not Converted
+CAM1828,Campaign Offer,CUST02909,Email,Clicked,Not Converted
+CAM1829,Campaign One,CUST03797,Social Media,Clicked,Converted
+CAM1830,Campaign To,CUST07951,Push Notification,Clicked,Converted
+CAM1831,Campaign Sister,CUST09175,SMS,Opened,Converted
+CAM1832,Campaign Money,CUST05091,Email,Opened,Converted
+CAM1833,Campaign Really,CUST04591,Social Media,Opened,Not Converted
+CAM1834,Campaign Either,CUST00877,Email,Clicked,Not Converted
+CAM1835,Campaign Reduce,CUST04094,Push Notification,Clicked,Not Converted
+CAM1836,Campaign Notice,CUST09268,Social Media,Ignored,Converted
+CAM1837,Campaign Far,CUST07038,Push Notification,Ignored,Not Converted
+CAM1838,Campaign Air,CUST08747,Social Media,Ignored,Not Converted
+CAM1839,Campaign Strong,CUST08819,Push Notification,Clicked,Converted
+CAM1840,Campaign Top,CUST02746,Social Media,Ignored,Not Converted
+CAM1841,Campaign Wide,CUST09514,Push Notification,Clicked,Not Converted
+CAM1842,Campaign Since,CUST01365,SMS,Opened,Not Converted
+CAM1843,Campaign To,CUST06259,Email,Ignored,Not Converted
+CAM1844,Campaign Brother,CUST03202,Push Notification,Opened,Converted
+CAM1845,Campaign National,CUST06108,SMS,Clicked,Not Converted
+CAM1846,Campaign Trip,CUST07319,SMS,Clicked,Converted
+CAM1847,Campaign Perform,CUST03391,SMS,Clicked,Not Converted
+CAM1848,Campaign Market,CUST05296,Email,Opened,Converted
+CAM1849,Campaign More,CUST07120,Email,Opened,Converted
+CAM1850,Campaign Lot,CUST01697,Social Media,Clicked,Converted
+CAM1851,Campaign Work,CUST03374,Email,Clicked,Not Converted
+CAM1852,Campaign Fill,CUST02819,Email,Opened,Converted
+CAM1853,Campaign See,CUST02941,Social Media,Opened,Converted
+CAM1854,Campaign Partner,CUST03735,Social Media,Opened,Converted
+CAM1855,Campaign Catch,CUST05618,SMS,Clicked,Not Converted
+CAM1856,Campaign People,CUST02236,Social Media,Ignored,Converted
+CAM1857,Campaign Southern,CUST05148,Push Notification,Ignored,Converted
+CAM1858,Campaign Near,CUST07334,Social Media,Clicked,Not Converted
+CAM1859,Campaign Shake,CUST07613,SMS,Ignored,Not Converted
+CAM1860,Campaign Fear,CUST02741,SMS,Clicked,Converted
+CAM1861,Campaign Not,CUST04087,Social Media,Clicked,Not Converted
+CAM1862,Campaign Bit,CUST05532,Email,Clicked,Converted
+CAM1863,Campaign Woman,CUST08690,Push Notification,Clicked,Converted
+CAM1864,Campaign Speak,CUST06343,Email,Opened,Not Converted
+CAM1865,Campaign Choice,CUST05379,Social Media,Clicked,Not Converted
+CAM1866,Campaign Throughout,CUST09038,Social Media,Clicked,Converted
+CAM1867,Campaign Politics,CUST08886,SMS,Clicked,Not Converted
+CAM1868,Campaign Let,CUST01394,SMS,Clicked,Converted
+CAM1869,Campaign Main,CUST02040,Push Notification,Ignored,Converted
+CAM1870,Campaign Strong,CUST07872,Social Media,Clicked,Converted
+CAM1871,Campaign Agency,CUST09218,Push Notification,Clicked,Converted
+CAM1872,Campaign Tv,CUST09288,SMS,Ignored,Converted
+CAM1873,Campaign Professor,CUST04797,SMS,Opened,Converted
+CAM1874,Campaign Audience,CUST01441,Email,Opened,Converted
+CAM1875,Campaign Position,CUST02088,Push Notification,Ignored,Converted
+CAM1876,Campaign Pm,CUST00191,Push Notification,Opened,Converted
+CAM1877,Campaign College,CUST00617,Email,Ignored,Converted
+CAM1878,Campaign Show,CUST02627,SMS,Opened,Converted
+CAM1879,Campaign Institution,CUST06855,Social Media,Clicked,Not Converted
+CAM1880,Campaign Office,CUST05269,Push Notification,Opened,Not Converted
+CAM1881,Campaign Institution,CUST06091,Email,Opened,Converted
+CAM1882,Campaign Great,CUST02085,Social Media,Clicked,Not Converted
+CAM1883,Campaign Five,CUST02045,Email,Clicked,Converted
+CAM1884,Campaign Laugh,CUST07285,SMS,Opened,Not Converted
+CAM1885,Campaign Hand,CUST05685,Push Notification,Clicked,Converted
+CAM1886,Campaign Control,CUST06773,Email,Ignored,Not Converted
+CAM1887,Campaign She,CUST07790,Push Notification,Opened,Converted
+CAM1888,Campaign Control,CUST00113,Email,Ignored,Converted
+CAM1889,Campaign Green,CUST06851,Push Notification,Ignored,Converted
+CAM1890,Campaign Blood,CUST05651,Social Media,Clicked,Converted
+CAM1891,Campaign Moment,CUST08814,Email,Ignored,Not Converted
+CAM1892,Campaign Indicate,CUST02500,SMS,Ignored,Not Converted
+CAM1893,Campaign We,CUST07459,Email,Clicked,Not Converted
+CAM1894,Campaign Life,CUST08369,SMS,Clicked,Converted
+CAM1895,Campaign Now,CUST00070,SMS,Clicked,Converted
+CAM1896,Campaign Instead,CUST00420,Push Notification,Ignored,Converted
+CAM1897,Campaign Able,CUST06384,SMS,Opened,Converted
+CAM1898,Campaign That,CUST05837,SMS,Ignored,Not Converted
+CAM1899,Campaign Whom,CUST09359,Social Media,Opened,Converted
+CAM1900,Campaign Learn,CUST05684,SMS,Ignored,Converted
+CAM1901,Campaign Hope,CUST00224,SMS,Opened,Not Converted
+CAM1902,Campaign Continue,CUST01344,Push Notification,Opened,Not Converted
+CAM1903,Campaign Success,CUST05845,Email,Ignored,Not Converted
+CAM1904,Campaign Agree,CUST07500,SMS,Clicked,Not Converted
+CAM1905,Campaign Sense,CUST04708,Email,Opened,Not Converted
+CAM1906,Campaign Job,CUST05544,Social Media,Opened,Converted
+CAM1907,Campaign Wife,CUST07984,Push Notification,Ignored,Not Converted
+CAM1908,Campaign After,CUST05447,Email,Opened,Converted
+CAM1909,Campaign Fish,CUST05990,Social Media,Opened,Converted
+CAM1910,Campaign Compare,CUST08291,Push Notification,Ignored,Converted
+CAM1911,Campaign Entire,CUST04422,Push Notification,Ignored,Not Converted
+CAM1912,Campaign Street,CUST05958,Social Media,Ignored,Converted
+CAM1913,Campaign Allow,CUST00027,SMS,Ignored,Converted
+CAM1914,Campaign Herself,CUST02955,Social Media,Ignored,Not Converted
+CAM1915,Campaign Day,CUST00392,Email,Clicked,Not Converted
+CAM1916,Campaign First,CUST03492,SMS,Clicked,Not Converted
+CAM1917,Campaign Mean,CUST00483,Push Notification,Ignored,Not Converted
+CAM1918,Campaign With,CUST03933,Social Media,Ignored,Converted
+CAM1919,Campaign Military,CUST02047,SMS,Opened,Converted
+CAM1920,Campaign Anything,CUST02648,Social Media,Ignored,Converted
+CAM1921,Campaign Property,CUST08508,Email,Ignored,Not Converted
+CAM1922,Campaign Task,CUST07211,Email,Ignored,Converted
+CAM1923,Campaign Never,CUST05304,Email,Ignored,Not Converted
+CAM1924,Campaign Ok,CUST09937,Social Media,Ignored,Not Converted
+CAM1925,Campaign Spend,CUST09163,Push Notification,Clicked,Converted
+CAM1926,Campaign Win,CUST03336,SMS,Opened,Not Converted
+CAM1927,Campaign Individual,CUST07791,SMS,Opened,Not Converted
+CAM1928,Campaign Understand,CUST03264,Push Notification,Clicked,Converted
+CAM1929,Campaign Different,CUST01907,Email,Ignored,Not Converted
+CAM1930,Campaign Number,CUST07644,Email,Opened,Not Converted
+CAM1931,Campaign Send,CUST07825,Push Notification,Opened,Not Converted
+CAM1932,Campaign Science,CUST06426,Social Media,Opened,Not Converted
+CAM1933,Campaign Role,CUST01481,SMS,Opened,Not Converted
+CAM1934,Campaign Best,CUST04178,SMS,Opened,Not Converted
+CAM1935,Campaign Argue,CUST03037,Email,Clicked,Converted
+CAM1936,Campaign Either,CUST05072,Push Notification,Opened,Converted
+CAM1937,Campaign Special,CUST02206,Email,Ignored,Not Converted
+CAM1938,Campaign Some,CUST01544,SMS,Opened,Converted
+CAM1939,Campaign Fire,CUST08163,Social Media,Ignored,Not Converted
+CAM1940,Campaign Toward,CUST09926,SMS,Ignored,Converted
+CAM1941,Campaign Identify,CUST05512,Social Media,Opened,Converted
+CAM1942,Campaign Provide,CUST02314,Push Notification,Ignored,Converted
+CAM1943,Campaign Girl,CUST05683,Push Notification,Opened,Converted
+CAM1944,Campaign Able,CUST04942,Push Notification,Clicked,Not Converted
+CAM1945,Campaign Reflect,CUST09227,SMS,Ignored,Not Converted
+CAM1946,Campaign Short,CUST08836,SMS,Clicked,Converted
+CAM1947,Campaign Alone,CUST06345,SMS,Clicked,Converted
+CAM1948,Campaign Just,CUST09661,SMS,Opened,Converted
+CAM1949,Campaign System,CUST00681,Push Notification,Ignored,Converted
+CAM1950,Campaign Various,CUST03927,Social Media,Opened,Converted
+CAM1951,Campaign Both,CUST05041,SMS,Opened,Not Converted
+CAM1952,Campaign Pay,CUST02221,Push Notification,Clicked,Converted
+CAM1953,Campaign Continue,CUST00246,Push Notification,Clicked,Not Converted
+CAM1954,Campaign Back,CUST03784,Email,Clicked,Converted
+CAM1955,Campaign Three,CUST06414,Push Notification,Ignored,Converted
+CAM1956,Campaign Certain,CUST01269,Social Media,Opened,Not Converted
+CAM1957,Campaign Shake,CUST09013,Push Notification,Clicked,Converted
+CAM1958,Campaign Write,CUST09659,Push Notification,Ignored,Not Converted
+CAM1959,Campaign Article,CUST04065,Push Notification,Ignored,Converted
+CAM1960,Campaign Always,CUST00410,SMS,Opened,Not Converted
+CAM1961,Campaign Mr,CUST06036,SMS,Ignored,Not Converted
+CAM1962,Campaign Fear,CUST01233,Push Notification,Clicked,Converted
+CAM1963,Campaign Research,CUST03225,Push Notification,Opened,Converted
+CAM1964,Campaign Oil,CUST04498,Push Notification,Ignored,Converted
+CAM1965,Campaign Manager,CUST02516,Push Notification,Ignored,Not Converted
+CAM1966,Campaign Blood,CUST09019,Email,Clicked,Not Converted
+CAM1967,Campaign Likely,CUST04391,SMS,Clicked,Converted
+CAM1968,Campaign One,CUST09617,Social Media,Clicked,Converted
+CAM1969,Campaign While,CUST08071,Social Media,Opened,Converted
+CAM1970,Campaign Fund,CUST04361,SMS,Clicked,Converted
+CAM1971,Campaign Allow,CUST01350,Email,Clicked,Converted
+CAM1972,Campaign Among,CUST02879,Email,Clicked,Converted
+CAM1973,Campaign Fine,CUST08301,SMS,Clicked,Not Converted
+CAM1974,Campaign Data,CUST05068,Push Notification,Ignored,Converted
+CAM1975,Campaign Explain,CUST09377,Push Notification,Ignored,Not Converted
+CAM1976,Campaign Newspaper,CUST03785,Push Notification,Clicked,Not Converted
+CAM1977,Campaign Ground,CUST05212,Email,Clicked,Not Converted
+CAM1978,Campaign Within,CUST09607,Push Notification,Ignored,Not Converted
+CAM1979,Campaign More,CUST08169,SMS,Ignored,Converted
+CAM1980,Campaign Not,CUST00995,Push Notification,Clicked,Not Converted
+CAM1981,Campaign Crime,CUST02844,SMS,Opened,Converted
+CAM1982,Campaign Doctor,CUST04297,Social Media,Ignored,Converted
+CAM1983,Campaign Yeah,CUST09138,Social Media,Opened,Converted
+CAM1984,Campaign Crime,CUST05482,Social Media,Ignored,Converted
+CAM1985,Campaign Perhaps,CUST06045,SMS,Clicked,Not Converted
+CAM1986,Campaign Approach,CUST06896,Social Media,Ignored,Converted
+CAM1987,Campaign Meet,CUST01821,SMS,Opened,Converted
+CAM1988,Campaign Film,CUST06272,SMS,Opened,Converted
+CAM1989,Campaign Senior,CUST07598,Push Notification,Clicked,Not Converted
+CAM1990,Campaign Door,CUST08999,Email,Ignored,Converted
+CAM1991,Campaign Behavior,CUST02817,Social Media,Ignored,Not Converted
+CAM1992,Campaign State,CUST03904,SMS,Ignored,Converted
+CAM1993,Campaign Same,CUST04398,Push Notification,Clicked,Converted
+CAM1994,Campaign Tough,CUST03406,Social Media,Ignored,Not Converted
+CAM1995,Campaign Perform,CUST07806,Push Notification,Opened,Converted
+CAM1996,Campaign Top,CUST04767,SMS,Ignored,Not Converted
+CAM1997,Campaign Second,CUST03955,Social Media,Ignored,Not Converted
+CAM1998,Campaign Candidate,CUST01605,Email,Ignored,Converted
+CAM1999,Campaign Everything,CUST08168,Email,Clicked,Converted
